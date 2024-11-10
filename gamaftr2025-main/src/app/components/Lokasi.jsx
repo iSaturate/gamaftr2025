@@ -7,7 +7,7 @@ const Lokasi = () => {
     <div className="flex justify-center">
     <div className="sm:border-[3px] sm:shadow-[0px_0px_20px_#FFC100] sm:bg-red-400 sm:shadow-space2 sm:border-space2 sm:rounded-full  relative z-40 md:-translate-y-[100px] lg:-translate-y-[200px] max-w-[1280px]">
     <div className="absolute z-40 right-[0%] bottom-[0%] -translate-x-1/2 sm:hidden translate-y-1/2">
-            <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/batu%20angkasa.PNG?raw=true" alt="" className="" /> </div>
+            <img loading="lazy" src="https://raw.githubusercontent.com/iSaturate/gamaftrfoto/main/gamaftrfoto/Gamaft/Logo_Institut_Teknologi_Bandung.png?raw=true" alt="" className="" /> </div>
             <div className="absolute z-40 left-[0%] bottom-[0%] translate-x-1/3 sm:hidden translate-y-1/2">
             <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Group%2050.png?raw=true" alt="" className="" /> </div>
 
