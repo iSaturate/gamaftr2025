@@ -30,7 +30,7 @@ const Sponsor = () => {
                     <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/sponsor/Tupperware%20-%20Riau%20Cahaya-PhotoRoom.png?raw=true" alt="" className="" />
                 </div>
                 <div className=" max-w-[120px] md:max-w-[220px] p-[5%]">
-                    <img loading="lazy" src="https://raw.githubusercontent.com/iSaturate/gamaftrfoto/main/gamaftrfoto/Gamaft/Logo_Institut_Teknologi_Bandung.png" alt="" className="" />
+                    <img src="https://raw.githubusercontent.com/iSaturate/gamaftrfoto/main/gamaftrfoto/Gamaft/Logo_Institut_Teknologi_Bandung.png" alt="" className="" />
                 </div>
                 <div className=" max-w-[120px] md:max-w-[220px] p-[5%]">
                     <img src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/resize/WhatsApp%20Image%202024-01-09%20at%2012.58.11%20(1).jpeg?raw=true" alt="" className="w-24" />
