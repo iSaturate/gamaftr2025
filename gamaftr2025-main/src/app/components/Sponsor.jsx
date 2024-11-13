@@ -21,7 +21,7 @@ const Sponsor = () => {
                 <div className="border-2 border-red-600 bg-space2 rounded-2xl mt-[30px]">
                 <div className="flex flex-wrap items-center justify-center  gap-[24px]  bg-white/40 rounded ">
                 <div className=" max-w-[190px] md:max-w-[350px] p-[5%] pb-0">
-                    <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/sponsor/Logo%20Ruangguru.png?raw=true" alt="" className="" />
+                    <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Gamaft/Logo_Institut_Teknologi_Bandung.png?raw=true" alt="" className="" />
                 </div>
                 <div className=" max-w-[190px] md:max-w-[350px] p-[5%] pb-0">
                     <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/media%20partner/download.png?raw=true" alt="" className="" />
