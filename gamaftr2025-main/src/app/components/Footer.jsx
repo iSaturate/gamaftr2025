@@ -8,9 +8,9 @@ const Footer = () => {
             <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/405044-PDIA9G-992%201.png?raw=true" alt="" className="" /> </div>
     <footer className="flex p-2 md:items-center sm:justify-between gap-[10px] md:gap-[40px] md:p-10 md:rounded-full shadow-2xl footer bg-space2/70 text-space1 shadow-red-700 md:scale-100 md:px-36 relative z-40">
   <aside className='flex'>
-  <img loading="lazy" src="gamaftr2025-main/public/Logo_Institut_Teknologi_Bandung.png" alt="" className="max-w-[60px] md:max-w-[150px] md:pl-4 pl-1 ml-3" />
-    <p className='hidden text-sm font-extrabold text-gray-800 lg:block md:pt-7 lg:text-lg font-spacegrotesk'>Gadjah Mada <br className='text-sm'/>Flies To Riau 2024<br />AAAAAAAAAA </p>
-    <p className='block text-[10px] font-extrabold text-gray-800 lg:hidden md:pt-7 lg:text-lg font-spacegrotesk pt-5'>©AAAAAAAAAAAAAAAAAAAAAAAA </p>
+  <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/resize/logo%20rev%20pake%20yg%20ini%20aja%20(1)%20(1).png?raw=true" alt="" className="max-w-[60px] md:max-w-[150px] md:pl-4 pl-1 ml-3" />
+    <p className='hidden text-sm font-extrabold text-gray-800 lg:block md:pt-7 lg:text-lg font-spacegrotesk'>Gadjah Mada <br className='text-sm'/>Flies To Riau 2024<br />©IT GAMAFTR </p>
+    <p className='block text-[10px] font-extrabold text-gray-800 lg:hidden md:pt-7 lg:text-lg font-spacegrotesk pt-5'>©IT GAMAFTR </p>
   </aside> 
   <nav className=''>
     <div className="flex gap-6 scale-50 md:translate-y-0 md:grid md:grid-flow-col md:gap-6 md:scale-100">
