@@ -1,5 +1,4 @@
 /** @type {import('tailwindcss').Config} */
-const flattenColorPalette = require('tailwindcss/src/util/flattenColorPalette')
 const plugin = require('tailwindcss/plugin')
 const textBorder = plugin(
   function ({ matchUtilities, theme, config, e }) {
@@ -19,7 +18,7 @@ const textBorder = plugin(
         }),
       },
       {
-        values: flattenColorPalette(theme('colors')),
+        values: Object.entries(theme('colors')),
         type: ['color', 'any'],
       }
     )
