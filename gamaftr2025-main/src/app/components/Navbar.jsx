@@ -15,7 +15,7 @@ const Navbar = () => {
           <div className="flex space-x-4">
             <div className=''>
               <a href="#info1" className="flex items-center px-2 py-2 text-xl text-space2 hover:text-gray-900">
-                <img src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/resize/logo%20rev%20pake%20yg%20ini%20aja%20(1)%20(1).png?raw=true" alt="" className="max-w-[70px] " />
+                <img src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Gamaft/logogamaftr2025%20(2).png?raw=true" alt="" className="max-w-[70px] " />
                 
               </a>
             </div>
