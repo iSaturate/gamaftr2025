@@ -31,7 +31,7 @@ const Ticket = () => {
         <div className=" lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
             <h1 className="  md:mb-0 lg:mb-0 font-bold  xl:mb-4 text-[13px] md:text-[13px] sm:text-[8px] sm:mb-0  lg:text-2xl">Pekanbaru</h1>
             <ul>
-                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Hari, tanggal:</strong> Sabtu & Minggu, 20 - 21 Januari 2024</li>
+                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Hari, tanggal:</strong> Sabtu & Minggu, 18 & 19 Januari 2025</li>
                 <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Waktu pelaksanaan:</strong> 07.30 - Selesai</li>
                 <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Lokasi:</strong> MAN 2 Pekanbaru </li>
             </ul>
@@ -40,7 +40,7 @@ const Ticket = () => {
         <div className="lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
             <h1 className=" font-bold sm:mb-0 md:mb-0 lg:mb-0 xl:mb-4 text-[13px] md:text-[13px]  lg:text-2xl sm:text-[8px]">Duri</h1>
             <ul>
-                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Hari, tanggal:</strong> Sabtu, 21 Januari 2024</li>
+                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Hari, tanggal:</strong> Sabtu, 18 Januari 2025</li>
                 <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Waktu pelaksanaan:</strong> 07.30 - Selesai</li>
                 <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Lokasi:</strong> SMA Negeri 2 Mandau</li>
             </ul>
@@ -49,7 +49,7 @@ const Ticket = () => {
         <div className=" lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
             <h1 className=" font-bold sm:mb-0 md:mb-0 sm:text-[8px] lg:mb-0 xl:mb-4 text-[13px] md:text-[13px]  lg:text-2xl">Dumai</h1>
             <ul>
-                <l className="text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px] " ><strong>Hari, tanggal:</strong> Minggu, 20 Januari 2024</l>
+                <l className="text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px] " ><strong>Hari, tanggal:</strong> Minggu, 19 Januari 2025</l>
                 <li className="text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]" ><strong>Waktu pelaksanaan:</strong> 07.30 - Selesai</li>
                 <li className="text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]" ><strong>Lokasi:</strong> SMA Negeri 2 Dumai</li>
             </ul>
