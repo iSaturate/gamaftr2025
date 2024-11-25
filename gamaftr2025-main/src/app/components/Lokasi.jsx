@@ -81,7 +81,7 @@ const Lokasi = () => {
   <figure><img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/resize/IMG_3165-min%20(2)%20(1)%20(1).png?raw=true" alt="Shoes" className='md:max-w-[350px]'  /></figure>
   <div className="card-body">
     <h2 className="font-bold card-title text-space2 font-spacegrotesk">Try Out</h2>
-     <p className='text-xl text-white sm:text-sm md:text-sm'> GAMAFTR 2024 menyediakan wadah bagi siswa/i di Provinsi Riau yang ingin mempersiapkan diri masuk Perguruan Tinggi</p>
+     <p className='text-xl text-white sm:text-sm md:text-sm'> GAMAFTR 2025 menyediakan wadah bagi siswa/i di Provinsi Riau yang ingin mempersiapkan diri masuk Perguruan Tinggi</p>
     <div className="justify-end card-actions">
     <div className="dropdown dropdown-right">
   <div tabIndex={0} role="button" className="border-none btn btn-primary bg-space2 hover:bg-black hover:text-space2 hover:shadow-[0px_0px_20px_#FFC100] text-space1">Lokasi</div>
@@ -95,7 +95,7 @@ const Lokasi = () => {
 <dialog id="my_modal_3" className="modal">
   <div className="modal-box">
     <h3 className="md:text-[10px] xl:text-lg font-bold">Try Out</h3>
-    <p className="py-4 w-sm"> GAMAFTR 2024 menyediakan wadah bagi siswa/i di Provinsi Riau yang ingin mempersiapkan diri masuk Perguruan Tinggi serta menguji kemampuannya yang akan didukung oleh platform edukasi terbaik</p>
+    <p className="py-4 w-sm"> GAMAFTR 2025 menyediakan wadah bagi siswa/i di Provinsi Riau yang ingin mempersiapkan diri masuk Perguruan Tinggi serta menguji kemampuannya yang akan didukung oleh platform edukasi terbaik</p>
     <div className="mb-8">
             <h1 className="mb-4 text-3xl font-bold">Event Information</h1>
             <ul className='mb-2'>
@@ -130,7 +130,7 @@ const Lokasi = () => {
   <figure><img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/IMG_20230128_090157.jpg?raw=true" alt="Shoes" className='md:max-w-[350px]' /></figure>
   <div className="card-body">
     <h2 className="font-bold card-title text-space2 font-spacegrotesk">Bedah Kampus</h2>
-     <p className='text-xl text-white sm:text-sm md:text-sm'> Penutupan rangkaian kegiatan GAMAFTR 2024 </p>
+     <p className='text-xl text-white sm:text-sm md:text-sm'> Penutupan rangkaian kegiatan GAMAFTR 2025 </p>
     <div className="justify-end card-actions">
       <a href="https://maps.app.goo.gl/dq43VoFxv9eHoysNA">
       <button className="border-none btn btn-primary bg-space2 hover:bg-black hover:text-space2 hover:shadow-[0px_0px_20px_#FFC100] text-space1">Lokasi</button>
@@ -139,7 +139,7 @@ const Lokasi = () => {
 <dialog id="my_modal_4" className="modal">
   <div className="modal-box">
     <h3 className="md:text-[10px] xl:text-lg font-bold">Bedah Kampus</h3>
-    <p className="py-4">Penutupan rangkaian kegiatan GAMAFTR 2024 yang akan mendatangkan Guest Star serta penampilan dari mahasiswa UGM sebagai puncak acara</p>
+    <p className="py-4">Penutupan rangkaian kegiatan GAMAFTR 2025 yang akan mendatangkan Guest Star serta penampilan dari mahasiswa UGM sebagai puncak acara</p>
     <div className="mb-8">
             <h1 className="mb-4 text-3xl font-bold">Event Information</h1>
             <ul>
