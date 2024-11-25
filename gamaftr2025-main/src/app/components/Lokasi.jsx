@@ -100,17 +100,17 @@ const Lokasi = () => {
             <h1 className="mb-4 text-3xl font-bold">Event Information</h1>
             <ul className='mb-2'>
                 <li><strong>Lokasi:</strong> MAN 2 Pekanbaru</li>
-                <li><strong>Tanggal:</strong> 20-21 Januari 2024</li>
+                <li><strong>Tanggal:</strong>18-19 Januari 2025</li>
                 <li><strong>Waktu:</strong> 07.30 - Selesai</li>
             </ul>
             <ul className='mb-2'>
                 <li><strong>Lokasi:</strong> SMAN 2 Mandau</li>
-                <li><strong>Tanggal:</strong> 21 Januari 2024</li>
+                <li><strong>Tanggal:</strong> 18 Januari 2025</li>
                 <li><strong>Waktu:</strong> 07.30 - Selesai</li>
             </ul>
             <ul className='mb-2'>
                 <li><strong>Lokasi:</strong> SMAN 2 Dumai</li>
-                <li><strong>Tanggal:</strong> 20 Januari 2024</li>
+                <li><strong>Tanggal:</strong> 19 Januari 2025</li>
                 <li><strong>Waktu:</strong> 07.30 - Selesai</li>
             </ul>
         </div>
