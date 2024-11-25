@@ -18,19 +18,19 @@ const Lokasi = () => {
   <figure><img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/resize/B1E05FA5-AF30-4C05-BAAD-43E32A54EC66%20(1)%20(1)%20(1).jpg?raw=true" alt="Shoes" className='md:max-w-[350px]'  /></figure>
   <div className="card-body">
     <h2 className="font-bold card-title text-space2 font-spacegrotesk">Opening</h2>
-     <p className='text-xl text-white sm:text-sm md:text-sm'>Simbolisasi pembukaan rangkaian kegiatan GAMAFTR 2024</p>
+     <p className='text-xl text-white sm:text-sm md:text-sm'>Simbolisasi pembukaan rangkaian kegiatan GAMAFTR 2025</p>
     <div className="justify-end card-actions">
       <button className="border-none btn btn-primary bg-space2 hover:bg-black hover:text-space2 hover:shadow-[0px_0px_20px_#FFC100] text-space1"><a href="https://maps.app.goo.gl/DCNn5CtsmSXnPymQ9?g_st=ic">Lokasi</a></button>
       <button className="border-none bg-blue-950 text-white/70 btn" onClick={()=>document.getElementById('my_modal_1').showModal()}>See All</button>
 <dialog id="my_modal_1" className="modal">
   <div className="modal-box">
     <h3 className="md:text-[10px] xl:text-lg font-bold">Opening</h3>
-    <p className="py-4"> Simbolisasi pembukaan rangkaian kegiatan GAMAFTR 2024 sebagai langkah awal untuk menyapa seluruh siswa/i yang ada di Provinsi Riau</p>
+    <p className="py-4"> Simbolisasi pembukaan rangkaian kegiatan GAMAFTR 2025 sebagai langkah awal untuk menyapa seluruh siswa/i yang ada di Provinsi Riau</p>
     <div className="mb-8">
             <h1 className="mb-4 text-3xl font-bold">Event Information</h1>
             <ul>
                 <li><strong>Lokasi:</strong> Car Free Day, Jl. Sudirman</li>
-                <li><strong>Tanggal:</strong> 7 Januari 2024</li>
+                <li><strong>Tanggal:</strong> 5 Januari 2025</li>
                 <li><strong>Waktu:</strong> 07.00 - 09.00</li>
             </ul>
         </div>
@@ -61,7 +61,7 @@ const Lokasi = () => {
             <h1 className="mb-4 text-3xl font-bold">Event Information</h1>
             <ul>
                 <li><strong>Lokasi:</strong> 45+ SMA/SMK/MA, Online/Offline</li>
-                <li><strong>Tanggal:</strong> 8-19 Januari 2024</li>
+                <li><strong>Tanggal:</strong> 6-17 Januari 2025</li>
                 <li><strong>Waktu:</strong> -</li>
             </ul>
         </div>
@@ -144,7 +144,7 @@ const Lokasi = () => {
             <h1 className="mb-4 text-3xl font-bold">Event Information</h1>
             <ul>
                 <li><strong>Lokasi: Menara Dang Merdu Bank Riau Kepri</strong> </li>
-                <li><strong>Tanggal:</strong> 28 Januari 2024</li>
+                <li><strong>Tanggal:</strong> 25 Januari 2025</li>
                 <li><strong>Waktu:</strong> 07.30 - Selesai</li>
             </ul>
         </div>
