@@ -41,7 +41,7 @@ const Timeline = () => {
               <div className="relative z-40 flex items-center justify-between w-full mb-8 right-timeline">
                 <div className="order-1 w-5/12"></div>
                 <div className="relative z-40 order-1 w-5/12 px-1 py-4">
-                  <p className="mb-3 text-base text-yellow-300 md:text-lg lg:text-2xl md:ml-[60px] lg:mx-7 lg:ml-7">28 Januari 2024</p>
+                  <p className="mb-3 text-base text-yellow-300 md:text-lg lg:text-2xl md:ml-[60px] lg:mx-7 lg:ml-7">25 Januari 2025</p>
                   <h4 className="mb-3 text-lg font-semibold text-left font-spacegrotesk xl:text-6xl md:text-2xl sm:text-lg lg-text-5xl md:ml-[60px] lg:mx-7 ">Bedah Kampus</h4>
                 </div>
               </div>
