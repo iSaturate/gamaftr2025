@@ -15,7 +15,7 @@ const Lokasi = () => {
     <div className="justify-center scale-75 xl:scale-75 sm:scale-[70%]  lg:scale-[60%] md:scale-[45%] md:-translate-y-[50px]  sm:-translate-y-[30px] sm:flex sm:flex-row-2 sm:gap-6 sm:grid-flow-col">
     <div className="md:w-1/2 md:px-8 sm:hidden scale-100 text-7xl font-spacegrotesk font-extrabold text-white rounded-2xl border-[4px] border-space2 bg-red-400 shadow-xl shadow-space2 xl:text-8xl p-4 lg:py-0 xl:p-4 pl-10mr-[180px] relative z-40 text-border-space2 text-center">EVENTS</div>
     <div className="mt-5 transition shadow-xl card card-compact sm:w-1/2 w-50 md:w-70 lg:[50%] xl:[20%] bg-base-100 hover:scale-125 hover:z-40 hover:shadow-lg hover:shadow-space2 object-cover bg-gray-800">
-  <figure><img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/resize/B1E05FA5-AF30-4C05-BAAD-43E32A54EC66%20(1)%20(1)%20(1).jpg?raw=true" alt="Shoes" className='md:max-w-[350px]'  /></figure>
+  <figure><img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/opening.png?raw=true" alt="Shoes" className='md:max-w-[350px]'  /></figure>
   <div className="card-body">
     <h2 className="font-bold card-title text-space2 font-spacegrotesk">Opening</h2>
      <p className='text-xl text-white sm:text-sm md:text-sm'>Simbolisasi pembukaan rangkaian kegiatan GAMAFTR 2025</p>
