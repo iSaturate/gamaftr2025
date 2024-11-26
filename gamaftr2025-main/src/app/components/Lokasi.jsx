@@ -47,7 +47,7 @@ const Lokasi = () => {
 </div>
 {/* roadshow */}
 <div className="mt-5 transition shadow-xl card card-compact sm:w-1/2 w-50 md:w-70 lg:[50%] xl:[20%] bg-base-100 hover:scale-125 hover:z-40 hover:shadow-lg hover:shadow-space2 bg-gray-800">
-  <figure><img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/resize/DSC05718-1%20(1)%20(1)%20(1).jpg?raw=true" alt="Shoes" className='md:max-w-[350px]'  /></figure>
+  <figure><img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/roadshow.png?raw=true" alt="Shoes" className='md:max-w-[350px]'  /></figure>
   <div className="card-body">
     <h2 className="font-bold card-title text-space2 font-spacegrotesk">Roadshow</h2>
      <p className='text-xl text-white sm:text-sm md:text-sm'>Rangkaian sosialisasi ke SMA/SMK/MA</p>
@@ -127,7 +127,7 @@ const Lokasi = () => {
 </div>
 {/* bedah kampus */}
 <div className="mt-5 transition shadow-xl card card-compact sm:w-1/2 w-50 md:w-70 lg:[50%] xl:[20%] bg-base-100 hover:scale-125 hover:z-40 hover:shadow-lg hover:shadow-space2 bg-gray-800">
-  <figure><img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/IMG_20230128_090157.jpg?raw=true" alt="Shoes" className='md:max-w-[350px]' /></figure>
+  <figure><img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/bedahkampus.png?raw=true" alt="Shoes" className='md:max-w-[350px]' /></figure>
   <div className="card-body">
     <h2 className="font-bold card-title text-space2 font-spacegrotesk">Bedah Kampus</h2>
      <p className='text-xl text-white sm:text-sm md:text-sm'> Penutupan rangkaian kegiatan GAMAFTR 2025 </p>
