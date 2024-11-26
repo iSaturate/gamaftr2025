@@ -8,7 +8,7 @@ const CountdownTimer = () => {
     const countdownElement = document.getElementById('countdown');
     
     // Provide date components individually or use a universally recognized format
-    const targetDate = new Date(2024, 0, 28, 7, 30, 0).getTime();
+    const targetDate = new Date(2025, 0, 25, 6, 0, 0).getTime();
   
     function updateCountdown() {
       const currentDate = new Date().getTime();
