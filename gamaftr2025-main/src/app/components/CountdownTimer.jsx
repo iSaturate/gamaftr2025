@@ -63,7 +63,7 @@ const CountdownTimer = () => {
         <div className="flex items-center justify-center w-full text-center text-space1">
           <h1 className="text-3xl font-bold font-montserrat md:px-10 md:text-7xl lg:text-6xl xl:text-7xl text-border-space2">Bedah Kampus</h1>
         </div>
-        <div className="relative z-40 flex items-center justify-center w-full mx-auto  border-[4px] border-space2 bg-space1 relative-20 rounded-2xl shadow-[0px_0px_20px_#FFC100] scale-90">
+        <div className="relative z-40 flex items-center justify-center w-full mx-auto  border-[4px] border-space2 bg-gradient-to-l from-cyan-200 via-blue-300 to-pink-300 relative-20 rounded-2xl shadow-[0px_0px_20px_#FFC100] scale-90">
           <div className="text-5xl font-bold font-spacegrotesk text-space1 font-space md:text-sm md:px-5 md:text-border-red-500"  id="countdown"></div>
         </div>
       </div>
