@@ -10,14 +10,14 @@ const Info = () => {
         </div>
 
         <div className="relative w-full p-4 translate-y-[200px]">
-          <h1 className="relative z-40 text-xl font-bold text-center text-white rounded-2xl bg-space1 md:text-2xl lg:text-4xl xl:text-6xl ">Gadjah Mada Flies To Riau</h1>
-          <p className="relative z-40 leading-relaxed text-justify text-white font-spacegrotesk lg:text-2xl bg-space1">
+          <h1 className="relative z-40 text-xl font-bold text-center text-white rounded-2xl  md:text-2xl lg:text-4xl xl:text-6xl ">Gadjah Mada Flies To Riau</h1>
+          <p className="relative z-40 leading-relaxed text-justify text-white font-spacegrotesk lg:text-2xl ">
           merupakan program kerja tahunan KEMARIGAMA (Keluarga Mahasiswa Riau Gadjah Mada) yang setiap tahunnya sudah mengunjungi lebih dari 50 SMA di Provinsi Riau. GAMAFTR diinsiasikan untuk memperkenalkan Universitas Gadjah Mada kepada siswa dan siswi SMA/sederajat di Provinsi Riau. GAMAFTR terdiri dari beberapa rangkaian acara seperti roadshow, try out, dan acara puncaknya adalah bedah kampus di Pekanbaru.
           </p>
         </div>
       </div>
 
-      <div className="hidden md:flex items-center justify-center h-screen p-4 md:pt-80 bg-[#010b19] mx-auto gap-20 2xl:container about relative">
+      <div className="hidden md:flex items-center justify-center h-screen p-4 md:pt-80  mx-auto gap-20 2xl:container about relative">
         <div className="items-center justify-center w-1/2 px-8 text-white">
           <div className="relative z-40 flex justify-center w-full h-0 overflow-hidden scale-100 rounded-lg aspect-w-16 aspect-h-9" style={{ paddingBottom: '56.25%' }}>
             <iframe
