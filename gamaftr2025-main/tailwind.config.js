@@ -48,7 +48,7 @@ module.exports = {
       },
       colors: {
         space1: '#010b19',
-        space2: '#FFC100',
+        space2: '#205FC9',
       },
       fontFamily: {
         // 👇 Add CSS variables
