@@ -3,7 +3,7 @@ import React from 'react';
 const Info = () => {
   return (
     <div className="w-full lg:pt-10 md:pt-60 xl:pt-60" id='info1'>
-      <div className="md:hidden relative z-40 my-20 bg-[#010b19]/4 ">
+      <div className="md:hidden relative z-40 my-20  ">
         <div className="relative w-full px-4 pt-5 text-center text-white">
           <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/image/planettt-08%201.png?raw=true" alt="Alt Text" className='absolute z-10 -translate-x-10'/>
           <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/image/planettt-08%201.png?raw=true" alt="Alt Text" className='absolute z-10 rotate-180 -translate-y-[400px] sm:translate-x-10 translate-x-3'/>
