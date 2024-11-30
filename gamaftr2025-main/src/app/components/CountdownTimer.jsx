@@ -54,7 +54,7 @@ const CountdownTimer = () => {
    // Empty dependency array ensures the effect runs only once on mount
 
   return (
-    <div className="relative flex items-center justify-center w-ful mx-5 bg-[#010b19] md:h-screen count md:pt-10 timeline lg:px-2 gap-6 xl:ml-5 mb-5 pb-16">
+    <div className="relative flex items-center justify-center w-ful mx-5  md:h-screen count md:pt-10 timeline lg:px-2 gap-6 xl:ml-5 mb-5 pb-16">
       <div className="absolute inset-y-0 left-0 z-40 flex items-center w-2/3 md:w-full rocket xl:mr-3 lg:ml-7">
       <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/image/Property%201=Default.png?raw=true" alt="" className='absolute left-0 z-10 md:translate-x-[400px]  lg:translate-x-[600px] xl:translate-x-[800px] -translate-y-[100px] scale-75' />
         <img  src="https://github.com/SyaidFarhan/Gamaftr/blob/main/image/marsbig.png?raw=true" alt="Logo" className="absolute z-30 left-[-620px] scale-75 mars animate-spiral" /> {/* Add the negative margin */}
