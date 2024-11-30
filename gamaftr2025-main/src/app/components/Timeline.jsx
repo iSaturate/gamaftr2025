@@ -3,7 +3,7 @@ import React from 'react';
 
 const Timeline = () => {
   return (
-    <div className="py-8 text-white bg-[#010b19] flex px-4 lg:pt-40 xl:pt-72 relative">
+    <div className="py-8 text-white  flex px-4 lg:pt-40 xl:pt-72 relative">
       <div className="container flex-col items-start hidden mx-auto my-12 md:flex-row md:my-24 md:flex timeline md:-translate-x-[40px] lg:translate-x-[0px]">
         <div className="relative flex flex-col items-center w-full px-8 mt-2 pt-36 md:top-36 lg:w-1/3 md:mt-12">
           <p className="relative z-40 flex justify-center p-2 text-xl md:text-3xl font-extrabold leading-normal  bg-red-400 shadow-[0px_0px_20px_#FFC100] font-spacegrotesk shadow-space2 temb-2 xl:text-8xl lg:text-6xl border-[4px] border-space2 md:leading-relaxed rounded-xl lg:text-border-space2">TIMELINE</p>
