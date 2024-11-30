@@ -5,8 +5,8 @@ const Info = () => {
     <div className="w-full lg:pt-10 md:pt-60 xl:pt-60" id='info1'>
       <div className="md:hidden relative z-40 my-20  ">
         <div className="relative w-full px-4 pt-5 text-center text-white">
-          <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/image/planettt-08%201.png?raw=true" alt="Alt Text" className='absolute z-10 -translate-x-10'/>
-          <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/image/planettt-08%201.png?raw=true" alt="Alt Text" className='absolute z-10 rotate-180 -translate-y-[400px] sm:translate-x-10 translate-x-3'/>
+          <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" alt="Alt Text" className='absolute z-10 -translate-x-10'/>
+          <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" alt="Alt Text" className='absolute z-10 rotate-180 -translate-y-[400px] sm:translate-x-10 translate-x-3'/>
         </div>
 
         <div className="relative w-full p-4 translate-y-[200px]">
@@ -29,7 +29,7 @@ const Info = () => {
             ></iframe>
           </div>
         </div>
-        <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/image/Tower%202%201.png?raw=true" alt="" className="absolute z-10 translate-x-[248px] xl:translate-y-[-750px] md:translate-y-[-500px] lg:translate-y-[-400px] xl:scale-[75%] md:scale-[50%] sm:scale-[80%] lg:scale-[60%] hidden md:block " />
+        <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" alt="" className="absolute z-10 translate-x-[248px] xl:translate-y-[-750px] md:translate-y-[-500px] lg:translate-y-[-400px] xl:scale-[75%] md:scale-[50%] sm:scale-[80%] lg:scale-[60%] hidden md:block " />
         <div className="container relative z-40 w-1/2 p-4 mx-auto overflow-hidden  bg-[#b5b2f1] border-[10px] shadow-2xl border-space2 shadow-space2 rounded-xl ">
           <h1 className="mb-4 text-xl font-bold text-white font-montserrat md:text-xl sm:text-lg lg:text-4xl xl:text-6xl lg:text-border-space2">Gadjah Mada Flies To Riau</h1>
           <p className="font-semibold leading-relaxed text-justify text-white font-spacegrotesk md:text-md sm:text-sm lg:text-xl">Merupakan program kerja tahunan KEMARIGAMA (Keluarga Mahasiswa Riau Gadjah Mada) yang setiap tahunnya sudah mengunjungi lebih dari 50 SMA di Provinsi Riau. GAMAFTR diinisiasikan untuk memperkenalkan Universitas Gadjah Mada kepada siswa dan siswi SMA/sederajat di Provinsi Riau.</p>
