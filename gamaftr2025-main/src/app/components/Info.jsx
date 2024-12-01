@@ -31,7 +31,7 @@ const Info = () => {
         </div>
         <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" alt="" className="absolute z-10 translate-x-[248px] xl:translate-y-[-750px] md:translate-y-[-500px] lg:translate-y-[-400px] xl:scale-[75%] md:scale-[50%] sm:scale-[80%] lg:scale-[60%] hidden md:block " />
         <div className="container relative z-40 w-1/2 p-4 mx-auto overflow-hidden  bg-[#b5b2f1] border-[10px] shadow-2xl border-space2 shadow-space2 rounded-xl ">
-          <h1 className="mb-4 text-xl font-bold text-white font-Pulsar - Original md:text-xl sm:text-lg lg:text-4xl xl:text-6xl lg:text-border-space2">Gadjah Mada Flies To Riau</h1>
+          <h1 className="mb-4 text-xl font-bold text-white font-montserrat md:text-xl sm:text-lg lg:text-4xl xl:text-6xl lg:text-border-space2">Gadjah Mada Flies To Riau</h1>
           <p className="font-semibold leading-relaxed text-justify text-white font-spacegrotesk md:text-md sm:text-sm lg:text-xl">Merupakan program kerja tahunan KEMARIGAMA (Keluarga Mahasiswa Riau Gadjah Mada) yang setiap tahunnya sudah mengunjungi lebih dari 50 SMA di Provinsi Riau. GAMAFTR diinisiasikan untuk memperkenalkan Universitas Gadjah Mada kepada siswa dan siswi SMA/sederajat di Provinsi Riau.</p>
         </div>
         <img loading="lazy" className="absolute z-20 -translate-y-[30px] scale-[120%] -translate-x-3  sm:scale-[140%] overflow-x-hidden" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/sunandroad.png?raw=true" />
