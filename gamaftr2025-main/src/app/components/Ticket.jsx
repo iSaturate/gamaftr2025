@@ -26,7 +26,7 @@ const Ticket = () => {
           </div>
           {/* isi gamaftr ticket */}
           <div
-            className="absolute inset-0 h-full w-full rounded-xl bg-[#FFC100] p-8 [transform:rotateY(180deg)] [backface-visibility:hidden]  z-40" id='ticketweb'>
+            className="absolute inset-0 h-full w-full rounded-xl bg-[#205FC9] p-8 [transform:rotateY(180deg)] [backface-visibility:hidden]  z-40" id='ticketweb'>
             <div className="flex flex-col justify-between h-full ">
         <div className=" lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
             <h1 className="  md:mb-0 lg:mb-0 font-bold  xl:mb-4 text-[13px] md:text-[13px] sm:text-[8px] sm:mb-0  lg:text-2xl">Pekanbaru</h1>
