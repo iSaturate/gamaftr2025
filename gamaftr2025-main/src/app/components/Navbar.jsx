@@ -8,13 +8,13 @@ const Navbar = () => {
   };
 
   return (
-    // sm:bg-space1 sm:rounded-none sm:border-0 sm:shadow-none rounded-full shadow-[0px_0px_20px_#FFC100] border-[2px] border-red-500 
+    // sm:bg-space1 sm:rounded-none sm:border-0 sm:shadow-none rounded-full shadow-[0px_0px_20px_#7BE6D4] border-[2px] border-red-500 
     <nav className="relative z-40 mx-3 mb-5 sm:mx-1">
       <div className="px-4 mx-auto max-w-7xl">
         <div className="flex justify-between">
           <div className="flex space-x-4">
             <div className=''>
-              <a href="#info1" className="flex items-center px-2 py-2 text-xl text-space2 hover:text-pink-900">
+              <a href="#info1" className="flex items-center px-2 py-2 text-xl text-space2 hover:text-gray-900">
                 <img src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Gamaft/logogamaftr2025%20(2).png?raw=true" alt="" className="max-w-[70px] " />
                 
               </a>
