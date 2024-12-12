@@ -22,8 +22,8 @@ const Navbar = () => {
           </div>
 
           <div className="items-center hidden gap-5 space-x-1 md:flex">
-            <a href="#event" className="px-6 py-2 font-extrabold transition duration-300 bg-yellow-400 rounded-3xl text-space1 hover:bg-space1 hover:text-space2 font-spacegrotesk hover:shadow-[0px_0px_20px_#F8F37B">Our Event</a>
-            <a href="https://bit.ly/SALEGAMAFTR2024" className="px-6 py-2 font-extrabold transition duration-300 bg-blue-400 rounded-3xl text-space1 hover:bg-space1 hover:text-space2 font-spacegrotesk hover:shadow-[0px_0px_20px_#7DBEF8]">Order Ticket</a>
+            <a href="#event" className="px-6 py-2 font-extrabold transition duration-300 bg-green-400 rounded-3xl text-space1 hover:bg-space1 hover:text-space2 font-spacegrotesk hover:shadow-[0px_0px_20px_#7BE6D4">Our Event</a>
+            <a href="https://bit.ly/SALEGAMAFTR2024" className="px-6 py-2 font-extrabold transition duration-300 bg-green-400 rounded-3xl text-space1 hover:bg-space1 hover:text-space2 font-spacegrotesk hover:shadow-[0px_0px_20px_#31AFAB]">Order Ticket</a>
           </div>
 
           <div className="flex items-center md:hidden">
