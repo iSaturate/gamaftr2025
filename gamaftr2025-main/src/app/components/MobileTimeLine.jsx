@@ -3,7 +3,7 @@ import React from 'react';
 
 const MobileTimeline = () => {
   return (
-    <div className="py-4 text-white bg-[#010b19] md:hidden">
+    <div className="py-4 text-white bg-[#FFC100] md:hidden">
       <div className="container relative mx-auto my-12 md:flex-row md:my-24">
       <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/image/marsbig.png?raw=true" alt="Alt Text" className='absolute z-10 translate-x-10 translate-y-20 md:hidden'/>
         <div className="px-[60PX] md:w-1/2 md:px-8 relative">
