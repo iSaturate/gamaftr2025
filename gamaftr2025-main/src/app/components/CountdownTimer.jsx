@@ -21,19 +21,19 @@ const CountdownTimer = () => {
     
       const countdownHTML = `
         <div class="flex flex-row gap-8 md:gap-6 px-4">
-            <div class="py-6 text-center text-[#7BE6D4] border-l-3 pr-5">
+            <div class="py-6 text-center text-[#205FC9] border-l-3 pr-5">
                 <p class="text-xl font-spacegrotesk font-semibold leading-6 md:text-4xl xl:text-7xl">${days}</p>
                 <p class="mt-2 text-xl md:text-3xl xl:text-7xl">Hari</p>
             </div>
-            <div class="py-6 text-center text-[#7BE6D4] border-r-3">
+            <div class="py-6 text-center text-[#31AFAB] border-r-3">
                 <p class="text-xl font-spacegrotesk font-semibold leading-6 md:text-4xl xl:text-7xl">: ${hours}</p>
                 <p class="mt-2 text-xl md:text-3xl xl:text-7xl">Jam</p>
             </div>
-            <div class="py-6 text-center text-[#7BE6D4] border-r-3">
+            <div class="py-6 text-center text-[#9D81E8] border-r-3">
                 <p class="text-xl font-spacegrotesk font-semibold leading-6 md:text-4xl xl:text-7xl">: ${minutes}</p>
                 <p class="mt-2 text-xl md:text-3xl xl:text-7xl">Menit</p>
             </div>
-            <div class="py-6 text-center text-[#7BE6D4] border-r-3">
+            <div class="py-6 text-center text-[#FDD134] border-r-3">
                 <p class="text-xl font-spacegrotesk font-semibold leading-6 md:text-4xl xl:text-7xl">: ${seconds}</p>
                 <p class="mt-2 text-xl md:text-3xl xl:text-7xl">Detik</p>
             </div>
