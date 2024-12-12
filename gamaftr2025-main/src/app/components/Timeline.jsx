@@ -18,7 +18,7 @@ const Timeline = () => {
                 <div className="relative z-40 order-1 w-5/12 text-right lg:px-1 lg:py-4">
                 <img 
                  src="https://github.com/SyaidFarhan/Gamaftr/blob/main/image/Property%201=Variant3.png?raw=true" alt="" className='absolute z-10 transition-transform scale-150 animate-random2' />
-                  <p className="relative z-40 mb-3 text-base text-yellow-300 md:text-lg lg:text-2xl md:ml-1 lg:ml-7 md:mr-10 ">5 Januari 2025</p>
+                  <p className="relative z-40 mb-3 text-base text-black-300 md:text-lg lg:text-2xl md:ml-1 lg:ml-7 md:mr-10 ">5 Januari 2025</p>
                   <h4 className="relative z-40 mb-3 text-lg font-semibold font-spacegrotesk xl:text-6xl md:text-2xl sm:text-lg lg-text-5xl md:mr-10 ">Opening</h4>
                 </div>
               </div>
@@ -27,21 +27,21 @@ const Timeline = () => {
                 <div className="relative z-40 order-1 w-5/12 text-left lg:px-1 lg:py-4">
                 <img 
                  src="https://github.com/SyaidFarhan/Gamaftr/blob/main/image/Property%201=Variant3.png?raw=true" alt="" className='absolute z-40 transition-transform animate-random1' />
-                  <p className="mb-3 text-base text-yellow-300 md:text-lg lg:text-2xl lg:ml-7 md:ml-[60px] lg:mx-7">6-17 Januari 2025</p>
+                  <p className="mb-3 text-base text-black-300 md:text-lg lg:text-2xl lg:ml-7 md:ml-[60px] lg:mx-7">6-17 Januari 2025</p>
                   <h4 className="mb-3 text-lg font-semibold font-spacegrotesk xl:text-6xl md:text-2xl sm:text-lg lg-text-5xl md:ml-[60px] lg:mx-7 ">Roadshow</h4>
                 </div>
               </div>
               <div className="flex flex-row-reverse items-center justify-between w-full mb-8 left-timeline">
                 <div className="order-1 w-5/12"></div>
                 <div className="order-1 w-5/12 text-right lg:px-1 lg:py-4">
-                  <p className="mb-3 text-base text-yellow-300 md:text-lg lg:text-2xl md:mr-16 lg:ml-7">18-19 Januari 2025</p>
+                  <p className="mb-3 text-base text-black-300 md:text-lg lg:text-2xl md:mr-16 lg:ml-7">18-19 Januari 2025</p>
                   <h4 className="mb-3 text-lg font-semibold font-spacegrotesk xl:text-6xl md:text-2xl md:mr-10 sm:text-lg lg-text-5xl ">Try Out</h4>
                 </div>
               </div>
               <div className="relative z-40 flex items-center justify-between w-full mb-8 right-timeline">
                 <div className="order-1 w-5/12"></div>
                 <div className="relative z-40 order-1 w-5/12 px-1 py-4">
-                  <p className="mb-3 text-base text-yellow-300 md:text-lg lg:text-2xl md:ml-[60px] lg:mx-7 lg:ml-7">25 Januari 2025</p>
+                  <p className="mb-3 text-base text-black-300 md:text-lg lg:text-2xl md:ml-[60px] lg:mx-7 lg:ml-7">25 Januari 2025</p>
                   <h4 className="mb-3 text-lg font-semibold text-left font-spacegrotesk xl:text-6xl md:text-2xl sm:text-lg lg-text-5xl md:ml-[60px] lg:mx-7 ">Bedah Kampus</h4>
                 </div>
               </div>
