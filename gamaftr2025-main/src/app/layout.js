@@ -2,6 +2,8 @@ import './globals.css'
 //👇 Import our second font
 import { Open_Sans, Roboto_Mono, Montserrat, Space_Grotesk, Outfit} from 'next/font/google'
 
+import localFont from 'next/font/local'
+
 const openSansConfig = Open_Sans({
   subsets: ['latin'],
   display: 'swap',
@@ -34,6 +36,12 @@ const OutfitConfig = Outfit({
   subsets: ['latin'],
   display: 'swap',
   variable: '--font-outfit',
+}]
+  const pulsarConfig = Pulsar({
+  src:' /gamaftr2025-main/Pulsar.otf',
+  display: 'swap',
+  variable: '--font-pulsar',
+  
 })
 
 export const metadata = {
