@@ -14,7 +14,7 @@ const Navbar = () => {
         <div className="flex justify-between">
           <div className="flex space-x-4">
             <div className=''>
-              <a href="#info1" className="flex items-center px-2 py-2 text-xl text-space2 hover:text-gray-900">
+              <a href="#info1" className="flex items-center px-2 py-2 text-xl text-space2 hover:text-green-900">
                 <img src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Gamaft/logogamaftr2025%20(2).png?raw=true" alt="" className="max-w-[70px] " />
                 
               </a>
