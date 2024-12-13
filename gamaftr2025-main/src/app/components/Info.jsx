@@ -11,7 +11,7 @@ const Info = () => {
 
         <div className="relative w-full p-4 translate-y-[200px]">
           <h1 className="relative z-40 text-xl font-bold text-center text-white rounded-2xl  md:text-2xl lg:text-4xl xl:text-6xl ">Gadjah Mada Flies To Riau</h1>
-          <p className="relative z-40 leading-relaxed text-justify text-white font-spacegrotesk lg:text-2xl ">
+          <p className="relative z-40 leading-relaxed text-justify text-white font-outfit lg:text-2xl ">
           merupakan program kerja tahunan KEMARIGAMA (Keluarga Mahasiswa Riau Gadjah Mada) yang setiap tahunnya sudah mengunjungi lebih dari 50 SMA di Provinsi Riau. GAMAFTR diinsiasikan untuk memperkenalkan Universitas Gadjah Mada kepada siswa dan siswi SMA/sederajat di Provinsi Riau. GAMAFTR terdiri dari beberapa rangkaian acara seperti roadshow, try out, dan acara puncaknya adalah Bedah Kampus di Pekanbaru.
           </p>
         </div>
