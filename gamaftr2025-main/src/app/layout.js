@@ -38,7 +38,6 @@ const OutfitConfig = Outfit({
   variable: '--font-outfit',
 })
   const pulsarConfig = localFont({
-  subsets: ['latin'],
     src: '/Pulsar.otf',
   display: 'swap',
   variable: '--font-pulsar',
@@ -75,7 +74,7 @@ export default function RootLayout({ children }) {
     // 👇 Attach CSS variables to HTML
     <html
       lang="en"
-      className={`${openSansConfig.variable} ${robotoMonoConfig.variable} ${spaceGroteskConfig.variable} ${montserratConfig.variable} font-sans`}
+      className={`${openSansConfig.variable} ${robotoMonoConfig.variable} ${spaceGroteskConfig.variable} ${montserratConfig.variable} ${pulsarConfig.variable}  font-sans`}
     >
       <head>
         {/* Add the link to the favicon */}
