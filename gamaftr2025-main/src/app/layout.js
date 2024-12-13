@@ -36,7 +36,7 @@ const OutfitConfig = Outfit({
   subsets: ['latin'],
   display: 'swap',
   variable: '--font-outfit',
-}]
+})
   const pulsarConfig = Pulsar({
   src:' /gamaftr2025-main/Pulsar.otf',
   display: 'swap',
