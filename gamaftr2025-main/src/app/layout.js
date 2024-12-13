@@ -38,7 +38,7 @@ const OutfitConfig = Outfit({
   variable: '--font-outfit',
 })
   const pulsarConfig = localFont({
-  src:' /gamaftr2025-main/Pulsar.otf',
+  src:'/gamaftr2025-main/Pulsar.otf',
   display: 'swap',
   variable: '--font-pulsar',
   
