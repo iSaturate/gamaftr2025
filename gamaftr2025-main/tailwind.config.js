@@ -56,6 +56,7 @@ module.exports = {
         mono: ["var(--font-roboto-mono)"],
         montserrat: ["var(--font-montserrat)"],
         spacegrotesk: ["var(--font-space-grotesk)"],
+        outfit: ["var(--font-outfit)"],
       },
 
       screens: {
