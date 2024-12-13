@@ -22,8 +22,8 @@ const Navbar = () => {
           </div>
 
           <div className="items-center hidden gap-5 space-x-1 md:flex">
-            <a href="#event" className="px-6 py-2 font-extrabold transition duration-300 bg-blue-600 rounded-3xl text-space1 hover:bg-space1 hover:text-space2 font-spacegrotesk hover:shadow-[0px_0px_20px_#205FC9">Our Event</a>
-            <a href="https://bit.ly/SALEGAMAFTR2024" className="px-6 py-2 font-extrabold transition duration-300 bg-blue-600 rounded-3xl text-space1 hover:bg-space1 hover:text-space2 font-spacegrotesk hover:shadow-[0px_0px_20px_#205FC9]">Order Ticket</a>
+            <a href="#event" className="px-6 py-2 font-extrabold transition duration-300 bg-blue-600 rounded-3xl text-space1 hover:bg-space1 hover:text-space2 font-spacegrotesk text-white hover:shadow-[0px_0px_20px_#205FC9">Our Event</a>
+            <a href="https://bit.ly/SALEGAMAFTR2024" className="px-6 py-2 font-extrabold transition duration-300 bg-blue-600 rounded-3xl text-space1 hover:bg-space1 hover:text-space2 font-spacegrotesk text-white hover:shadow-[0px_0px_20px_#205FC9]">Order Ticket</a>
           </div>
 
           <div className="flex items-center md:hidden">
@@ -38,8 +38,8 @@ const Navbar = () => {
       </div>
 
       <div className={`mobile-menu ${isMobileMenuVisible ? '' : 'hidden'} md:hidden items-center flex justify-center`}>
-        <a href="https://bit.ly/SALEGAMAFTR2024" className="block px-4 py-2 text-sm font-bold hover:bg-space1 rounded-xl font-spacegrotesk text-white ">Order Ticket</a>
-        <a href="#event" className="block px-4 py-2 text-sm font-bold hover:bg-space1 rounded-xl font-spacegrotesk text-white ">Our Event</a>
+        <a href="https://bit.ly/SALEGAMAFTR2024" className="block px-4 py-2 text-sm font-bold hover:bg-space1 rounded-xl font-spacegrotesk text-white">Order Ticket</a>
+        <a href="#event" className="block px-4 py-2 text-sm font-bold hover:bg-space1 rounded-xl font-spacegrotesk text-white">Our Event</a>
       </div>
     </nav>
   );
