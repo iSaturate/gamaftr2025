@@ -22,7 +22,7 @@ const Navbar = () => {
           </div>
 
           <div className="items-center hidden gap-5 space-x-1 md:flex">
-            <a href="#event" className="px-6 py-2 font-extrabold transition duration-300 bg-blue-600 rounded-3xl text-space1 hover:bg-space1 hover:text-space2 font-spacegrotesk hover:shadow-[0px_0px_20px_#205FC9">Our Event</a>
+            <a href="#event" className="px-6 py-2 font-extrabold transition duration-300 bg-blue-100 rounded-3xl text-space1 hover:bg-space1 hover:text-space2 font-spacegrotesk hover:shadow-[0px_0px_20px_#205FC9">Our Event</a>
             <a href="https://bit.ly/SALEGAMAFTR2024" className="px-6 py-2 font-extrabold transition duration-300 bg-blue-600 rounded-3xl text-space1 hover:bg-space1 hover:text-space2 font-spacegrotesk hover:shadow-[0px_0px_20px_#205FC9]">Order Ticket</a>
           </div>
 
