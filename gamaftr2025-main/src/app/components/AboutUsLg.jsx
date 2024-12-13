@@ -14,7 +14,7 @@ const AboutUsLg = () => {
       <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/image/planettt-08%201.png?raw=true" alt="Alt Text" className='absolute z-50 -translate-y-[300px] 2xl:-translate-x-[400px] -translate-x-[200px] Edit:-translate-x-[280px] float-left
        lg:max-[400px] hidden md:block md:max-w-[700px]lg:max-w-[700px]'/>
       <div className='flex justify-center pt-5 scale-70'>
-      <a href="https://bit.ly/SALEGAMAFTR2024" className="px-6 py-2 font-extrabold transition duration-300 md:hidden bg-yellow-400 rounded-xl text-space1  hover:text-space2 font-spacegrotesk hover:shadow-[0px_0px_20px_#FFC100] relative z-50">Order Ticket</a>
+      <a href="https://bit.ly/SALEGAMAFTR2024" className="px-6 py-2 font-extrabold transition duration-300 md:hidden bg-green-400 rounded-xl text-space1  hover:text-space2 font-spacegrotesk hover:shadow-[0px_0px_20px_#31AFAB] relative z-50">Order Ticket</a>
       </div>
       <a href="#intro" className="flex flex-col items-center mt-0 duration-200 md:mt-20px opacity-90 animate-pulse">
       <span className="text-[21px] pt-5 md:pt-12 ">
