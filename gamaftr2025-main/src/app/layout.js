@@ -38,7 +38,7 @@ const OutfitConfig = Outfit({
   variable: '--font-outfit',
 })
   const pulsarConfig = localFont({
-  src:'/Pulsar.otf',
+  subsets: ['latin'],
   display: 'swap',
   variable: '--font-pulsar',
   
