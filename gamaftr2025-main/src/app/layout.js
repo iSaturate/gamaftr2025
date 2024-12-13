@@ -2,7 +2,7 @@ import './globals.css'
 //👇 Import our second font
 import { Open_Sans, Roboto_Mono, Montserrat, Space_Grotesk, Outfit} from 'next/font/google'
 
-import localFont from 'next/font/local'
+import { Pulsar} from 'next/font/local'
 
 const openSansConfig = Open_Sans({
   subsets: ['latin'],
