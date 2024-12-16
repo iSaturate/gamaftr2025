@@ -37,10 +37,10 @@ const OutfitConfig = Outfit({
   display: 'swap',
   variable: '--font-outfit',
 })
-  const pulsarConfig = localFont({
-  src: '/Pulsar.otf',
-  display: 'swap',
-  variable: '--font-pulsar',
+const pulsarConfig = localFont({
+src: '/Pulsar.otf',
+display: 'swap',
+variable: '--font-pulsar',
   
 })
 
