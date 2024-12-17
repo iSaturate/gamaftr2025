@@ -8,7 +8,7 @@ const Ticket = () => {
   
   return (
     <div className="hidden sm:block" id='ticket1'>
-    <div className="flex flex-col sm:flex-row mx-auto min-h-screen items-center justify-center bg-[#010b19] gap-4 xl:pt-60 md:pb-12 lg:my-[10px] relative">
+    <div className="flex flex-col sm:flex-row mx-auto min-h-screen items-center justify-center bg-[#FDD134] gap-4 xl:pt-60 md:pb-12 lg:my-[10px] relative">
        <img loading="lazy" className="absolute z-10 lg:-translate-x-[40px] scale-[200%] 2xl:max-w-[1900px] md:translate-y-[300px]" alt="hero" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/awanasap.png?raw=true" />
 
 
@@ -19,39 +19,39 @@ const Ticket = () => {
           <div className="absolute inset-0 z-40 p-8 bg-gray-800 rounded-xl">
             <div className="flex flex-col justify-between h-full">
             <div className="flex justify-center pt-10">
-            <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/1704419489494.jpg?raw=true" alt="Shoes" className='md:max-w-[95%] lg:md:max-w-[95%]  vm:max-w-[95%] xl:md:max-w-[100%] shadow-[0px_0px_20px_#ff0000] sm:max-w-[95%] rounded-lg' />
+            <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/1704419489494.jpg?raw=true" alt="Shoes" className='md:max-w-[95%] lg:md:max-w-[95%]  vm:max-w-[95%] xl:md:max-w-[100%] shadow-[0px_0px_20px_#F8F37B] sm:max-w-[95%] rounded-lg' />
             </div>
-              <h1 className="block pb-5 mt-auto text-4xl font-montserrat font-bold leading-5 text-[#FFC100]  xl:text-5xl">Try Out</h1>
+              <h1 className="block pb-5 mt-auto text-4xl font-montserrat font-bold leading-5 text-[#205FC9]  xl:text-5xl">Try Out</h1>
             </div>
           </div>
           {/* isi gamaftr ticket */}
           <div
-            className="absolute inset-0 h-full w-full rounded-xl bg-[#205FC9] p-8 [transform:rotateY(180deg)] [backface-visibility:hidden]  z-40" id='ticketweb'>
+            className="absolute inset-0 h-full w-full rounded-xl bg-[#7DBEF8] p-8 [transform:rotateY(180deg)] [backface-visibility:hidden]  z-40" id='ticketweb'>
             <div className="flex flex-col justify-between h-full ">
         <div className=" lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
             <h1 className="  md:mb-0 lg:mb-0 font-bold  xl:mb-4 text-[13px] md:text-[13px] sm:text-[8px] sm:mb-0  lg:text-2xl">Pekanbaru</h1>
             <ul>
-                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Hari, tanggal:</strong> Sabtu & Minggu, 18 & 19 Januari 2025</li>
-                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Waktu pelaksanaan:</strong> 07.30 - Selesai</li>
-                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Lokasi:</strong> MAN 2 Pekanbaru </li>
+                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Hari, tanggal : </strong> Sabtu & Minggu, 18 & 19 Januari 2025</li>
+                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Waktu pelaksanaan : </strong> 07.30 - Selesai</li>
+                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Lokasi : </strong> MAN 2 Pekanbaru </li>
             </ul>
         </div>
 
         <div className="lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
             <h1 className=" font-bold sm:mb-0 md:mb-0 lg:mb-0 xl:mb-4 text-[13px] md:text-[13px]  lg:text-2xl sm:text-[8px]">Duri</h1>
             <ul>
-                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Hari, tanggal:</strong> Sabtu, 18 Januari 2025</li>
-                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Waktu pelaksanaan:</strong> 07.30 - Selesai</li>
-                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Lokasi:</strong> SMA Negeri 2 Mandau</li>
+                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Hari, tanggal : </strong> Sabtu, 18 Januari 2025</li>
+                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Waktu pelaksanaan : </strong> 07.30 - Selesai</li>
+                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Lokasi : </strong> SMA Negeri 2 Mandau</li>
             </ul>
         </div>
 
         <div className=" lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
             <h1 className=" font-bold sm:mb-0 md:mb-0 sm:text-[8px] lg:mb-0 xl:mb-4 text-[13px] md:text-[13px]  lg:text-2xl">Dumai</h1>
             <ul>
-                <l className="text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px] " ><strong>Hari, tanggal:</strong> Minggu, 19 Januari 2025</l>
-                <li className="text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]" ><strong>Waktu pelaksanaan:</strong> 07.30 - Selesai</li>
-                <li className="text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]" ><strong>Lokasi:</strong> SMA Negeri 2 Dumai</li>
+                <l className="text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px] " ><strong>Hari, tanggal : </strong> Minggu, 19 Januari 2025</l>
+                <li className="text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]" ><strong>Waktu pelaksanaan : </strong> 07.30 - Selesai</li>
+                <li className="text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]" ><strong>Lokasi : </strong> SMA Negeri 2 Dumai</li>
             </ul>
         </div>
               <div className="mt-auto space-y-4 ">
