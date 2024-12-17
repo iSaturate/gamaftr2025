@@ -139,7 +139,7 @@ const Lokasi = () => {
 <dialog id="my_modal_4" className="modal">
   <div className="modal-box">
     <h3 className="md:text-[10px] xl:text-lg font-bold">Bedah Kampus</h3>
-    <p className="py-4">Penutupan rangkaian kegiatan GAMAFTR 2025 yang akan mendatangkan Guest Star serta penampilan dari mahasiswa UGM sebagai puncak acara</p>
+    <p className="py-4">Penutupan rangkaian kegiatan GAMAFTR 2025 yang akan mendatangkan Guest Star serta penampilan dari mahasiswa/i UGM sebagai puncak acara</p>
     <div className="mb-8">
             <h1 className="mb-4 text-3xl font-bold">Event Information</h1>
             <ul>
