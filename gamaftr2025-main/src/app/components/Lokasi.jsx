@@ -11,7 +11,7 @@ const Lokasi = () => {
             <div className="absolute z-40 left-[0%] bottom-[0%] translate-x-1/3 sm:hidden translate-y-1/2">
             <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Group%2050.png?raw=true" alt="" className="" /> </div>
 
-    <h1 className="hidden sm:pt-10  text-3xl font-extrabold text-white s,:text-center sm:flex sm:justify-center font-spacegrotesk md:text-5xl text lg:text-7xl md:pt-5 md:text-border-space2">Rangkaian Acara</h1>
+    <h1 className="hidden sm:pt-10  text-3xl font-extrabold text-white s,:text-center sm:flex sm:justify-center font-spacegrotesk md:text-5xl text lg:text-7xl md:pt-5 md:text-border-space2">RANGKAIAN ACARA</h1>
     <div className="justify-center scale-75 xl:scale-75 sm:scale-[70%]  lg:scale-[60%] md:scale-[45%] md:-translate-y-[50px]  sm:-translate-y-[30px] sm:flex sm:flex-row-2 sm:gap-6 sm:grid-flow-col">
     <div className="md:w-1/2 md:px-8 sm:hidden scale-100 text-7xl font-spacegrotesk font-extrabold text-white rounded-2xl border-[4px] border-space2 bg-red-400 shadow-xl shadow-space2 xl:text-8xl p-4 lg:py-0 xl:p-4 pl-10mr-[180px] relative z-40 text-border-space2 text-center">EVENTS</div>
     <div className="mt-5 transition shadow-xl card card-compact sm:w-1/2 w-50 md:w-70 lg:[50%] xl:[20%] bg-base-100 hover:scale-125 hover:z-40 hover:shadow-lg hover:shadow-space2 object-cover bg-gray-800">
@@ -25,13 +25,13 @@ const Lokasi = () => {
 <dialog id="my_modal_1" className="modal">
   <div className="modal-box">
     <h3 className="md:text-[10px] xl:text-lg font-bold">Opening</h3>
-    <p className="py-4"> Simbolisasi pembukaan rangkaian kegiatan GAMAFTR 2025 sebagai langkah awal untuk menyapa seluruh siswa/i yang ada di Provinsi Riau</p>
+    <p className="py-4"> Simbolisasi pembukaan rangkaian kegiatan GAMAFTR 2025 sebagai langkah awal untuk menyapa seluruh siswa/i yang ada di Provinsi Riau.</p>
     <div className="mb-8">
             <h1 className="mb-4 text-3xl font-bold">Event Information</h1>
             <ul>
-                <li><strong>Lokasi:</strong> Car Free Day, Jl. Sudirman</li>
-                <li><strong>Tanggal:</strong> 5 Januari 2025</li>
-                <li><strong>Waktu:</strong> 07.00 - 09.00</li>
+                <li><strong>Lokasi : </strong> Car Free Day, Jl. Sudirman</li>
+                <li><strong>Tanggal : </strong> 5 Januari 2025</li>
+                <li><strong>Waktu : </strong> 07.00 - 09.00</li>
             </ul>
         </div>
     <div className="modal-action">
@@ -56,13 +56,13 @@ const Lokasi = () => {
 <dialog id="my_modal_2" className="modal">
   <div className="modal-box">
     <h3 className="md:text-[10px] xl:text-lg font-bold">Roadshow</h3>
-    <p className="py-4"> Rangkaian sosialisasi ke SMA/SMK/MA/Sederajat di Provinsi RIau yang akan dilaksanakan secara luring maupun daring dimana akan diikuti oleh siswa/i kelas 12</p>
+    <p className="py-4"> Rangkaian sosialisasi ke SMA/SMK/MA/Sederajat di Provinsi Riau yang akan dilaksanakan secara luring maupun daring yang akan diikuti oleh siswa/i kelas 12</p>
     <div className="mb-8">
             <h1 className="mb-4 text-3xl font-bold">Event Information</h1>
             <ul>
-                <li><strong>Lokasi:</strong> 45+ SMA/SMK/MA, Online/Offline</li>
-                <li><strong>Tanggal:</strong> 6-17 Januari 2025</li>
-                <li><strong>Waktu:</strong> -</li>
+                <li><strong>Lokasi : </strong> 45+ SMA/SMK/MA, Online/Offline</li>
+                <li><strong>Tanggal : </strong> 6-17 Januari 2025</li>
+                <li><strong>Waktu : </strong> -</li>
             </ul>
         </div>
     <div className="modal-action">
@@ -99,19 +99,19 @@ const Lokasi = () => {
     <div className="mb-8">
             <h1 className="mb-4 text-3xl font-bold">Event Information</h1>
             <ul className='mb-2'>
-                <li><strong>Lokasi:</strong> MAN 2 Pekanbaru</li>
-                <li><strong>Tanggal:</strong>18-19 Januari 2025</li>
-                <li><strong>Waktu:</strong> 07.30 - Selesai</li>
+                <li><strong>Lokasi : </strong> MAN 2 Pekanbaru</li>
+                <li><strong>Tanggal : </strong>18-19 Januari 2025</li>
+                <li><strong>Waktu : </strong> 07.30 - Selesai</li>
             </ul>
             <ul className='mb-2'>
-                <li><strong>Lokasi:</strong> SMAN 2 Mandau</li>
-                <li><strong>Tanggal:</strong> 18 Januari 2025</li>
-                <li><strong>Waktu:</strong> 07.30 - Selesai</li>
+                <li><strong>Lokasi : </strong> SMAN 2 Mandau</li>
+                <li><strong>Tanggal : </strong> 18 Januari 2025</li>
+                <li><strong>Waktu : </strong> 07.30 - Selesai</li>
             </ul>
             <ul className='mb-2'>
-                <li><strong>Lokasi:</strong> SMAN 2 Dumai</li>
-                <li><strong>Tanggal:</strong> 19 Januari 2025</li>
-                <li><strong>Waktu:</strong> 07.30 - Selesai</li>
+                <li><strong>Lokasi : </strong> SMAN 2 Dumai</li>
+                <li><strong>Tanggal : </strong> 19 Januari 2025</li>
+                <li><strong>Waktu : </strong> 07.30 - Selesai</li>
             </ul>
         </div>
     <div className="modal-action">
@@ -143,9 +143,9 @@ const Lokasi = () => {
     <div className="mb-8">
             <h1 className="mb-4 text-3xl font-bold">Event Information</h1>
             <ul>
-                <li><strong>Lokasi: Menara Dang Merdu Bank Riau Kepri</strong> </li>
-                <li><strong>Tanggal:</strong> 25 Januari 2025</li>
-                <li><strong>Waktu:</strong> 07.30 - Selesai</li>
+                <li><strong>Lokasi : Menara Dang Merdu Bank Riau Kepri</strong> </li>
+                <li><strong>Tanggal : </strong> 25 Januari 2025</li>
+                <li><strong>Waktu : </strong> 07.30 - Selesai</li>
             </ul>
         </div>
     <div className="modal-action">
