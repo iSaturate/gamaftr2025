@@ -8,7 +8,7 @@ const Cardsmall = () => {
   
   return (
     <div className="sm:hidden" id='ticket1'>
-    <div className="flex flex-col sm:flex-row mx-auto min-h-screen items-center justify-center bg-[#010b19] gap-4 xl:pt-60 md:pb-12 lg:my-[10px] relative">
+    <div className="flex flex-col sm:flex-row mx-auto min-h-screen items-center justify-center bg-[#87BCCC] gap-4 xl:pt-60 md:pb-12 lg:my-[10px] relative">
        <img loading="lazy" className="absolute z-30 lg:-translate-x-[40px] scale-[400%] max-w-[1220px] md:translate-y-[300px]" alt="hero" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/resize/awanasap%20(2)%20(1).png?raw=true" />
 
 
