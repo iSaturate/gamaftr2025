@@ -5,7 +5,7 @@ const AboutUsLg = () => {
   <div className="px-4 mx-auto xl:mb-12 max-w-7xl sm:px-6 md:px-12 lg:px-24 lg:py-24" id='aboutus'>
     <div className="relative items-center mx-auto max-w-8xl">
       <div className="relative mt-12 mb-16 text-left lg:flex-grow lg:w-1/2 lg:pl-6 xl:pl-24 md:mb-0 xl:mt-0">
-      <img loading="lazy" className="relative object-cover object-center duration-100 lg:scale-125 animate-pulse animate-glow lg:pt-18" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Gamaft/Group%207.png?raw=true" />
+      <img loading="lazy" className="relative object-cover relative z-50 object-center duration-100 lg:scale-125 animate-pulse animate-glow lg:pt-18" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Gamaft/Group%207.png?raw=true" />
       <div className="flex justify-center">
       <img loading="lazy" className="relative object-cover  sm:max-w-[400px] object-center max-w-[290px] md:max-w-[600px] lg:max-w-[400px]  lg:pt-5 flex justify-center" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Gamaft/Charting%20infinite%20horizons%20inspiring%20dreams%20and%20futures.png?raw=true" />
       </div>
