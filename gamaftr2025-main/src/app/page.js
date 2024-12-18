@@ -51,7 +51,7 @@ const Home = () => {
   }, [controlsArray]);
 
   return (
-    <div className='p-1 overflow-x-hidden overflow-y-hidden bg-gradient-to-l from-cyan-200 via-blue-300 via-pink-200 to-cyan-200'>
+    <div className='p-1 overflow-x-hidden overflow-y-hidden bg-gradient-to-l from-cyan-200 via-blue-300 to-cyan-200'>
       <Navbar />
 
       <AboutUsLg />
