@@ -96,7 +96,7 @@ const Ticket = () => {
             </ul>
         </div>
               <div className="gap-4 mt-auto">
-              <button onClick={handleClick} className="border-none text-space2 shadow-[0px_0px_20px_#FDD134] hover:bg-blue-950 hover:text-white btn btn-primary bg-space1"><a className='font-bold font-spacegrotesk'>Daftar</a></button>
+              <button onClick={handleClick} className="border-none text-white shadow-[0px_0px_20px_#FDD134] hover:bg-white hover:text-space2 btn btn-primary bg-blue-600"><a className='font-bold font-spacegrotesk'>Daftar</a></button>
               </div>
             </div>
           </div>
