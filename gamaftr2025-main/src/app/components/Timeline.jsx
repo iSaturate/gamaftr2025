@@ -18,7 +18,7 @@ const Timeline = () => {
                 <div className="relative z-40 order-1 w-5/12 text-right lg:px-1 lg:py-4">
                 <img 
                  src="https://github.com/SyaidFarhan/Gamaftr/blob/main/image/Property%201=Variant3.png?raw=true" alt="" className='absolute z-10 transition-transform scale-150 animate-random2' />
-                  <p className="relative z-40 mb-3 text-base text-green-600 md:text-lg lg:text-2xl md:ml-1 lg:ml-7 md:mr-10 ">5 Januari 2025</p>
+                  <p className="relative z-40 mb-3 text-base text-[#9D81E8] md:text-lg lg:text-2xl md:ml-1 lg:ml-7 md:mr-10 ">5 Januari 2025</p>
                   <h4 className="relative z-40 mb-3 text-lg font-semibold font-spacegrotesk xl:text-6xl md:text-2xl sm:text-lg lg-text-5xl md:mr-10 ">Opening</h4>
                 </div>
               </div>
