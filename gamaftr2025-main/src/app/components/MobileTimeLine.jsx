@@ -10,7 +10,7 @@ const MobileTimeline = () => {
           <div className="flex justify-center">
         
         </div>
-        <div className="text-5xl font-spacegrotesk font-extrabold text-white rounded-2xl border-[4px] border-space2 bg-red-400 shadow-xl shadow-space2 xl:text-8xl py-4 pl-10mr-[180px] relative z-40 text-border-space2 text-center">TIMELINE</div>
+        <div className="text-5xl font-spacegrotesk font-extrabold text-white rounded-2xl border-[4px] border-space2 bg-[#7DBEF9] shadow-xl shadow-space2 xl:text-8xl py-4 pl-10mr-[180px] relative z-40 text-border-space2 text-center">TIMELINE</div>
         </div>
         <div className="relative z-40 md:w-1/2">
           <div className="container mx-auto">
