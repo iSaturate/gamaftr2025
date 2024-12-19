@@ -8,7 +8,7 @@ const MobileTimeline = () => {
       <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/image/marsbig.png?raw=true" alt="Alt Text" className='absolute z-10 translate-x-10 translate-y-20 md:hidden'/>
         <div className="px-[60PX] md:w-1/2 md:px-8 relative">
           <div className="flex justify-center">
-        <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/resize/luncur%20(2)%20(3)%20(1).png?raw=true" alt="" className="absolute z-20 -translate-y-[1000px] vm:-translate-y-[900px] sm:-translate-y-[900px] md:-translate-y-[1000px]  scale-[75%]" />
+        
         </div>
         <div className="text-5xl font-spacegrotesk font-extrabold text-white rounded-2xl border-[4px] border-space2 bg-red-400 shadow-xl shadow-space2 xl:text-8xl py-4 pl-10mr-[180px] relative z-40 text-border-space2 text-center">TIMELINE</div>
         </div>
