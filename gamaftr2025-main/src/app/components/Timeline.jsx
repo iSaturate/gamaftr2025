@@ -21,7 +21,7 @@ const Timeline = () => {
                   <p
   className="relative z-40 mb-3 text-base text-[#9D8188] md:text-lg lg:text-2xl md:ml-1 lg:ml-7 md:mr-10"
   style={{
-    WebkitTextStroke: '1px #000000', // Outline size and color
+    WebkitTextStroke: '1px #FFFFFF', // Outline size and color
     WebkitTextFillColor: '#9D8188', // Inner text color
   }}
 >
