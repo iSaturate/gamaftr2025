@@ -1,4 +1,5 @@
 /** @type {import('tailwindcss').Config} */
+const flattenColorPalette = require('tailwindcss/src/util/flattenColorPalette')
 const plugin = require('tailwindcss/plugin')
 const textBorder = plugin(
   function ({ matchUtilities, theme, config, e }) {
@@ -18,7 +19,7 @@ const textBorder = plugin(
         }),
       },
       {
-        values: Object.entries(theme('colors')),
+        values: flattenColorPalette(theme('colors')),
         type: ['color', 'any'],
       }
     )
@@ -47,8 +48,8 @@ module.exports = {
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
       colors: {
-        space1: '#7DBEF9',
-        space2: '#205FC9',
+        space1: '#010b19',
+        space2: '#FFC100',
       },
       fontFamily: {
         // 👇 Add CSS variables
@@ -56,10 +57,11 @@ module.exports = {
         mono: ["var(--font-roboto-mono)"],
         montserrat: ["var(--font-montserrat)"],
         spacegrotesk: ["var(--font-space-grotesk)"],
-        outfit: ["var(--font-outfit)"],
-        
-       
       },
+
+      screens: {
+        'vm': '474px',
+        'Edit' : '1366px',
         
         // => @media (min-width: 992px) { ... }
       },
