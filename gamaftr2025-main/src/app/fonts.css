@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Pulsar';
-  src: url('/public/Pulsar.otf') format('opentype');
+  src: url('/Pulsar.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
