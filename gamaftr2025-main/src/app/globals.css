@@ -66,8 +66,8 @@
 
 .animate-random {
   animation: moveAnimation 10s linear infinite;
-}
 
+}
 .animate-random1 {
   animation: moveAnimation 20s linear infinite;
 }
@@ -75,6 +75,7 @@
 .animate-random2 {
   animation: moveAnimation 30s linear infinite;
 }
+
 
 :root {
   --foreground-rgb: 0, 0, 0;
