@@ -21,7 +21,7 @@ const Lokasi = () => {
      <p className='text-xl text-white sm:text-sm md:text-sm'>Simbolisasi pembukaan rangkaian kegiatan GAMAFTR 2025</p>
     <div className="justify-end card-actions">
       <button className="border-none btn btn-primary bg-space2 hover:bg-white hover:text-space2  text-white"><a href="https://maps.app.goo.gl/rEaZcotMjmZvzWAc8">Lokasi</a></button>
-      <button className="border-none bg-space1 text-white btn" onClick={()=>document.getElementById('my_modal_1').showModal()}>See All</button>
+      <button className="border-none bg-space2 hover:bg-white hover:text-space2 text-white btn" onClick={()=>document.getElementById('my_modal_1').showModal()}>See All</button>
 <dialog id="my_modal_1" className="modal">
   <div className="modal-box">
     <h3 className="md:text-[10px] xl:text-lg font-bold">Opening</h3>
