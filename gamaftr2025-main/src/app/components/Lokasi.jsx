@@ -52,7 +52,7 @@ const Lokasi = () => {
     <h2 className="font-bold card-title text-space2 font-spacegrotesk">Roadshow</h2>
      <p className='text-xl text-white sm:text-sm md:text-sm'>Rangkaian sosialisasi ke SMA/SMK/MA</p>
     <div className="justify-end card-actions">
-      <button className="border-none bg-space1 text-white btn" onClick={()=>document.getElementById('my_modal_2').showModal()}>See All</button>
+      <button className="border-none bg-space2 text-white hover:bg-white hover:text-space2 btn" onClick={()=>document.getElementById('my_modal_2').showModal()}>See All</button>
 <dialog id="my_modal_2" className="modal">
   <div className="modal-box">
     <h3 className="md:text-[10px] xl:text-lg font-bold">Roadshow</h3>
@@ -91,7 +91,7 @@ const Lokasi = () => {
     <li ><a href='https://maps.app.goo.gl/NBi4vTxm2My8aCGr8'>Dumai</a></li>
   </ul>
 </div>
-      <button className="border-none bg-space1 text-white btn" onClick={()=>document.getElementById('my_modal_3').showModal()}>See All</button>
+      <button className="border-none bg-space2 hover:bg-white hover:text-space2 text-white btn" onClick={()=>document.getElementById('my_modal_3').showModal()}>See All</button>
 <dialog id="my_modal_3" className="modal">
   <div className="modal-box">
     <h3 className="md:text-[10px] xl:text-lg font-bold">Try Out</h3>
@@ -135,7 +135,7 @@ const Lokasi = () => {
       <a href="https://maps.app.goo.gl/dq43VoFxv9eHoysNA">
       <button className="border-none btn btn-primary bg-space2 hover:bg-white hover:text-space2 hover:shadow-[0px_0px_20px_#FFC100] text-white">Lokasi</button>
       </a>
-      <button className="border-none bg-space1 text-white btn" onClick={()=>document.getElementById('my_modal_4').showModal()}>See All</button>
+      <button className="border-none bg-space2 hover:bg-white hover:text-space2 text-white btn" onClick={()=>document.getElementById('my_modal_4').showModal()}>See All</button>
 <dialog id="my_modal_4" className="modal">
   <div className="modal-box">
     <h3 className="md:text-[10px] xl:text-lg font-bold">Bedah Kampus</h3>
