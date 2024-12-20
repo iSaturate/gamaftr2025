@@ -84,7 +84,7 @@ const Lokasi = () => {
      <p className='text-xl text-white sm:text-sm md:text-sm'> GAMAFTR 2025 menyediakan wadah bagi siswa/i di Provinsi Riau yang ingin mempersiapkan diri masuk Perguruan Tinggi</p>
     <div className="justify-end card-actions">
     <div className="dropdown dropdown-right">
-  <div tabIndex={0} role="button" className="border-none btn btn-primary bg-space2 hover:bg-white hover:text-space2 hover:shadow-[0px_0px_20px_#FFC100] text-white">Lokasi</div>
+  <div tabIndex={0} role="button" className="border-none btn btn-primary bg-space2 hover:bg-white hover:text-space2  text-white">Lokasi</div>
   <ul tabIndex={0} className="dropdown-content z-[1] menu p-2 shadow bg-base-100 rounded-box w-52">
     <li><a href='https://maps.app.goo.gl/bbtERxCf86KVU3bh9'>Pekanbaru</a></li>
     <li><a href='https://maps.app.goo.gl/p92DtTRYTEaXPsPT8'>Duri</a></li>
@@ -133,7 +133,7 @@ const Lokasi = () => {
      <p className='text-xl text-white sm:text-sm md:text-sm'> Penutupan rangkaian kegiatan GAMAFTR 2025 </p>
     <div className="justify-end card-actions">
       <a href="https://maps.app.goo.gl/dq43VoFxv9eHoysNA">
-      <button className="border-none btn btn-primary bg-space2 hover:bg-white hover:text-space2 hover:shadow-[0px_0px_20px_#FFC100] text-white">Lokasi</button>
+      <button className="border-none btn btn-primary bg-space2 hover:bg-white hover:text-space2  text-white">Lokasi</button>
       </a>
       <button className="border-none bg-space2 hover:bg-white hover:text-space2 text-white btn" onClick={()=>document.getElementById('my_modal_4').showModal()}>See All</button>
 <dialog id="my_modal_4" className="modal">
