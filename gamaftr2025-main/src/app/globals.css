@@ -1,7 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@import /fonts.css;
+
 
 @keyframes randomMove {
   0% { transform: translate(2rem, -2rem); }
