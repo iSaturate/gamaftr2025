@@ -58,11 +58,8 @@ module.exports = {
         spacegrotesk: ["var(--font-space-grotesk)"],
         outfit: ["var(--font-outfit)"],
         pulsar: ["var(--font-pulsar)"],
+        custom: ['Pulsar', 'sans-serif'],
       },
-
-      screens: {
-        'vm': '474px',
-        'Edit' : '1366px',
         
         // => @media (min-width: 992px) { ... }
       },
