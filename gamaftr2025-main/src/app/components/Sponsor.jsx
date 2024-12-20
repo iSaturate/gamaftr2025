@@ -4,13 +4,13 @@ const Sponsor = () => {
     return (
        <div className=" bg-gradient-to-t from-[#0F1E33] to-none relative z-50 h-full px-[10%] md:px-[14px] lg:px-20 xl:px-[59px] pt-[60px] mb-5 2xl:pt-[60px] overflow-hidden">
         <div className="absolute z-10 hidden sm:block right-[0%] top-[0%] -translate-x-1/2 -translate-y-[150px] sm:-translate-y-1/4">
-            <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/batu%20angkasa.PNG?raw=true" alt="" className="" />
+            <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" alt="" className="" />
         </div>
         <div className="absolute z-40 left-[0%] bottom-[0%] translate-x-1/2  translate-y-1/4 scale-50">
-            <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/batu%20angkasa.PNG?raw=true" alt="" className="" />
+            <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" alt="" className="" />
         </div>
         <div className="absolute z-40 right-[0%] top-[0%] -translate-x-1/3  -translate-y-1 scale-50">
-            <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/batu%20angkasa.PNG?raw=true" alt="" className="" />
+            <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" alt="" className="" />
         </div>
         <div className="relative z-50 grid content-center justify-center h-full">
             <div className=" relative w-full text-center xl:max-[1260px] font-spacegrotesk overflow-hidden">
