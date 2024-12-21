@@ -29,29 +29,29 @@ const Ticket = () => {
             className="absolute inset-0 h-full w-full rounded-xl bg-[#7BE6D4] p-8 [transform:rotateY(180deg)] [backface-visibility:hidden]  z-40" id='ticketweb'>
             <div className="flex flex-col justify-between h-full ">
         <div className=" lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
-            <h1 className="  md:mb-0 lg:mb-0 font-outfit font-bold  xl:mb-4 text-[13px] md:text-[13px] sm:text-[8px] sm:mb-0  lg:text-2xl">Pekanbaru</h1>
+            <h1 className=" font-outfit font-bold sm:md:mb-0 lg:mb-0 xl:mb-4 text-[13px] md:text-[13px] sm:text-[8px] sm:mb-0  lg:text-2xl">Pekanbaru</h1>
             <ul>
-                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px] font-outfit'><strong>Hari, tanggal: </strong> Sabtu & Minggu, 18 & 19 Januari 2025</li>
-                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px] font-outfit'><strong>Waktu pelaksanaan: </strong> 07.30 - Selesai</li>
-                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px] font-outfit'><strong>Lokasi: </strong> MAN 2 Pekanbaru </li>
+                <li className='font-outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px] '><strong>Hari, tanggal: </strong> Sabtu & Minggu, 18 & 19 Januari 2025</li>
+                <li className='font-outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px] '><strong>Waktu pelaksanaan: </strong> 07.30 - Selesai</li>
+                <li className='font-outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px] '><strong>Lokasi: </strong> MAN 2 Pekanbaru </li>
             </ul>
         </div>
 
         <div className="lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
             <h1 className=" font-outfit font-bold sm:mb-0 md:mb-0 lg:mb-0 xl:mb-4 text-[13px] md:text-[13px]  lg:text-2xl sm:text-[8px]">Duri</h1>
             <ul>
-                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Hari, tanggal: </strong> Sabtu, 18 Januari 2025</li>
-                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Waktu pelaksanaan: </strong> 07.30 - Selesai</li>
-                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Lokasi: </strong> SMA Negeri 2 Mandau</li>
+                <li className='font-outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Hari, tanggal: </strong> Sabtu, 18 Januari 2025</li>
+                <li className='dont-outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Waktu pelaksanaan: </strong> 07.30 - Selesai</li>
+                <li className='font-outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Lokasi: </strong> SMA Negeri 2 Mandau</li>
             </ul>
         </div>
 
         <div className=" lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
             <h1 className=" font-outfit font-bold sm:mb-0 md:mb-0 sm:text-[8px] lg:mb-0 xl:mb-4 text-[13px] md:text-[13px]  lg:text-2xl">Dumai</h1>
             <ul>
-                <l className="text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px] " ><strong>Hari, tanggal: </strong> Minggu, 19 Januari 2025</l>
-                <li className="text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]" ><strong>Waktu pelaksanaan: </strong> 07.30 - Selesai</li>
-                <li className="text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]" ><strong>Lokasi: </strong> SMA Negeri 2 Dumai</li>
+                <l className=" font-outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px] " ><strong>Hari, tanggal: </strong> Minggu, 19 Januari 2025</l>
+                <li className=" font-outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]" ><strong>Waktu pelaksanaan: </strong> 07.30 - Selesai</li>
+                <li className=" font-outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]" ><strong>Lokasi: </strong> SMA Negeri 2 Dumai</li>
             </ul>
         </div>
               <div className="mt-auto space-y-4 ">
@@ -90,9 +90,9 @@ const Ticket = () => {
             <div className=" lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
             <h1 className=" font-outfit font-bold mb-4 sm:mb-0  lg:mb-0 xl:mb-4 text-[13px] md:text-[13px]  lg:text-2xl sm:text-[10px]"></h1>
             <ul>
-                <li className='text-[10px] sm:text-[8px]  md:text-[10px] lg:text-[14px]'><strong>Hari, tanggal: </strong> Sabtu, 25 Januari 2025</li>
-                <li className='text-[10px] sm:text-[8px]  md:text-[10px] lg:text-[14px]'><strong>Waktu pelaksanaan: </strong> 07.30 - Selesai</li>
-                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Lokasi: </strong>Menara Dang Merdu Bank Riau Kepri</li>
+                <li className=' font-outfit text-[10px] sm:text-[8px]  md:text-[10px] lg:text-[14px]'><strong>Hari, tanggal: </strong> Sabtu, 25 Januari 2025</li>
+                <li className='font-outfit text-[10px] sm:text-[8px]  md:text-[10px] lg:text-[14px]'><strong>Waktu pelaksanaan: </strong> 07.30 - Selesai</li>
+                <li className='font outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Lokasi: </strong>Menara Dang Merdu Bank Riau Kepri</li>
             </ul>
         </div>
               <div className="gap-4 mt-auto">
