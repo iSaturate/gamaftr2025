@@ -20,7 +20,7 @@ const Lokasi = () => {
     <h2 className="font-bold card-title text-[#FDD134] font-spacegrotesk">Opening</h2>
      <p className='text-xl text-white sm:text-sm md:text-sm'>Simbolisasi pembukaan rangkaian kegiatan GAMAFTR 2025</p>
     <div className="justify-end card-actions">
-      <button className="border-none btn btn-primary bg-[#FDD134] hover:bg-white hover:text-space2  text-white"><a href="https://maps.app.goo.gl/rEaZcotMjmZvzWAc8">Lokasi</a></button>
+      <button className="border-none btn btn-primary bg-[#FDD134] hover:bg-white hover:text-space2  text-gray"><a href="https://maps.app.goo.gl/rEaZcotMjmZvzWAc8">Lokasi</a></button>
       <button className="border-none bg-[#FDD134] hover:bg-white hover:text-space2 text-white btn" onClick={()=>document.getElementById('my_modal_1').showModal()}>See All</button>
 <dialog id="my_modal_1" className="modal">
   <div className="modal-box">
