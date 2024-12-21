@@ -9,7 +9,7 @@ const Sponsor = () => {
             <div className=" relative w-full text-center xl:max-[1260px] font-spacegrotesk overflow-hidden">
                 <div className="w-auto h-full lg:w-full 22xl:w-full overflow-visible font-spacegrotesk text-[42px] md:text-[65px] mx-auto">
                     <div className="flex justify-center">
-                <div className="text-4xl  font-spacegrotesk font-extrabold text-white rounded-2xl border-[4px] border-space2 bg-[#d3d3d3]/100 backdrop-blur-md shadow-xl shadow-space2 max-w-2/3 xl:text-8xl p-6 lg:py-0 xl:p-4 pl-10mr-[180px] relative z-40 text-border-space2 ">Our Partners</div>
+                <div className="text-4xl  font-spacegrotesk font-extrabold text-white rounded-2xl border-[4px] border-space2 bg-[#d3d3d3]/40 backdrop-blur-md shadow-xl shadow-space2 max-w-2/3 xl:text-8xl p-6 lg:py-0 xl:p-4 pl-10mr-[180px] relative z-40 text-border-space2 ">Our Partners</div>
                 </div>
                 <div className="border-2 bg-[#d3d3d3]/60 backdrop-blur-md rounded-2xl mt-[30px]">
                 <div className="flex flex-wrap items-center justify-center  gap-[24px]  bg-white/40 rounded ">
