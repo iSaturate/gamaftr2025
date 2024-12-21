@@ -3,7 +3,7 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <div className='relative md:mt-20 md:pt-36 bg-[#9D81E8]'>
+    <div className='relative md:mt-20 md:pt-36 bg-[#051d42]'>
           <div className="absolute z-10 left-[0%] bottom-[0%] scale-100   translate-y-1/5 ">
            <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Frame%209.png?raw=true" alt="" className="" /> </div>
     <footer className="flex p-2 md:items-center sm:justify-between gap-[10px] md:gap-[40px] md:p-10 md:rounded-full shadow-2xl footer bg-space2/70 text-space1 shadow-red-700 md:scale-100 md:px-36 relative z-40">
