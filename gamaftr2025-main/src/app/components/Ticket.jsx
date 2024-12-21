@@ -21,7 +21,7 @@ const Ticket = () => {
             <div className="flex justify-center pt-10">
             <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/1704419489494.jpg?raw=true" alt="Shoes" className='md:max-w-[95%] lg:md:max-w-[95%]  vm:max-w-[95%] xl:md:max-w-[100%] shadow-[0px_0px_20px_#7BE6D4] sm:max-w-[95%] rounded-lg' />
             </div>
-              <h1 className="block pb-5 mt-auto text-4xl font-outfit font-bold leading-5 text-[#B4BBFF]  xl:text-5xl">Try Out</h1>
+              <h1 className="block pb-5 mt-auto text-4xl font-outfit font-bold leading-5 text-[#FDD134]  xl:text-5xl">Try Out</h1>
             </div>
           </div>
           {/* isi gamaftr ticket */}
@@ -82,7 +82,7 @@ const Ticket = () => {
               <div className="flex justify-center pt-10">
             <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/1704419489494.jpg?raw=true" alt="Shoes" className='md:max-w-[95%] lg:md:max-w-[95%]  vm:max-w-[95%] xl:md:max-w-[100%] shadow-[0px_0px_20px_#7BE6D4]  sm:max-w-[95%] rounded-lg' />
             </div>
-              <h1 className="block pb-5 mt-auto text-4xl font-outfit font-bold text-[#B4BBFF]  xl:text-5xl">Bedah Kampus</h1>
+              <h1 className="block pb-5 mt-auto text-4xl font-outfit font-bold text-[#FDD134]  xl:text-5xl">Bedah Kampus</h1>
             </div>
           </div>
           <div className="absolute z-40 inset-0 h-full w-full rounded-xl bg-[#7BE6D4]  p-8 [transform:rotateY(180deg)] [backface-visibility:hidden]" id='ticketweb'>
