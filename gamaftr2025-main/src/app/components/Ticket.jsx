@@ -31,27 +31,27 @@ const Ticket = () => {
         <div className=" lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
             <h1 className="  md:mb-0 lg:mb-0 font-bold  xl:mb-4 text-[13px] md:text-[13px] sm:text-[8px] sm:mb-0  lg:text-2xl">Pekanbaru</h1>
             <ul>
-                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Hari, tanggal : </strong> Sabtu & Minggu, 18 & 19 Januari 2025</li>
-                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Waktu pelaksanaan : </strong> 07.30 - Selesai</li>
-                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Lokasi : </strong> MAN 2 Pekanbaru </li>
+                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Hari, tanggal: </strong> Sabtu & Minggu, 18 & 19 Januari 2025</li>
+                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Waktu pelaksanaan: </strong> 07.30 - Selesai</li>
+                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Lokasi: </strong> MAN 2 Pekanbaru </li>
             </ul>
         </div>
 
         <div className="lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
             <h1 className=" font-bold sm:mb-0 md:mb-0 lg:mb-0 xl:mb-4 text-[13px] md:text-[13px]  lg:text-2xl sm:text-[8px]">Duri</h1>
             <ul>
-                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Hari, tanggal : </strong> Sabtu, 18 Januari 2025</li>
-                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Waktu pelaksanaan : </strong> 07.30 - Selesai</li>
-                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Lokasi : </strong> SMA Negeri 2 Mandau</li>
+                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Hari, tanggal: </strong> Sabtu, 18 Januari 2025</li>
+                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Waktu pelaksanaan: </strong> 07.30 - Selesai</li>
+                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Lokasi: </strong> SMA Negeri 2 Mandau</li>
             </ul>
         </div>
 
         <div className=" lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
             <h1 className=" font-bold sm:mb-0 md:mb-0 sm:text-[8px] lg:mb-0 xl:mb-4 text-[13px] md:text-[13px]  lg:text-2xl">Dumai</h1>
             <ul>
-                <l className="text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px] " ><strong>Hari, tanggal : </strong> Minggu, 19 Januari 2025</l>
-                <li className="text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]" ><strong>Waktu pelaksanaan : </strong> 07.30 - Selesai</li>
-                <li className="text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]" ><strong>Lokasi : </strong> SMA Negeri 2 Dumai</li>
+                <l className="text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px] " ><strong>Hari, tanggal: </strong> Minggu, 19 Januari 2025</l>
+                <li className="text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]" ><strong>Waktu pelaksanaan: </strong> 07.30 - Selesai</li>
+                <li className="text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]" ><strong>Lokasi: </strong> SMA Negeri 2 Dumai</li>
             </ul>
         </div>
               <div className="mt-auto space-y-4 ">
@@ -90,9 +90,9 @@ const Ticket = () => {
             <div className=" lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
             <h1 className=" font-bold mb-4 sm:mb-0  lg:mb-0 xl:mb-4 text-[13px] md:text-[13px]  lg:text-2xl sm:text-[10px]"></h1>
             <ul>
-                <li className='text-[10px] sm:text-[8px]  md:text-[10px] lg:text-[14px]'><strong>Hari, tanggal : </strong> Sabtu, 25 Januari 2025</li>
-                <li className='text-[10px] sm:text-[8px]  md:text-[10px] lg:text-[14px]'><strong>Waktu pelaksanaan : </strong> 07.30 - Selesai</li>
-                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Lokasi : </strong>Menara Dang Merdu Bank Riau Kepri</li>
+                <li className='text-[10px] sm:text-[8px]  md:text-[10px] lg:text-[14px]'><strong>Hari, tanggal: </strong> Sabtu, 25 Januari 2025</li>
+                <li className='text-[10px] sm:text-[8px]  md:text-[10px] lg:text-[14px]'><strong>Waktu pelaksanaan: </strong> 07.30 - Selesai</li>
+                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Lokasi: </strong>Menara Dang Merdu Bank Riau Kepri</li>
             </ul>
         </div>
               <div className="gap-4 mt-auto">
