@@ -85,7 +85,7 @@ const Ticket = () => {
               <h1 className="block pb-5 mt-auto text-4xl font-montserrat font-bold text-[#205FC9]  xl:text-5xl">Bedah Kampus</h1>
             </div>
           </div>
-          <div className="absolute z-40 inset-0 h-full w-full rounded-xl bg-[#FFB0C5]/50  p-8 [transform:rotateY(180deg)] [backface-visibility:hidden] [backdrop-blur-lg p-4]" id='ticketweb'>
+          <div className="absolute z-40 inset-0 h-full w-full rounded-xl bg-[#FFB0C5]  p-8 [transform:rotateY(180deg)] [backface-visibility:hidden]" id='ticketweb'>
             <div className="flex flex-col justify-between h-full">
             <div className=" lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
             <h1 className=" font-bold mb-4 sm:mb-0  lg:mb-0 xl:mb-4 text-[13px] md:text-[13px]  lg:text-2xl sm:text-[10px]"></h1>
