@@ -19,7 +19,7 @@ const Ticket = () => {
           <div className="absolute inset-0 z-40 p-8 bg-gray-800 rounded-xl">
             <div className="flex flex-col justify-between h-full">
             <div className="flex justify-center pt-10">
-            <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/1704419489494.jpg?raw=true" alt="Shoes" className='md:max-w-[95%] lg:md:max-w-[95%]  vm:max-w-[95%] xl:md:max-w-[100%] shadow-[0px_0px_20px_#F8F37B] sm:max-w-[95%] rounded-lg' />
+            <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/1704419489494.jpg?raw=true" alt="Shoes" className='md:max-w-[95%] lg:md:max-w-[95%]  vm:max-w-[95%] xl:md:max-w-[100%] shadow-[0px_0px_20px_#7BE6D4] sm:max-w-[95%] rounded-lg' />
             </div>
               <h1 className="block pb-5 mt-auto text-4xl font-outfit font-bold leading-5 text-[#205FC9]  xl:text-5xl">Try Out</h1>
             </div>
@@ -80,7 +80,7 @@ const Ticket = () => {
           <div className="absolute inset-0 z-40 p-8 bg-gray-800 rounded-xl">
             <div className="flex flex-col justify-between h-full">
               <div className="flex justify-center pt-10">
-            <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/1704419489494.jpg?raw=true" alt="Shoes" className='md:max-w-[95%] lg:md:max-w-[95%]  vm:max-w-[95%] xl:md:max-w-[100%] shadow-[0px_0px_20px_#FD5289]  sm:max-w-[95%] rounded-lg' />
+            <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/1704419489494.jpg?raw=true" alt="Shoes" className='md:max-w-[95%] lg:md:max-w-[95%]  vm:max-w-[95%] xl:md:max-w-[100%] shadow-[0px_0px_20px_#7BE6D4]  sm:max-w-[95%] rounded-lg' />
             </div>
               <h1 className="block pb-5 mt-auto text-4xl font-outfit font-bold text-[#205FC9]  xl:text-5xl">Bedah Kampus</h1>
             </div>
