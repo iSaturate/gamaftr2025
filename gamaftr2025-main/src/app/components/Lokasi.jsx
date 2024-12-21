@@ -46,7 +46,7 @@ const Lokasi = () => {
   </div>
 </div>
 {/* roadshow */}
-<div className="mt-5 transition shadow-xl card card-compact sm:w-1/2 w-50 md:w-70 lg:[50%] xl:[20%] bg-base-100 hover:scale-125 hover:z-40 hover:shadow-lg hover:shadow-space2 bg-[#9D81E8]">
+<div className="mt-5 transition shadow-xl card card-compact sm:w-1/2 w-50 md:w-70 lg:[50%] xl:[20%] hover:scale-125 hover:z-40 hover:shadow-lg hover:shadow-space2 bg-[#9D81E8]">
   <figure><img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/roadshow.png?raw=true" alt="Shoes" className='md:max-w-[350px]'  /></figure>
   <div className="card-body">
     <h2 className="font-bold card-title text-space2 font-spacegrotesk">Roadshow</h2>
@@ -126,7 +126,7 @@ const Lokasi = () => {
   </div>
 </div>
 {/* bedah kampus */}
-<div className="mt-5 transition shadow-xl card card-compact sm:w-1/2 w-50 md:w-70 lg:[50%] xl:[20%] bg-base-100 hover:scale-125 hover:z-40 hover:shadow-lg hover:shadow-space2 bg-[#9D81E8]">
+<div className="mt-5 transition shadow-xl card card-compact sm:w-1/2 w-50 md:w-70 lg:[50%] xl:[20%] hover:scale-125 hover:z-40 hover:shadow-lg hover:shadow-space2 bg-[#9D81E8]">
   <figure><img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/bedahkampus.png?raw=true" alt="Shoes" className='md:max-w-[350px]' /></figure>
   <div className="card-body">
     <h2 className="font-bold card-title text-space2 font-spacegrotesk">Bedah Kampus</h2>
