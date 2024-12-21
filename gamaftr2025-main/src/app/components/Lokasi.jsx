@@ -11,7 +11,7 @@ const Lokasi = () => {
             <div className="absolute z-40 left-[0%] bottom-[0%] translate-x-1/3 sm:hidden translate-y-1/2">
             <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Group%2050.png?raw=true" alt="" className="" /> </div>
 
-    <h1 className="hidden sm:pt-10  text-3xl font-extrabold text-white s,:text-center sm:flex sm:justify-center font-spacegrotesk md:text-5xl text lg:text-7xl md:pt-5 md:text-border-space2">RANGKAIAN ACARA</h1>
+    <h1 className="hidden sm:pt-10  text-3xl font-extrabold text-white s,:text-center sm:flex sm:justify-center font-spacegrotesk md:text-5xl text lg:text-7xl md:pt-5">RANGKAIAN ACARA</h1>
     <div className="justify-center scale-75 xl:scale-75 sm:scale-[70%]  lg:scale-[60%] md:scale-[45%] md:-translate-y-[50px]  sm:-translate-y-[30px] sm:flex sm:flex-row-2 sm:gap-6 sm:grid-flow-col">
     <div className="md:w-1/2 md:px-8 sm:hidden scale-100 text-7xl font-spacegrotesk font-extrabold text-white rounded-2xl border-[4px] border-space2 bg-space1 shadow-xl shadow-space2 xl:text-8xl p-4 lg:py-0 xl:p-4 pl-10mr-[180px] relative z-40 text-border-space2 text-center">EVENTS</div>
     <div className="mt-5 transition shadow-xl card card-compact sm:w-1/2 w-50 md:w-70 lg:[50%] xl:[20%] bg-base-100 hover:scale-125 hover:z-40 hover:shadow-lg hover:shadow-space2 object-cover bg-gray-800">
