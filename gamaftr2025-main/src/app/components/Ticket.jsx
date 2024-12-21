@@ -49,9 +49,9 @@ const Ticket = () => {
         <div className=" lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
             <h1 className=" font-outfit font-bold sm:mb-0 md:mb-0 sm:text-[8px] lg:mb-0 xl:mb-4 text-[13px] md:text-[13px]  lg:text-2xl">Dumai</h1>
             <ul>
-                <l className=" font-outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px] " ><strong>Hari, tanggal: </strong> Minggu, 19 Januari 2025</l>
-                <li className=" font-outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]" ><strong>Waktu pelaksanaan: </strong> 07.30 - Selesai</li>
-                <li className=" font-outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]" ><strong>Lokasi: </strong> SMA Negeri 2 Dumai</li>
+                <l className="font-outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px] " ><strong>Hari, tanggal: </strong> Minggu, 19 Januari 2025</l>
+                <li className="font-outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]" ><strong>Waktu pelaksanaan: </strong> 07.30 - Selesai</li>
+                <li className="font-outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]" ><strong>Lokasi: </strong> SMA Negeri 2 Dumai</li>
             </ul>
         </div>
               <div className="mt-auto space-y-4 ">
@@ -90,7 +90,7 @@ const Ticket = () => {
             <div className=" lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
             <h1 className=" font-outfit font-bold mb-4 sm:mb-0  lg:mb-0 xl:mb-4 text-[13px] md:text-[13px]  lg:text-2xl sm:text-[10px]"></h1>
             <ul>
-                <li className=' font-outfit text-[10px] sm:text-[8px]  md:text-[10px] lg:text-[14px]'><strong>Hari, tanggal: </strong> Sabtu, 25 Januari 2025</li>
+                <li className='font-outfit text-[10px] sm:text-[8px]  md:text-[10px] lg:text-[14px]'><strong>Hari, tanggal: </strong> Sabtu, 25 Januari 2025</li>
                 <li className='font-outfit text-[10px] sm:text-[8px]  md:text-[10px] lg:text-[14px]'><strong>Waktu pelaksanaan: </strong> 07.30 - Selesai</li>
                 <li className='font outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Lokasi: </strong>Menara Dang Merdu Bank Riau Kepri</li>
             </ul>
