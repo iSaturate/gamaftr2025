@@ -17,7 +17,7 @@ const Lokasi = () => {
     <div className="mt-5 transition shadow-xl card card-compact sm:w-1/2 w-50 md:w-70 lg:[50%] xl:[20%] hover:scale-125 hover:z-40 hover:shadow-lg hover:shadow-space2 object-cover bg-[#9D81E8]">
   <figure><img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/opening.png?raw=true" alt="Shoes" className='md:max-w-[350px]'  /></figure>
   <div className="card-body">
-    <h2 className="font-bold card-title text-space2 text-[#FDD134] font-spacegrotesk">Opening</h2>
+    <h2 className="font-bold card-title text-[#FDD134] font-spacegrotesk">Opening</h2>
      <p className='text-xl text-white sm:text-sm md:text-sm'>Simbolisasi pembukaan rangkaian kegiatan GAMAFTR 2025</p>
     <div className="justify-end card-actions">
       <button className="border-none btn btn-primary bg-[#FDD134] hover:bg-white hover:text-space2  text-white"><a href="https://maps.app.goo.gl/rEaZcotMjmZvzWAc8">Lokasi</a></button>
@@ -49,7 +49,7 @@ const Lokasi = () => {
 <div className="mt-5 transition shadow-xl card card-compact sm:w-1/2 w-50 md:w-70 lg:[50%] xl:[20%] hover:scale-125 hover:z-40 hover:shadow-lg hover:shadow-space2 bg-[#9D81E8]">
   <figure><img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/roadshow.png?raw=true" alt="Shoes" className='md:max-w-[350px]'  /></figure>
   <div className="card-body">
-    <h2 className="font-bold card-title text-space2 text-[#FDD134] font-spacegrotesk">Roadshow</h2>
+    <h2 className="font-bold card-title text-[#FDD134] font-spacegrotesk">Roadshow</h2>
      <p className='text-xl text-white sm:text-sm md:text-sm'>Rangkaian sosialisasi ke SMA/SMK/MA</p>
     <div className="justify-end card-actions">
       <button className="border-none bg-[#FDD134] text-white hover:bg-white hover:text-space2 btn" onClick={()=>document.getElementById('my_modal_2').showModal()}>See All</button>
@@ -80,7 +80,7 @@ const Lokasi = () => {
 <div className="mt-5 transition shadow-xl card card-compact sm:w-1/2 w-50 md:w-70 lg:[50%] xl:[20%] hover:scale-125 hover:z-40 hover:shadow-lg hover:shadow-space2 bg-[#9D81E8]">
   <figure><img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/resize/IMG_3165-min%20(2)%20(1)%20(1).png?raw=true" alt="Shoes" className='md:max-w-[350px]'  /></figure>
   <div className="card-body">
-    <h2 className="font-bold card-title text-space2 text-[#FDD134] font-spacegrotesk">Try Out</h2>
+    <h2 className="font-bold card-title text-[#FDD134] font-spacegrotesk">Try Out</h2>
      <p className='text-xl text-white sm:text-sm md:text-sm'> GAMAFTR 2025 menyediakan wadah bagi siswa/i di Provinsi Riau yang ingin mempersiapkan diri masuk Perguruan Tinggi</p>
     <div className="justify-end card-actions">
     <div className="dropdown dropdown-right">
@@ -129,7 +129,7 @@ const Lokasi = () => {
 <div className="mt-5 transition shadow-xl card card-compact sm:w-1/2 w-50 md:w-70 lg:[50%] xl:[20%] hover:scale-125 hover:z-40 hover:shadow-lg hover:shadow-space2 bg-[#9D81E8]">
   <figure><img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/bedahkampus.png?raw=true" alt="Shoes" className='md:max-w-[350px]' /></figure>
   <div className="card-body">
-    <h2 className="font-bold card-title text-space2 text-[#FDD134] font-spacegrotesk">Bedah Kampus</h2>
+    <h2 className="font-bold card-title text-[#FDD134] font-spacegrotesk">Bedah Kampus</h2>
      <p className='text-xl text-white sm:text-sm md:text-sm'> Penutupan rangkaian kegiatan GAMAFTR 2025 </p>
     <div className="justify-end card-actions">
       <a href="https://maps.app.goo.gl/dq43VoFxv9eHoysNA">
