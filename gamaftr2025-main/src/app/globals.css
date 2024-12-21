@@ -28,22 +28,6 @@
   }
 }
 
-@keyframes move-clouds {
-  0% {
-    transform: translateX(-100%);
-  }
-  100% {
-    transform: translateX(100%);
-  }
-}
-
-.cloud-animation {
-  animation: move-clouds 10s linear infinite;
-  top: 100px; /* Posisi vertikal */
-  max-width: 300px;
-}
-
-
 @keyframes rotatePlanet {
   from {
     transform: rotate(0deg);
