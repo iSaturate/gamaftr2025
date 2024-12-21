@@ -5,7 +5,7 @@ const Lokasi = () => {
   return (
    <div className="relative z-30 flex justify-center mx-auto pt-36 md:mt-5 font-inter" id='event'>
     <div className="flex justify-center">
-    <div className="sm:border-[3px] sm:shadow-[0px_0px_20px_#FFC100] sm:bg-space1 sm:shadow-space2 sm:border-space2 sm:rounded-2x1  relative z-40 md:-translate-y-[100px] lg:-translate-y-[200px] max-w-[1280px]">
+    <div className="sm:border-[3px] sm:shadow-[0px_0px_20px_#FFC100] sm:bg-[#d3d3d3]/60 backdrop-blur-md sm:shadow-space2 sm:border-space2 sm:rounded-2x1  relative z-40 md:-translate-y-[100px] lg:-translate-y-[200px] max-w-[1280px]">
     <div className="absolute z-40 right-[0%] bottom-[0%] -translate-x-1/2 sm:hidden translate-y-1/2">
             <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/batu%20angkasa.PNG?raw=true" alt="" className="" /> </div>
             <div className="absolute z-40 left-[0%] bottom-[0%] translate-x-1/3 sm:hidden translate-y-1/2">
