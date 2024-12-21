@@ -61,7 +61,7 @@
         
 }
 .animate-spiral {
-  animation: rotatePlanet 10s linear infinite;
+  animation: rotateCloud 10s linear infinite;
 }
 
 .animate-random {
