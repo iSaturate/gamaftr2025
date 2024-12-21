@@ -31,9 +31,9 @@ const Ticket = () => {
         <div className=" lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
             <h1 className="  md:mb-0 lg:mb-0 font-outfit font-bold  xl:mb-4 text-[13px] md:text-[13px] sm:text-[8px] sm:mb-0  lg:text-2xl">Pekanbaru</h1>
             <ul>
-                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Hari, tanggal: </strong> Sabtu & Minggu, 18 & 19 Januari 2025</li>
-                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Waktu pelaksanaan: </strong> 07.30 - Selesai</li>
-                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Lokasi: </strong> MAN 2 Pekanbaru </li>
+                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px] font-outfit'><strong>Hari, tanggal: </strong> Sabtu & Minggu, 18 & 19 Januari 2025</li>
+                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px] font-outfit'><strong>Waktu pelaksanaan: </strong> 07.30 - Selesai</li>
+                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px] font-outfit'><strong>Lokasi: </strong> MAN 2 Pekanbaru </li>
             </ul>
         </div>
 
