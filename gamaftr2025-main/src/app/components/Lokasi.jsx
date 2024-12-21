@@ -52,7 +52,7 @@ const Lokasi = () => {
     <h2 className="font-bold card-title text-[#FDD134] font-spacegrotesk">Roadshow</h2>
      <p className='text-xl text-white sm:text-sm md:text-sm'>Rangkaian sosialisasi ke SMA/SMK/MA</p>
     <div className="justify-end card-actions">
-      <button className="border-none bg-[#FDD134] text-white hover:bg-white hover:text-space2  tex-gray-900 btn" onClick={()=>document.getElementById('my_modal_2').showModal()}>See All</button>
+      <button className="border-none bg-[#FDD134] text-gray-900 hover:bg-white hover:text-space2  btn" onClick={()=>document.getElementById('my_modal_2').showModal()}>See All</button>
 <dialog id="my_modal_2" className="modal">
   <div className="modal-box">
     <h3 className="md:text-[10px] xl:text-lg font-bold">Roadshow</h3>
