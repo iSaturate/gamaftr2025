@@ -2,7 +2,7 @@ import './globals.css'
 //👇 Import our second font
 import { Open_Sans, Roboto_Mono, Montserrat, Space_Grotesk, Outfit} from 'next/font/google'
 
-import localFont from 'next/font/local'
+//import localFont from 'next/font/local'
 
 const openSansConfig = Open_Sans({
   subsets: ['latin'],
@@ -38,12 +38,12 @@ const OutfitConfig = Outfit({
   variable: '--font-outfit',
 })
 
-const pulsarConfig = localFont({
-src: '/Pulsar.otf',
-display: 'swap',
-variable: '--font-pulsar',
+//const pulsarConfig = localFont({
+//src: '/Pulsar.otf',
+//display: 'swap',
+//variable: '--font-pulsar',
   
-})
+//})
 
 export const metadata = {
   title: 'Gadjah Mada Flies To Riau 2025',
