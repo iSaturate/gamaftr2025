@@ -20,8 +20,8 @@ const Lokasi = () => {
     <h2 className="font-bold card-title text-[#FDD134] font-spacegrotesk">Opening</h2>
      <p className='text-xl text-white sm:text-sm md:text-sm'>Simbolisasi pembukaan rangkaian kegiatan GAMAFTR 2025</p>
     <div className="justify-end card-actions">
-      <button className="border-none btn btn-primary bg-[#FDD134] hover:bg-white hover:text-space2  text-gray"><a href="https://maps.app.goo.gl/rEaZcotMjmZvzWAc8">Lokasi</a></button>
-      <button className="border-none bg-[#FDD134] hover:bg-white hover:text-space2 text-white btn" onClick={()=>document.getElementById('my_modal_1').showModal()}>See All</button>
+      <button className="border-none btn btn-primary bg-[#FDD134] hover:bg-white hover:text-space2  text-gray-900"><a href="https://maps.app.goo.gl/rEaZcotMjmZvzWAc8">Lokasi</a></button>
+      <button className="border-none bg-[#FDD134] hover:bg-white hover:text-space2 text-gray-900 btn" onClick={()=>document.getElementById('my_modal_1').showModal()}>See All</button>
 <dialog id="my_modal_1" className="modal">
   <div className="modal-box">
     <h3 className="md:text-[10px] xl:text-lg font-bold">Opening</h3>
@@ -52,7 +52,7 @@ const Lokasi = () => {
     <h2 className="font-bold card-title text-[#FDD134] font-spacegrotesk">Roadshow</h2>
      <p className='text-xl text-white sm:text-sm md:text-sm'>Rangkaian sosialisasi ke SMA/SMK/MA</p>
     <div className="justify-end card-actions">
-      <button className="border-none bg-[#FDD134] text-white hover:bg-white hover:text-space2 btn" onClick={()=>document.getElementById('my_modal_2').showModal()}>See All</button>
+      <button className="border-none bg-[#FDD134] text-white hover:bg-white hover:text-space2  tex-gray-900 btn" onClick={()=>document.getElementById('my_modal_2').showModal()}>See All</button>
 <dialog id="my_modal_2" className="modal">
   <div className="modal-box">
     <h3 className="md:text-[10px] xl:text-lg font-bold">Roadshow</h3>
@@ -84,14 +84,14 @@ const Lokasi = () => {
      <p className='text-xl text-white sm:text-sm md:text-sm'> GAMAFTR 2025 menyediakan wadah bagi siswa/i di Provinsi Riau yang ingin mempersiapkan diri masuk Perguruan Tinggi</p>
     <div className="justify-end card-actions">
     <div className="dropdown dropdown-right">
-  <div tabIndex={0} role="button" className="border-none btn btn-primary bg-[#FDD134] hover:bg-white hover:text-space2  text-white">Lokasi</div>
+  <div tabIndex={0} role="button" className="border-none btn btn-primary bg-[#FDD134] hover:bg-white hover:text-space2  text-gray-900">Lokasi</div>
   <ul tabIndex={0} className="dropdown-content z-[1] menu p-2 shadow bg-base-100 rounded-box w-52">
     <li><a href='https://maps.app.goo.gl/bbtERxCf86KVU3bh9'>Pekanbaru</a></li>
     <li><a href='https://maps.app.goo.gl/p92DtTRYTEaXPsPT8'>Duri</a></li>
     <li ><a href='https://maps.app.goo.gl/NBi4vTxm2My8aCGr8'>Dumai</a></li>
   </ul>
 </div>
-      <button className="border-none bg-[#FDD134] hover:bg-white hover:text-space2 text-white btn" onClick={()=>document.getElementById('my_modal_3').showModal()}>See All</button>
+      <button className="border-none bg-[#FDD134] hover:bg-white hover:text-space2 text-gray-900 btn" onClick={()=>document.getElementById('my_modal_3').showModal()}>See All</button>
 <dialog id="my_modal_3" className="modal">
   <div className="modal-box">
     <h3 className="md:text-[10px] xl:text-lg font-bold">Try Out</h3>
@@ -133,9 +133,9 @@ const Lokasi = () => {
      <p className='text-xl text-white sm:text-sm md:text-sm'> Penutupan rangkaian kegiatan GAMAFTR 2025 </p>
     <div className="justify-end card-actions">
       <a href="https://maps.app.goo.gl/dq43VoFxv9eHoysNA">
-      <button className="border-none btn btn-primary bg-[#FDD134] hover:bg-white hover:text-space2  text-white">Lokasi</button>
+      <button className="border-none btn btn-primary bg-[#FDD134] hover:bg-white hover:text-space2  text-gray-900">Lokasi</button>
       </a>
-      <button className="border-none bg-[#FDD134] hover:bg-white hover:text-space2 text-white btn" onClick={()=>document.getElementById('my_modal_4').showModal()}>See All</button>
+      <button className="border-none bg-[#FDD134] hover:bg-white hover:text-space2 text-gray-900 btn" onClick={()=>document.getElementById('my_modal_4').showModal()}>See All</button>
 <dialog id="my_modal_4" className="modal">
   <div className="modal-box">
     <h3 className="md:text-[10px] xl:text-lg font-bold">Bedah Kampus</h3>
