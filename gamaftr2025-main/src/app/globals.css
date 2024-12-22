@@ -11,6 +11,29 @@
   }
 }
 
+.cloud-layer-1 {
+  position: absolute;
+  left: 13.57%;
+  right: 6%;
+  top: 32.95%;
+  bottom: 0;
+  background: #FFFFFF;
+  border-radius: 50%;
+  animation: cloudMove 20s linear infinite; /* Add animation */
+}
+
+.cloud-layer-2 {
+  position: absolute;
+  left: 11.21%;
+  right: 84.39%;
+  top: 68.25%;
+  bottom: 15.13%;
+  background: #FFFFFF;
+  border-radius: 50%;
+  animation: cloudMove 30s linear infinite; /* Add animation with different speed */
+}
+
+
 @keyframes randomMove {
   0% { transform: translate(2rem, -2rem); }
   25% { transform: translate(3rem, -3rem); }
