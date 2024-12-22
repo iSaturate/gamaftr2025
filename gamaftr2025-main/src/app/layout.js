@@ -32,7 +32,7 @@ const robotoMonoConfig = Roboto_Mono({
   variable: '--font-roboto-mono',
 })
 
-const OutfitConfig = Outfit({
+const outfitConfig = Outfit({
   subsets: ['latin'],
   display: 'swap',
   variable: '--font-outfit',
@@ -75,7 +75,7 @@ export default function RootLayout({ children }) {
     // 👇 Attach CSS variables to HTML
     <html
       lang="en"
-      className={`${openSansConfig.variable} ${robotoMonoConfig.variable} ${spaceGroteskConfig.variable} ${montserratConfig.variable} ${OutfitConfig.variable} font-sans`}
+      className={`${openSansConfig.variable} ${robotoMonoConfig.variable} ${spaceGroteskConfig.variable} ${montserratConfig.variable} ${outfitConfig.variable} font-sans`}
     >
       <head>
         {/* Add the link to the favicon */}
