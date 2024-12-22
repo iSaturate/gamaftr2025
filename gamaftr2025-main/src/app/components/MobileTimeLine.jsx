@@ -16,9 +16,9 @@ const MobileTimeline = () => {
           <div className="container mx-auto">
             <div className="p-4 overflow-hidden">
               <div className="flex flex-col items-center justify-center mb-8 mobile-timeline-item">
-                <div className="w-1/2 px-1 py-2 text-center border-4 bg-blue-950 border-space2 rounded-3xl">
+                <div className="w-1/2 px-1 py-2 text-center border-4 bg-white border-space2 rounded-3xl">
                   <p className="mb-3 text-lg font-bold text-yellow-300 font-spacegrotesk md:text-2xl">5 Januari 2025</p>
-                  <h4 className="mb-3 text-xl font-extrabold text-yellow-300 font-spacegrotesk md:text-6xl"style={{ color: '#FFA500' }}>Opening</h4>
+                  <h4 className="mb-3 text-xl font-extrabold text-yellow-300 font-spacegrotesk md:text-6xl">Opening</h4>
                 </div>
               </div>
 
