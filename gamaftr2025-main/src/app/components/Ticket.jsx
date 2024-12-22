@@ -56,7 +56,7 @@ const Ticket = () => {
               <div className="mt-auto space-y-4 ">
                 <div className="flex items-center justify-between gap-4 mt-auto lg:pb-2" >
                 <div className="dropdown dropdown-right md:mt-2">
-                <button onClick={handleClick} className="border-none text-white shadow-[0px_0px_20px_#205FC9] hover:bg-[#FFB0C5] hover: btn btn-primary bg-[#FDD134]"><a className='font-bold font-spacegrotesk'>Daftar</a></button>
+                <button onClick={handleClick} className="border-none text-white shadow-[0px_0px_20px_#FD5289] hover:bg-[#F8F37B] hover: btn btn-primary bg-[#FDD134]"><a className='font-bold font-spacegrotesk'>Daftar</a></button>
                 
   {/* <ul tabIndex={0} className="dropdown-content z-[1] menu p-2 shadow bg-base-100 rounded-box w-52">
     <li><a href='https://daisyui.com/components/dropdown/'>Pekanbaru</a></li>
@@ -81,10 +81,10 @@ const Ticket = () => {
               <div className="flex justify-center pt-10">
             <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/1704419489494.jpg?raw=true" alt="Shoes" className='md:max-w-[95%] lg:md:max-w-[95%]  vm:max-w-[95%] xl:md:max-w-[100%] shadow-[0px_0px_20px_#F8F37B]  sm:max-w-[95%] rounded-lg' />
             </div>
-              <h1 className="block pb-5 mt-auto text-4xl font-outfit font-bold text-[#FDD134]  xl:text-5xl">Bedah Kampus</h1>
+              <h1 className="block pb-5 mt-auto text-4xl font-outfit font-bold text-[#F8F37B]  xl:text-5xl">Bedah Kampus</h1>
             </div>
           </div>
-          <div className="absolute z-40 inset-0 h-full w-full rounded-xl bg-[#7BE6D4]  p-8 [transform:rotateY(180deg)] [backface-visibility:hidden]" id='ticketweb'>
+          <div className="absolute z-40 inset-0 h-full w-full rounded-xl bg-[#F8F37B]  p-8 [transform:rotateY(180deg)] [backface-visibility:hidden]" id='ticketweb'>
             <div className="flex flex-col justify-between h-full">
             <div className=" lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
             <h1 className=" font-outfit font-bold mb-4 sm:mb-0  lg:mb-0 xl:mb-4 text-[13px] md:text-[13px]  lg:text-2xl sm:text-[10px]"></h1>
@@ -95,7 +95,7 @@ const Ticket = () => {
             </ul>
         </div>
               <div className="gap-4 mt-auto">
-              <button onClick={handleClick} className="border-none text-white shadow-[0px_0px_20px_#205FC9] hover:bg-[#7DBEF8] hover: btn btn-primary bg-[#FDD134]"><a className='font-bold font-spacegrotesk'>Daftar</a></button>
+              <button onClick={handleClick} className="border-none text-white shadow-[0px_0px_20px_#FD5289] hover:bg-[#FDD134] hover: btn btn-primary bg-[#FDD134]"><a className='font-bold font-spacegrotesk'>Daftar</a></button>
               </div>
             </div>
           </div>
