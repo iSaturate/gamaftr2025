@@ -24,8 +24,8 @@ const MobileTimeline = () => {
 
               <div className="flex flex-col items-center justify-center mb-8 mobile-timeline-item">
                 <div className="w-1/2 px-1 py-2 text-center border-4 bg-blue-950 border-space2 rounded-3xl">
-                  <p className="mb-3 text-lg font-bold text-yellow-300 font-spacegrotesk md:text-2xl">6-17 Januari 2025</p>
-                  <h4 className="mb-3 text-xl font-extrabold font-spacegrotesk md:text-6xl">Roadshow</h4>
+                  <p className="mb-3 text-lg font-bold text-red-500 font-spacegrotesk md:text-2xl">6-17 Januari 2025</p>
+                  <h4 className="mb-3 text-xl font-extrabold text-red-500 font-spacegrotesk md:text-6xl">Roadshow</h4>
                 </div>
               </div>
 
