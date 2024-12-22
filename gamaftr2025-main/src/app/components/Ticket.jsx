@@ -56,7 +56,7 @@ const Ticket = () => {
               <div className="mt-auto space-y-4 ">
                 <div className="flex items-center justify-between gap-4 mt-auto lg:pb-2" >
                 <div className="dropdown dropdown-right md:mt-2">
-                <button onClick={handleClick} className="border-none text-white shadow-[0px_0px_20px_#205FC9] hover:bg-[#7DBEF8] hover: btn btn-primary bg-[#FDD134]"><a className='font-bold font-spacegrotesk'>Daftar</a></button>
+                <button onClick={handleClick} className="border-none text-white shadow-[0px_0px_20px_#205FC9] hover:bg-[#FFB0C5] hover: btn btn-primary bg-[#FDD134]"><a className='font-bold font-spacegrotesk'>Daftar</a></button>
                 
   {/* <ul tabIndex={0} className="dropdown-content z-[1] menu p-2 shadow bg-base-100 rounded-box w-52">
     <li><a href='https://daisyui.com/components/dropdown/'>Pekanbaru</a></li>
