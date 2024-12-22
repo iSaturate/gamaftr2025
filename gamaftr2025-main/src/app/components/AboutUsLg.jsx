@@ -7,7 +7,7 @@ const AboutUsLg = () => {
       <div className="relative mt-12 mb-16 text-left lg:flex-grow lg:w-1/2 lg:pl-6 xl:pl-24 md:mb-0 xl:mt-0">
       <img loading="lazy" className="relative object-cover relative z-50 object-center duration-100 lg:scale-125 animate-pulse animate-glow lg:pt-18" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Gamaft/Group%207.png?raw=true" />
       <div className="flex justify-center">
-      <img loading="lazy" className="relative object-cover relative z-50 sm:max-w-[400px] object-center max-w-[290px] md:max-w-[600px] lg:max-w-[400px]  lg:pt-5 flex justify-center" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Gamaft/Charting%20infinite%20horizons%20inspiring%20dreams%20and%20futures.png?raw=true" />
+      <img loading="lazy" className="relative object-cover relative z-100 sm:max-w-[400px] object-center max-w-[290px] md:max-w-[600px] lg:max-w-[400px]  lg:pt-5 flex justify-center" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Gamaft/Charting%20infinite%20horizons%20inspiring%20dreams%20and%20futures.png?raw=true" />
       </div>
       <img loading="lazy" className="animate-cloud-move sm:animate-cloud-move-sm md:animate-cloud-move-md lg:animate-cloud-move-lg absolute z-5 object-cover object-center duration-100 max-w-[200px] vm:max-w-[300px] lg:max-w-[300px] lg:translate-x-[800px] md:translate-x-[700px] sm:translate-x-[700px] md:max-w-[400px]  translate-x-[700px] sm:max-w-[100px] md:translate-y-[200px] lg:-translate-y-[350px] opacity-50" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" />
 
