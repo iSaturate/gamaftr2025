@@ -65,6 +65,34 @@ module.exports = {
         
         // => @media (min-width: 992px) { ... }
       },
+      keyframes: {
+        "cloud-move-x" : {
+          '0%': {transform: 'translateX(0)'},
+          '50%' : {transform: 'translateX(calc(100vw - 200px))'},
+          '100%' : {transform: 'translateX(0)'}
+        },
+        "cloud-move-x-sm" : {
+          '0%': {transform: 'translateX(0)'},
+          '50%' : {transform: 'translateX(calc(100vw - 100px))'},
+          '100%' : {transform: 'translateX(0)'}
+        },
+        "cloud-move-x-md" : {
+          '0%': {transform: 'translateX(0)'},
+          '50%' : {transform: 'translateX(calc(100vw - 400px))'},
+          '100%' : {transform: 'translateX(0)'}
+        },
+        "cloud-move-x-lg" : {
+          '0%': {transform: 'translateX(0)'},
+          '50%' : {transform: 'translateX(calc(100vw - 300px))'},
+          '100%' : {transform: 'translateX(0)'}
+        },
+      },
+      animation: {
+        "cloudMove" : "cloud-move-x 4s linear infinite",
+        "cloudMove-sm" : "cloud-move-x-sm 4s linear infinite",
+        "cloudMove-md" : "cloud-move-x-md 4s linear infinite",
+        "cloudMove-lg" : "cloud-move-x-lg 4s linear infinite",
+      }
     },
   },
   plugins: [
@@ -84,4 +112,3 @@ module.exports = {
 
   //...
 }
-
