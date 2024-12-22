@@ -46,7 +46,7 @@ const Sponsor = () => {
                
                     {/* medpart */}
                     <div className="gap-5 px-2 pb-5 mb-2 text-center scale-[80%] bg-[#F1723D] sm:scale-100 rounded-2xl">
-  <h1 className="flex items-center justify-center text-lg font-bold text-center font-spacegrotesk text-space1 text-yellow-500">Media Partner</h1>
+  <h1 className="flex items-center justify-center text-lg font-bold text-center font-spacegrotesk text-space1 text-yellow-200">Media Partner</h1>
 
   {/* First Row */}
   <div className="flex items-center justify-center gap-5">
