@@ -40,7 +40,7 @@ const Ticket = () => {
             <h1 className=" font-outfit font-bold sm:mb-0 md:mb-0 lg:mb-0 xl:mb-4 text-[13px] md:text-[13px]  lg:text-2xl sm:text-[8px]">Duri</h1>
             <ul>
                 <li className='font-outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Hari, tanggal: </strong> Sabtu, 18 Januari 2025</li>
-                <li className='dont-outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Waktu pelaksanaan: </strong> 07.30 - Selesai</li>
+                <li className='font-outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Waktu pelaksanaan: </strong> 07.30 - Selesai</li>
                 <li className='font-outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Lokasi: </strong> SMA Negeri 2 Mandau</li>
             </ul>
         </div>
