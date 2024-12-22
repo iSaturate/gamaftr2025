@@ -93,6 +93,13 @@
   }
 }
 
+@font-face {
+    font-family: 'PulsarOriginalRegular';
+    src: url('public/PulsarTest1/PulsarOriginalRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
