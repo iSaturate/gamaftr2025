@@ -11,7 +11,7 @@ const Sponsor = () => {
                     <div className="flex justify-center">
                 <div className="text-4xl  font-spacegrotesk font-extrabold text-white rounded-2xl bg-[#d3d3d3]/40 backdrop-blur-md max-w-2/3 xl:text-8xl p-6 lg:py-0 xl:p-4 pl-10mr-[180px] relative z-40">Our Partners</div>
                 </div>
-                <div className="border-2 bg-[#d3d3d3]/100 backdrop-blur-md rounded-2xl mt-[30px]">
+                <div className="border-2 bg-[#d3d3d3]/40 backdrop-blur-md rounded-2xl mt-[30px]">
                 <div className="flex flex-wrap items-center justify-center  gap-[24px]  bg-white/40 rounded ">
                 <div className=" max-w-[190px] md:max-w-[350px] p-[5%] pb-0">
                     <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Gamaft/Logo_Institut_Teknologi_Bandung.png?raw=true" alt="" className="" />
