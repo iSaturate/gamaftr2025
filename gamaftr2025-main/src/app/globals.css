@@ -3,8 +3,6 @@
 @tailwind utilities;
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
-
-
 @keyframes randomMove {
   0% { transform: translate(2rem, -2rem); }
   25% { transform: translate(3rem, -3rem); }
@@ -12,6 +10,7 @@
   75% { transform: translate(-2rem, 2rem); }
   100% { transform: translate(2rem, -2rem); }
 }
+
 @keyframes moveAnimation {
   0% {
     transform: translate(0, 0);
@@ -43,6 +42,7 @@
   -webkit-transform-style: preserve-3d;
   transform-style: preserve-3d;
 }
+
 .backface-hidden {
   transform: translateZ(0);
   -webkit-transform: translateZ(0);
@@ -51,8 +51,6 @@
   backface-visibility: hidden !important;
   -webkit-backface-visibility: hidden;
 }
-
-
 
 .text-border-space1 {
   text-shadow: 
