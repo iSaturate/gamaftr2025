@@ -87,11 +87,11 @@ module.exports = {
           '100%' : {transform: 'translateX(0)'}
         },
       },
-      animation: {
-        "cloudMove" : "cloud-move-x 4s linear infinite",
-        "cloudMove-sm" : "cloud-move-x-sm 4s linear infinite",
-        "cloudMove-md" : "cloud-move-x-md 4s linear infinite",
-        "cloudMove-lg" : "cloud-move-x-lg 4s linear infinite",
+     animation: {
+        "cloud-move" : "cloud-move-x 4s linear infinite",
+        "cloud-move-sm" : "cloud-move-x-sm 4s linear infinite",
+        "cloud-move-md" : "cloud-move-x-md 4s linear infinite",
+        "cloud-move-lg" : "cloud-move-x-lg 4s linear infinite",
       }
     },
   },
