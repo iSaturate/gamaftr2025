@@ -1,6 +1,6 @@
 import './globals.css'
 //👇 Import our second font
-import { Open_Sans, Roboto_Mono, Montserrat, Space_Grotesk, Outfit, Nova_Square} from 'next/font/google'
+import { Open_Sans, Roboto_Mono, Montserrat, Space_Grotesk, Outfit} from 'next/font/google'
 
 //import localFont from 'next/font/local'
 
@@ -36,12 +36,6 @@ const outfitConfig = Outfit({
   subsets: ['latin'],
   display: 'swap',
   variable: '--font-outfit',
-})
-
-const novaSquareConfig = Nova_Square({
-  subsets: ['latin'],
-  display: 'swap',
-  variable: '--font-nova-square',
 })
 
 //const pulsarConfig = localFont({
@@ -81,7 +75,7 @@ export default function RootLayout({ children }) {
     // 👇 Attach CSS variables to HTML
     <html
       lang="en"
-      className={`${openSansConfig.variable} ${robotoMonoConfig.variable} ${spaceGroteskConfig.variable} ${montserratConfig.variable} ${outfitConfig.variable} ${novaSquareConfig.variable} font-sans`}
+      className={`${openSansConfig.variable} ${robotoMonoConfig.variable} ${spaceGroteskConfig.variable} ${montserratConfig.variable} ${outfitConfig.variable} font-sans`}
     >
       <head>
         {/* Add the link to the favicon */}
