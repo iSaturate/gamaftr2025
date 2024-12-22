@@ -71,8 +71,8 @@ module.exports = {
           '100%': {transform: 'translateX(100vw)'}
         },
         "cloud-move-x-sm" : {
-          '0%': {transform: 'translateX(100%)'},
-          '100%' : {transform: 'translateX(-100vw)'}
+          '0%': {transform: 'translateX(-100%)'},
+          '100%' : {transform: 'translateX(100vw)'}
         },
         "cloud-move-x-md" : {
           '0%': {transform: 'translateX(-100%)'},
