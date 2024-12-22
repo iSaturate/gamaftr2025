@@ -27,11 +27,11 @@ const Lokasi = () => {
     <h3 className="md:text-[10px] xl:text-lg font-bold">Opening</h3>
     <p className="py-4"> Simbolisasi pembukaan rangkaian kegiatan GAMAFTR 2025 sebagai langkah awal untuk menyapa seluruh siswa/i yang ada di Provinsi Riau.</p>
     <div className="mb-8">
-            <h1 className="mb-4 text-3xl font-bold">Event Information</h1>
+            <h1 className="mb-4 text-3xl font-outfit font-bold">Event Information</h1>
             <ul>
-                <li><strong>Lokasi : </strong> Car Free Day, Jl. Sudirman</li>
-                <li><strong>Tanggal : </strong> 5 Januari 2025</li>
-                <li><strong>Waktu : </strong> 07.00 - 09.00</li>
+                <li>className="font-outfit"<strong>Lokasi : </strong> Car Free Day, Jl. Sudirman</li>
+                <li>className="font-outfit"<strong>Tanggal : </strong> 5 Januari 2025</li>
+                <li>className="font-outfit"<strong>Waktu : </strong> 07.00 - 09.00</li>
             </ul>
         </div>
     <div className="modal-action">
@@ -49,7 +49,7 @@ const Lokasi = () => {
 <div className="mt-5 transition shadow-xl card card-compact sm:w-1/2 w-50 md:w-70 lg:[50%] xl:[20%] hover:scale-125 hover:z-40 hover:shadow-lg hover:shadow-space2 bg-[#9D81E8]">
   <figure><img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/roadshow.png?raw=true" alt="Shoes" className='md:max-w-[350px]'  /></figure>
   <div className="card-body">
-    <h2 className="font-bold card-title text-[#FDD134] font-spacegrotesk">Roadshow</h2>
+    <h2 className="font-bold card-title text-[#FDD134] font-outfit">Roadshow</h2>
      <p className='text-xl text-white sm:text-sm md:text-sm'>Rangkaian sosialisasi ke SMA/SMK/MA</p>
     <div className="justify-end card-actions">
       <button className="border-none bg-[#FDD134] text-gray-900 hover:bg-white hover:text-space2  btn" onClick={()=>document.getElementById('my_modal_2').showModal()}>See All</button>
