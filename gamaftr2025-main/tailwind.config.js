@@ -82,6 +82,51 @@ module.exports = {
     themeRoot: ":root", // The element that receives theme color CSS variables
   },
 
+  
+  @keyframes cloudMoveX {
+  0% {
+    transform: translateX(-100%); /* Start off the screen on the left */
+  }
+  100% {
+    transform: translateX(100%); /* Move completely off the screen to the right */
+  }
+}
+
+.cloud-container {
+  position: relative;
+  width: 100%; /* Full width of the parent */
+  height: 204px; /* Set a fixed height */
+  overflow: hidden; /* Hide clouds outside the container */
+  background: #D7E5F5; /* Light blue background for the sky */
+}
+
+.cloud-layer {
+  position: absolute;
+  top: 50%; /* Vertically center */
+  left: 0; /* Start from the left */
+  width: 200px; /* Size of the cloud */
+  height: 100px;
+  background: #FFFFFF; /* White cloud */
+  border-radius: 50%; /* Round shape */
+  animation: cloudMoveX 10s linear infinite; /* Move along X-axis */
+}
+
+.cloud-layer-1 {
+  animation-duration: 15s; /* Different speed for the first layer */
+}
+
+.cloud-layer-2 {
+  animation-duration: 20s; /* Different speed for the second layer */
+}
+
+  
+  animation:{
+    "fly-in": "fly-lr 0.3s ease-in-out",
+    "in-slide-r-to-l" : "slide-r-to-l 0.7s ease-in-out",
+    "in-slide-l-to-r" : "slide-l-to-r 0.7s ease-in-out",
+    "spin-custom-speed" : "spin-custom 4s linear infinite"
+  },
+
   //...
 }
 
