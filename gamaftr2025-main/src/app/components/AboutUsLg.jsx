@@ -11,7 +11,7 @@ const AboutUsLg = () => {
       </div>
       <img loading="lazy" className="delay-500 animate-cloud-move sm:animate-cloud-move-sm md:animate-cloud-move-md lg:animate-cloud-move-lg absolute z-5 object-cover object-center duration-100 max-w-[200px] vm:max-w-[300px] lg:max-w-[300px] lg:translate-x-[800px] md:translate-x-[700px] sm:translate-x-[700px] md:max-w-[400px]  translate-x-[700px] sm:max-w-[100px] md:translate-y-[200px] lg:-translate-y-[350px] opacity-50" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" />
 
-      <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" alt="Alt Text" className='animate-cloud-move sm:animate-cloud-move-sm md:animate-cloud-move-md lg:animate-cloud-move-lg absolute z-0 -translate-y-[10px] 2xl:-translate-x-[400px] -translate-x-[200px] Edit:-translate-x-[280px] float-left
+      <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" alt="Alt Text" className='delay-1000 animate-cloud-move sm:animate-cloud-move-sm md:animate-cloud-move-md lg:animate-cloud-move-lg absolute z-0 -translate-y-[10px] 2xl:-translate-x-[400px] -translate-x-[200px] Edit:-translate-x-[280px] float-left
        lg:max-[400px] hidden md:block md:max-w-[700px]lg:max-w-[700px]'/>
       <div className='flex justify-center pt-5 scale-70'>
       <a href="https://bit.ly/SALEGAMAFTR2024" className="px-6 py-2 font-extrabold transition duration-300 md:hidden bg-green-400 rounded-xl text-space1  hover:text-space2 font-spacegrotesk hover:shadow-[0px_0px_20px_#31AFAB] relative z-50">Order Ticket</a>
