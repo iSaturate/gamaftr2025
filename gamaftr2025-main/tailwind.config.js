@@ -67,24 +67,20 @@ module.exports = {
       },
       keyframes: {
         "cloud-move-x" : {
-          '0%': {transform: 'translateX(0)'},
-          '50%' : {transform: 'translateX(calc(100vw - 200px))'},
-          '100%' : {transform: 'translateX(0)'}
+          '0%': {transform: 'translateX(-100%)'},
+          '100%': {transform: 'translateX(100vw)'}
         },
         "cloud-move-x-sm" : {
-          '0%': {transform: 'translateX(0)'},
-          '50%' : {transform: 'translateX(calc(100vw - 100px))'},
-          '100%' : {transform: 'translateX(0)'}
+          '0%': {transform: 'translateX(-100%)'},
+          '100%' : {transform: 'translateX(100vw)'}
         },
         "cloud-move-x-md" : {
-          '0%': {transform: 'translateX(0)'},
-          '50%' : {transform: 'translateX(calc(100vw - 400px))'},
-          '100%' : {transform: 'translateX(0)'}
+          '0%': {transform: 'translateX(-100%)'},
+          '100%' : {transform: 'translateX(100vw)'}
         },
         "cloud-move-x-lg" : {
-          '0%': {transform: 'translateX(0)'},
-          '50%' : {transform: 'translateX(calc(100vw - 300px))'},
-          '100%' : {transform: 'translateX(0)'}
+          '0%': {transform: 'translateX(-100%)'},
+          '100%' : {transform: 'translateX(100vw)'}
         },
       },
      animation: {
