@@ -33,6 +33,8 @@ const Sponsor = () => {
                 </div>
                 </div>
 
+                    <div className="border-2 bg-[#d3d3d3]/40 backdrop-blur-md rounded-2xl mt-[30px]">
+
                 <div className="flex flex-wrap items-center justify-evenly mt-[20px] gap-[24px]bg-white/40 rounded">
                 <div className=" max-w-[120px] md:max-w-[230px] p-[5%]">
                     <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/sponsor/Logo%20Asia%20Farm%20(1).png?raw=true" alt="" className="" />
