@@ -88,10 +88,10 @@ module.exports = {
         },
       },
      animation: {
-        "cloud-move" : "cloud-move-x 25s linear infinite",
-        "cloud-move-sm" : "cloud-move-x-sm 25s linear infinite",
-        "cloud-move-md" : "cloud-move-x-md 25s linear infinite",
-        "cloud-move-lg" : "cloud-move-x-lg 25s linear infinite",
+        "cloud-move" : "cloud-move-x 50s linear infinite",
+        "cloud-move-sm" : "cloud-move-x-sm 50s linear infinite",
+        "cloud-move-md" : "cloud-move-x-md 50s linear infinite",
+        "cloud-move-lg" : "cloud-move-x-lg 50s linear infinite",
       }
     },
   },
