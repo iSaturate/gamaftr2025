@@ -64,53 +64,7 @@ module.exports = {
         
         // => @media (min-width: 992px) { ... }
       },
-       keyframes: {
-        "cloud-move-x" : {
-          '0%': {transform: 'translateX(-100%)'},
-          '100%': {transform: 'translateX(100vw)'}
-        },
-        "cloud-move-x-sm" : {
-          '0%': {transform: 'translateX(-100%)'},
-          '100%' : {transform: 'translateX(100vw)'}
-        },
-        "cloud-move-x-md" : {
-          '0%': {transform: 'translateX(-100%)'},
-          '100%' : {transform: 'translateX(100vw)'}
-        },
-        "cloud-move-x-lg" : {
-          '0%': {transform: 'translateX(-100%)'},
-          '100%' : {transform: 'translateX(100vw)'}
-        },
-        "cloud-move-loop" : {
-          '0%': {transform: 'translateX(100vw)'},
-          '100%': {transform: 'translateX(-100%)'}
-         },
-        "cloud-move-loop-sm" : {
-          '0%': {transform: 'translateX(100vw)'},
-          '100%' : {transform: 'translateX(-100%)'}
-        },
-        "cloud-move-loop-md" : {
-          '0%': {transform: 'translateX(100vw)'},
-          '100%' : {transform: 'translateX(-100%)'}
-        },
-        "cloud-move-loop-lg" : {
-          '0%': {transform: 'translateX(100vw)'},
-          '100%' : {transform: 'translateX(-100%)'}
-        },
-      },
-     animation: {
-        "cloud-move" : "cloud-move-x 50s linear infinite",
-        "cloud-move-sm" : "cloud-move-x-sm 50s linear infinite",
-        "cloud-move-md" : "cloud-move-x-md 50s linear infinite",
-        "cloud-move-lg" : "cloud-move-x-lg 50s linear infinite",
-        "cloud-move-loop" : "cloud-move-loop 50s linear infinite",
-        "cloud-move-loop-sm" : "cloud-move-loop-sm 50s linear infinite",
-        "cloud-move-loop-md" : "cloud-move-loop-md 50s linear infinite",
-        "cloud-move-loop-lg" : "cloud-move-loop-lg 50s linear infinite",
-      }
-
-    
-      }
+   
 
     },
   },
