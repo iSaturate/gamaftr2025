@@ -1,6 +1,6 @@
 import './globals.css'
 //👇 Import our second font
-import { Open_Sans, Roboto_Mono, Montserrat, Space_Grotesk, Outfit, Nova_Square} from 'next/font/google'
+import { Open_Sans, Roboto_Mono, Montserrat, Space_Grotesk, Outfit, Audiowide} from 'next/font/google'
 
 const openSansConfig = Open_Sans({
   subsets: ['latin'],
@@ -34,10 +34,10 @@ const outfitConfig = Outfit({
   display: 'swap',
   variable: '--font-outfit',
 })
-const novaSquareConfig = Nova_Square({
+const audiowideConfig = Audiowide({
   subsets: ['latin'],
   display: 'swap',
-  variable: '--font-nova-square',
+  variable: '--font-audiowide',
   weight: '400',
 })
 export const metadata = {
@@ -70,7 +70,7 @@ export default function RootLayout({ children }) {
     // 👇 Attach CSS variables to HTML
     <html
       lang="en"
-      className={`${openSansConfig.variable} ${robotoMonoConfig.variable} ${spaceGroteskConfig.variable} ${montserratConfig.variable} ${outfitConfig.variable} ${novaSquareConfig.variable} font-sans`}
+      className={`${openSansConfig.variable} ${robotoMonoConfig.variable} ${spaceGroteskConfig.variable} ${montserratConfig.variable} ${outfitConfig.variable} ${AudiowideConfig.variable} font-sans`}
     >
       <head>
         {/* Add the link to the favicon */}
