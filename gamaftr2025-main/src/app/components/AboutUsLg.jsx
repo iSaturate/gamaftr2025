@@ -14,7 +14,7 @@ const AboutUsLg = () => {
       <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" alt="Alt Text" className='animate-cloud-move sm:animate-cloud-move-sm md:animate-cloud-move-md lg:animate-cloud-move-lg absolute z-0 -translate-y-[10px] 2xl:-translate-x-[400px] -translate-x-[200px] Edit:-translate-x-[280px] float-left
        lg:max-[400px] hidden md:block md:max-w-[700px]lg:max-w-[700px]'/>
       <div className='flex justify-center pt-5 scale-70'>
-      <a href="https://bit.ly/SALEGAMAFTR2024" className="px-6 py-2 font-extrabold transition duration-300 md:hidden rounded-xl text-space1 bg-space2 hover:bg-white hover:text-space2 font-outfit hover:shadow-[0px_0px_20px_#205FC9] relative z-50">Order Ticket</a>
+      <a href="https://bit.ly/SALEGAMAFTR2024" className="px-6 py-2 font-extrabold transition duration-300 md:hidden rounded-xl text-white bg-space2 hover:bg-white hover:text-space2 font-outfit hover:shadow-[0px_0px_20px_#205FC9] relative z-50">Order Ticket</a>
       </div>
       <a href="#intro" className="flex flex-col items-center mt-0 duration-200 md:mt-20px opacity-90 animate-pulse">
       <span className="text-[21px] pt-5 md:pt-12 ">
