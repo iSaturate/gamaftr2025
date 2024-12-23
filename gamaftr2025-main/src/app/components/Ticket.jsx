@@ -56,7 +56,7 @@ const Ticket = () => {
               <div className="mt-auto space-y-4 ">
                 <div className="flex items-center justify-between gap-4 mt-auto lg:pb-2" >
                 <div className="dropdown dropdown-right md:mt-2">
-                <button onClick={handleClick} className="border-none text-white shadow-[0px_0px_20px_#205FC9] hover:bg-white text-space2 hover: btn btn-primary bg-space2"><a className='font-bold font-outfit'>Daftar</a></button>
+                <button onClick={handleClick} className="border-none text-white shadow-[0px_0px_20px_#205FC9] hover:bg-white hover:text-space2 hover: btn btn-primary bg-space2"><a className='font-bold font-outfit'>Daftar</a></button>
                 
   {/* <ul tabIndex={0} className="dropdown-content z-[1] menu p-2 shadow bg-base-100 rounded-box w-52">
     <li><a href='https://daisyui.com/components/dropdown/'>Pekanbaru</a></li>
@@ -95,7 +95,7 @@ const Ticket = () => {
             </ul>
         </div>
               <div className="gap-4 mt-auto">
-              <button onClick={handleClick} className="border-none text-white shadow-[0px_0px_20px_#205FC9] hover:bg-white text-space2 hover: btn btn-primary bg-space2"><a className='font-bold font-outfitk'>Daftar</a></button>
+              <button onClick={handleClick} className="border-none text-white shadow-[0px_0px_20px_#205FC9] hover:bg-white hover:text-space2 hover: btn btn-primary bg-space2"><a className='font-bold font-outfitk'>Daftar</a></button>
               </div>
             </div>
           </div>
