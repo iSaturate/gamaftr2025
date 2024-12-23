@@ -10,7 +10,7 @@ const Ticket = () => {
     <div className="hidden sm:block" id='ticket1'>
     <div className="flex flex-col sm:flex-row mx-auto min-h-screen items-center justify-center gap-4 xl:pt-60 md:pb-12 lg:my-[10px] relative">
        <img loading="lazy" className="absolute z-10 lg:-translate-x-[40px] scale-[120%] 2xl:max-w-[1900px] md:translate-y-[300px]" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/transparentbox.png?raw=true" />
-      <img loading="lazy" className="absolute z-15 lg:-translate-x-[40px] scale-[100%] 2xl:max-w-[1900px] ml-10 md:translate-y-[-700px]" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/citylandscape.png?raw=true" />
+      <img loading="lazy" className="absolute z-15 lg:-translate-x-[40px] scale-[100%] 2xl:max-w-[1900px] ml-30 md:translate-y-[-1100px]" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/citylandscape.png?raw=true" />
       <div className="text-5xl font-audiowide font-extrabold text-white rounded-2xl border-[4px] bg-[#d3d3d3]/40 backdrop-blur-md shadow-xl  xl:text-8xl p-4 lg:py-0 xl:p-4 pl-10mr-[180px] relative z-40  ">TICKET</div>
       <div className="group h-96 w-80 xl:h-[575px] xl:w-[450px] [perspective:1000px] relative z-40 ">
         <div
