@@ -54,7 +54,7 @@ const Lokasi = () => {
     <div className="justify-end card-actions">
       <button className="border-none bg-[#FDD134] text-gray-900 hover:bg-white hover:text-space2  font-outfit btn" onClick={()=>document.getElementById('my_modal_2').showModal()}>See All</button>
 <dialog id="my_modal_2" className="modal">
-  <div className="modal-box">
+  <div className="modal-box bg-space1">
     <h3 className="md:text-[10px] xl:text-lg font-bold font-outfit text-[#FDD134]">Roadshow</h3>
     <p className="py-4 font-outfit"> Rangkaian sosialisasi ke SMA/SMK/MA/Sederajat di Provinsi Riau yang akan dilaksanakan secara luring maupun daring yang akan diikuti oleh siswa/i kelas 12</p>
     <div className="mb-8">
@@ -65,7 +65,7 @@ const Lokasi = () => {
                 <li><strong>Waktu: </strong> -</li>
             </ul>
         </div>
-    <div className="modal-action bg-space1">
+    <div className="modal-action">
       <form method="dialog">
         {/* if there is a button in form, it will close the modal */}
         <button className="font-outfit btn">Close</button>
