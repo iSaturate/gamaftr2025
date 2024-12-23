@@ -38,6 +38,7 @@ const novaSquareConfig = Nova_Square({
   subsets: ['latin'],
   display: 'swap',
   variable: '--font-nova-square',
+  weight: '400',
 })
 export const metadata = {
   title: 'Gadjah Mada Flies To Riau 2025',
