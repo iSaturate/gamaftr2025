@@ -23,7 +23,7 @@ const Lokasi = () => {
       <button className="border-none btn btn-primary bg-[#FDD134] backdrop-blur-lg hover:bg-white hover:text-space2  text-gray-900 font-outfit"><a href="https://maps.app.goo.gl/rEaZcotMjmZvzWAc8">Lokasi</a></button>
       <button className="border-none bg-[#FDD134] hover:bg-white hover:text-space2 text-gray-900 font-outfit btn" onClick={()=>document.getElementById('my_modal_1').showModal()}>See All</button>
 <dialog id="my_modal_1" className="modal">
-  <div className="modal-box bg-space2">
+  <div className="modal-box bg-space1">
     <h3 className="md:text-[10px] xl:text-lg font-bold font-outfit text-[#FDD134]">Opening</h3>
     <p className="py-4 font-outfit"> Simbolisasi pembukaan rangkaian kegiatan GAMAFTR 2025 sebagai langkah awal untuk menyapa seluruh siswa/i yang ada di Provinsi Riau.</p>
     <div className="mb-8">
@@ -34,8 +34,8 @@ const Lokasi = () => {
                 <li><strong>Waktu: </strong> 07.00 - 09.00</li>
             </ul>
         </div>
-    <div className="modal-action bg-space1">
-      <form method="dialog">
+    <div className="modal-action">
+      <form method="dialog bg-space2">
         {/* if there is a button in form, it will close the modal */}
         <button className="text-white font-outfit btn">Close</button>
       </form>
