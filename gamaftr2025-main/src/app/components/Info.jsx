@@ -6,7 +6,7 @@ const Info = () => {
       <div className="md:hidden relative z-40 my-20  ">
         <div className="relative w-full px-4 pt-5 text-center text-white">
           <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" alt="Alt Text" className='animate-cloud-move sm:animate-cloud-move-sm md:animate-cloud-move-md lg:animate-cloud-move-lg absolute z-10 -translate-x-10'/>
-          <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" alt="Alt Text" className='absolute z-10 rotate-180 -translate-y-[400px] sm:translate-x-10 translate-x-3'/>
+        
         </div>
 
         <div className="relative w-full bg-[#d3d3d3]/60  backdrop-blur-lg p-4 translate-y-[200px]">
