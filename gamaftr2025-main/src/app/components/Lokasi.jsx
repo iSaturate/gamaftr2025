@@ -52,7 +52,7 @@ const Lokasi = () => {
     <h2 className="font-bold card-title text-[#FDD134] font-outfit">Roadshow</h2>
      <p className='font-outfit text-xl text-white sm:text-sm md:text-sm'>Rangkaian sosialisasi ke SMA/SMK/MA</p>
     <div className="justify-end card-actions">
-      <button className="border-none bg-[#FDD134] text-gray-900 hover:bg-white hover:text-space2  font-outfit btn" onClick={()=>document.getElementById('my_modal_2').showModal()}>See All</button>
+      <button className="border-none bg-space1 text-gray-900 hover:bg-white hover:text-space2  font-outfit btn" onClick={()=>document.getElementById('my_modal_2').showModal()}>See All</button>
 <dialog id="my_modal_2" className="modal">
   <div className="modal-box bg-space1">
     <h3 className="md:text-[10px] xl:text-lg font-bold font-outfit text-[#FDD134]">Roadshow</h3>
@@ -68,7 +68,7 @@ const Lokasi = () => {
     <div className="modal-action">
       <form method="dialog">
         {/* if there is a button in form, it will close the modal */}
-        <button className="font-outfit btn">Close</button>
+        <button className="btn bg-space2 font-outfit text-white">Close</button>
       </form>
     </div>
   </div>
@@ -84,14 +84,14 @@ const Lokasi = () => {
      <p className='font-outfit text-xl text-white sm:text-sm md:text-sm'> GAMAFTR 2025 menyediakan wadah bagi siswa/i di Provinsi Riau yang ingin mempersiapkan diri masuk Perguruan Tinggi</p>
     <div className="justify-end card-actions">
     <div className="dropdown dropdown-right">
-  <div tabIndex={0} role="button" className="border-none btn btn-primary bg-[#FDD134] hover:bg-white hover:text-space2  text-gray-900 font-outfit">Lokasi</div>
+  <div tabIndex={0} role="button" className="border-none btn btn-primary bg-space1 hover:bg-white hover:text-space2  text-gray-900 font-outfit">Lokasi</div>
   <ul tabIndex={0} className="dropdown-content z-[1] menu p-2 shadow bg-base-100 rounded-box w-52 font-outfit">
     <li><a href='https://maps.app.goo.gl/bbtERxCf86KVU3bh9'>Pekanbaru</a></li>
     <li><a href='https://maps.app.goo.gl/p92DtTRYTEaXPsPT8'>Duri</a></li>
     <li ><a href='https://maps.app.goo.gl/NBi4vTxm2My8aCGr8'>Dumai</a></li>
   </ul>
 </div>
-      <button className="border-none bg-[#FDD134] hover:bg-white hover:text-space2 text-gray-900 font-outfit btn" onClick={()=>document.getElementById('my_modal_3').showModal()}>See All</button>
+      <button className="border-none bg-space1 hover:bg-white hover:text-space2 text-gray-900 font-outfit btn" onClick={()=>document.getElementById('my_modal_3').showModal()}>See All</button>
 <dialog id="my_modal_3" className="modal">
   <div className="modal-box bg-space1">
     <h3 className="md:text-[10px] xl:text-lg font-outfit font-bold text-[#FDD134]">Try Out</h3>
@@ -117,7 +117,7 @@ const Lokasi = () => {
     <div className="modal-action">
       <form method="dialog">
         {/* if there is a button in form, it will close the modal */}
-        <button className="font-outfit btn">Close</button>
+        <button className="btn bg-space2 font-outfit text-white">Close</button>
       </form>
     </div>
   </div>
@@ -133,9 +133,9 @@ const Lokasi = () => {
      <p className='font-outfit text-xl text-white sm:text-sm md:text-sm'> Penutupan rangkaian kegiatan GAMAFTR 2025 </p>
     <div className="justify-end card-actions">
       <a href="https://maps.app.goo.gl/dq43VoFxv9eHoysNA">
-      <button className="border-none btn btn-primary bg-[#FDD134] hover:bg-white hover:text-space2  text-gray-900 font-outfit">Lokasi</button>
+      <button className="border-none btn btn-primary bg-space1 hover:bg-white hover:text-space2  text-gray-900 font-outfit">Lokasi</button>
       </a>
-      <button className="border-none bg-[#FDD134] hover:bg-white hover:text-space2 text-gray-900 font-outfit btn" onClick={()=>document.getElementById('my_modal_4').showModal()}>See All</button>
+      <button className="border-none bg-space1 hover:bg-white hover:text-space2 text-gray-900 font-outfit btn" onClick={()=>document.getElementById('my_modal_4').showModal()}>See All</button>
 <dialog id="my_modal_4" className="modal">
   <div className="modal-box bg-space1">
     <h3 className="md:text-[10px] xl:text-lg font-bold font-outfit text-[#FDD134]">Bedah Kampus</h3>
@@ -151,7 +151,7 @@ const Lokasi = () => {
     <div className="modal-action">
       <form method="dialog">
         {/* if there is a button in form, it will close the modal */}
-        <button className="font-outfit btn">Close</button>
+        <button className="btn bg-space2 font-outfit text-white">Close</button>
       </form>
     </div>
   </div>
