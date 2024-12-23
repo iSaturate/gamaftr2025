@@ -6,7 +6,7 @@ const Footer = () => {
     <div className='relative md:mt-20 md:pt-36 bg-[#051d42]'>
           <div className="absolute z-10 left-[0%] bottom-[0%] scale-100   translate-y-1/5 ">
            <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Frame%209.png?raw=true" alt="" className="" /> </div>
-    <footer className="flex p-2 md:items-center sm:justify-between gap-[10px] md:gap-[40px] md:p-10 md:rounded-full shadow-2xl footer bg-space2/70 text-space1 shadow-red-700 md:scale-100 md:px-36 relative z-40">
+    <footer className="flex p-2 md:items-center sm:justify-between gap-[10px] md:gap-[40px] md:p-10 md:rounded-full shadow-2xl footer bg-[39D81E8]/70 text-space1 shadow-red-700 md:scale-100 md:px-36 relative z-40">
   <aside className='flex'>
   <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Gamaft/logogamaftr2025%20(2).png?raw=true" alt="" className="max-w-[60px] md:max-w-[150px] md:pl-4 pl-1 ml-3" />
     <p className='hidden text-sm font-extrabold text-gray-800 lg:block md:pt-7 lg:text-lg font-spacegrotesk'>Gadjah Mada <br className='text-sm'/>Flies To Riau 2025<br />©IT GAMAFTR </p>
