@@ -20,12 +20,12 @@ const Ticket = () => {
             <div className="flex justify-center pt-10">
             <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/1704419489494.jpg?raw=true" alt="Shoes" className='md:max-w-[95%] lg:md:max-w-[95%]  vm:max-w-[95%] xl:md:max-w-[100%] shadow-[0px_0px_20px_#F8F37B] sm:max-w-[95%] rounded-lg' />
             </div>
-              <h1 className="block pb-5 mt-auto text-4xl font-outfit font-bold leading-5 text-[#F8F37B]  xl:text-5xl">Try Out</h1>
+              <h1 className="block pb-5 mt-auto text-4xl font-outfit font-bold leading-5 text-space2  xl:text-5xl">Try Out</h1>
             </div>
           </div>
           {/* isi gamaftr ticket */}
           <div
-            className="absolute inset-0 h-full w-full rounded-xl bg-[#F8F37B] p-8 [transform:rotateY(180deg)] [backface-visibility:hidden]  z-40" id='ticketweb'>
+            className="absolute inset-0 h-full w-full rounded-xl bg-[#061328] p-8 [transform:rotateY(180deg)] [backface-visibility:hidden]  z-40" id='ticketweb'>
             <div className="flex flex-col justify-between h-full ">
         <div className=" lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
             <h1 className=" font-outfit font-bold sm:md:mb-0 lg:mb-0 xl:mb-4 text-[13px] md:text-[13px] sm:text-[8px] sm:mb-0  lg:text-2xl">Pekanbaru</h1>
@@ -47,16 +47,16 @@ const Ticket = () => {
 
         <div className=" lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
             <h1 className=" font-outfit font-bold sm:mb-0 md:mb-0 sm:text-[8px] lg:mb-0 xl:mb-4 text-[13px] md:text-[13px]  lg:text-2xl">Dumai</h1>
-            <ul>
-                <l className="font-outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px] " ><strong>Hari, tanggal: </strong> Minggu, 19 Januari 2025</l>
-                <li className="font-outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]" ><strong>Waktu pelaksanaan: </strong> 07.30 - Selesai</li>
-                <li className="font-outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]" ><strong>Lokasi: </strong> SMA Negeri 2 Dumai</li>
+            <ul className="font-outfit">
+                <l className="text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px] " ><strong>Hari, tanggal: </strong> Minggu, 19 Januari 2025</l>
+                <li className="text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]" ><strong>Waktu pelaksanaan: </strong> 07.30 - Selesai</li>
+                <li className="text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]" ><strong>Lokasi: </strong> SMA Negeri 2 Dumai</li>
             </ul>
         </div>
               <div className="mt-auto space-y-4 ">
                 <div className="flex items-center justify-between gap-4 mt-auto lg:pb-2" >
                 <div className="dropdown dropdown-right md:mt-2">
-                <button onClick={handleClick} className="border-none text-white shadow-[0px_0px_20px_#FD5289] hover:bg-[#F1723D] hover: btn btn-primary bg-[#FDD134]"><a className='font-bold font-spacegrotesk'>Daftar</a></button>
+                <button onClick={handleClick} className="border-none text-white shadow-[0px_0px_20px_#205FC9] hover:bg-space2 hover: btn btn-primary bg-space1"><a className='font-bold font-outfit'>Daftar</a></button>
                 
   {/* <ul tabIndex={0} className="dropdown-content z-[1] menu p-2 shadow bg-base-100 rounded-box w-52">
     <li><a href='https://daisyui.com/components/dropdown/'>Pekanbaru</a></li>
@@ -76,26 +76,26 @@ const Ticket = () => {
       <div className="group h-96 w-80 xl:h-[575px] xl:w-[450px] [perspective:1000px] relative z-40">
         <div
           className="relative h-full w-full shadow-xl transition-all duration-500 [transform-style:preserve-3d] group-hover:[transform:rotateY(180deg)] scale-90">
-          <div className="absolute inset-0 z-40 p-8 bg-[#9D81E8] rounded-xl">
+          <div className="absolute inset-0 z-40 p-8 bg-[#061328] rounded-xl">
             <div className="flex flex-col justify-between h-full">
               <div className="flex justify-center pt-10">
             <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/1704419489494.jpg?raw=true" alt="Shoes" className='md:max-w-[95%] lg:md:max-w-[95%]  vm:max-w-[95%] xl:md:max-w-[100%] shadow-[0px_0px_20px_#F8F37B]  sm:max-w-[95%] rounded-lg' />
             </div>
-              <h1 className="block pb-5 mt-auto text-4xl font-outfit font-bold text-[#F8F37B]  xl:text-5xl">Bedah Kampus</h1>
+              <h1 className="block pb-5 mt-auto text-4xl font-outfit font-bold text-space2  xl:text-5xl">Bedah Kampus</h1>
             </div>
           </div>
-          <div className="absolute z-40 inset-0 h-full w-full rounded-xl bg-[#F8F37B]  p-8 [transform:rotateY(180deg)] [backface-visibility:hidden]" id='ticketweb'>
+          <div className="absolute z-40 inset-0 h-full w-full rounded-xl bg-[#061328]  p-8 [transform:rotateY(180deg)] [backface-visibility:hidden]" id='ticketweb'>
             <div className="flex flex-col justify-between h-full">
             <div className=" lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
             <h1 className=" font-outfit font-bold mb-4 sm:mb-0  lg:mb-0 xl:mb-4 text-[13px] md:text-[13px]  lg:text-2xl sm:text-[10px]"></h1>
-            <ul>
-                <li className='font-outfit text-[10px] sm:text-[8px]  md:text-[10px] lg:text-[14px]'><strong>Hari, tanggal: </strong> Sabtu, 25 Januari 2025</li>
-                <li className='font-outfit text-[10px] sm:text-[8px]  md:text-[10px] lg:text-[14px]'><strong>Waktu pelaksanaan: </strong> 07.30 - Selesai</li>
-                <li className='font outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Lokasi: </strong>Menara Dang Merdu Bank Riau Kepri</li>
+            <ul className="font-outfit">
+                <li className='text-[10px] sm:text-[8px]  md:text-[10px] lg:text-[14px]'><strong>Hari, tanggal: </strong> Sabtu, 25 Januari 2025</li>
+                <li className='text-[10px] sm:text-[8px]  md:text-[10px] lg:text-[14px]'><strong>Waktu pelaksanaan: </strong> 07.30 - Selesai</li>
+                <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Lokasi: </strong>Menara Dang Merdu Bank Riau Kepri</li>
             </ul>
         </div>
               <div className="gap-4 mt-auto">
-              <button onClick={handleClick} className="border-none text-white shadow-[0px_0px_20px_#FD5289] hover:bg-[#F1723D] hover: btn btn-primary bg-[#FDD134]"><a className='font-bold font-spacegrotesk'>Daftar</a></button>
+              <button onClick={handleClick} className="border-none text-white shadow-[0px_0px_20px_#205FC9] hover:bg-space2 hover: btn btn-primary bg-space1"><a className='font-bold font-outfitk'>Daftar</a></button>
               </div>
             </div>
           </div>
