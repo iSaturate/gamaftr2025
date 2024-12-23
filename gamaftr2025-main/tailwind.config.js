@@ -101,6 +101,22 @@ module.exports = {
           '0%': {transform: 'translateX(100vw)'},
           '100%' : {transform: 'translateX(-100%)'}
         },
+        "cloud-move-high" : {
+          '0%': {transform: 'translateX(100vw)'},
+          '100%': {transform: 'translateX(-100%)'}
+         },
+        "cloud-move-high-sm" : {
+          '0%': {transform: 'translateX(100vw)'},
+          '100%' : {transform: 'translateX(-100%)'}
+        },
+        "cloud-move-high-md" : {
+          '0%': {transform: 'translateX(100vw)'},
+          '100%' : {transform: 'translateX(-100%)'}
+        },
+        "cloud-move-high-lg" : {
+          '0%': {transform: 'translateX(100vw)'},
+          '100%' : {transform: 'translateX(-100%)'}
+        },
       },
      animation: {
         "cloud-move" : "cloud-move-x 30s linear infinite",
@@ -111,6 +127,10 @@ module.exports = {
         "cloud-move-loop-sm" : "cloud-move-loop-sm 50s linear infinite",
         "cloud-move-loop-md" : "cloud-move-loop-md 50s linear infinite",
         "cloud-move-loop-lg" : "cloud-move-loop-lg 50s linear infinite",
+        "cloud-move-high" : "cloud-move-high 50s linear infinite",
+        "cloud-move-high-sm" : "cloud-move-high-sm 50s linear infinite",
+        "cloud-move-high-md" : "cloud-move-high-md 50s linear infinite",
+        "cloud-move-high-lg" : "cloud-move-high-lg 50s linear infinite",
       }
 
     },
