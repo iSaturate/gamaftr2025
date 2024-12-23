@@ -10,36 +10,36 @@ const MobileTimeline = () => {
           <div className="flex justify-center">
         
         </div>
-        <div className="text-5xl font-spacegrotesk font-extrabold text-white rounded-2xl border-[4px] border-space2 bg-[#205FC9] shadow-xl shadow-space2 xl:text-8xl py-4 pl-10mr-[180px] relative z-40 text-border-space2 text-center">TIMELINE</div>
+        <div className="text-5xl font-audiowide font-extrabold text-white rounded-2xl border-[4px] border-white backdrop-blur-lg shadow-white temb-2 xl:text-8xl py-4 pl-10mr-[180px] relative z-40 text-border-white text-center">TIMELINE</div>
         </div>
         <div className="relative z-40 md:w-1/2">
           <div className="container mx-auto">
             <div className="p-4 overflow-hidden">
               <div className="flex flex-col items-center justify-center mb-8 mobile-timeline-item">
                 <div className="w-1/2 px-1 py-2 text-center border-4 bg-white border-space2 rounded-3xl">
-                  <p className="mb-3 text-lg font-bold text-yellow-300 font-spacegrotesk md:text-2xl">5 Januari 2025</p>
-                  <h4 className="mb-3 text-xl font-extrabold text-yellow-300 font-spacegrotesk md:text-6xl">Opening</h4>
+                  <p className="mb-3 text-lg font-bold text-[#FDD134] font-outfit md:text-2xl">5 Januari 2025</p>
+                  <h4 className="mb-3 text-xl text-[#F1723D] font-extrabold text-yellow-300 font-outfit md:text-6xl">Opening</h4>
                 </div>
               </div>
 
               <div className="flex flex-col items-center justify-center mb-8 mobile-timeline-item">
                 <div className="w-1/2 px-1 py-2 text-center border-4 bg-blue-950 border-space2 rounded-3xl">
-                  <p className="mb-3 text-lg font-bold text-red-500 font-spacegrotesk md:text-2xl">6-17 Januari 2025</p>
-                  <h4 className="mb-3 text-xl font-extrabold text-red-500 font-spacegrotesk md:text-6xl">Roadshow</h4>
+                  <p className="mb-3 text-lg font-bold text-[#FDD134] font-outfit md:text-2xl">6-17 Januari 2025</p>
+                  <h4 className="mb-3 text-xl text-[#F1723D] font-extrabold text-red-500 font-outfit md:text-6xl">Roadshow</h4>
                 </div>
               </div>
 
               <div className="flex flex-col items-center justify-center mb-8 mobile-timeline-item">
                 <div className="w-1/2 px-1 py-2 text-center border-4 bg-blue-950 border-space2 rounded-3xl">
-                  <p className="mb-3 text-lg font-bold text-yellow-300 font-spacegrotesk md:text-2xl">18-19 Januari 2025</p>
-                  <h4 className="mb-3 text-xl font-extrabold font-spacegrotesk md:text-6xl">Try Out</h4>
+                  <p className="mb-3 text-lg font-bold text-[#FDD134] font-outfit md:text-2xl">18-19 Januari 2025</p>
+                  <h4 className="mb-3 text-[#F1723D] text-xl font-extrabold font-outfit md:text-6xl">Try Out</h4>
                 </div>
               </div>
 
               <div className="flex flex-col items-center justify-center mb-8 mobile-timeline-item">
                 <div className="w-1/2 px-1 py-2 text-center border-4 bg-blue-950 border-space2 rounded-3xl">
-                  <p className="mb-3 text-lg font-bold text-yellow-300 font-spacegrotesk md:text-2xl">25 Januari 2025</p>
-                  <h4 className="mb-3 text-xl font-extrabold font-spacegrotesk md:text-6xl">Bedah Kampus</h4>
+                  <p className="mb-3 text-lg font-bold text-[#FDD134] font-outfit md:text-2xl">25 Januari 2025</p>
+                  <h4 className="mb-3 text-[#F1723D] text-xl font-extrabold font-outfit md:text-6xl">Bedah Kampus</h4>
                 </div>
               </div>
             </div>
