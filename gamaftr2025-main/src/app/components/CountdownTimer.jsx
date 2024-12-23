@@ -56,9 +56,9 @@ const CountdownTimer = () => {
   return (
     <div className="relative flex items-center justify-center w-ful mx-5  md:h-screen count md:pt-10 timeline lg:px-2 gap-6 xl:ml-5 mb-5 pb-16">
       <div className="absolute inset-y-0 left-0 z-40 flex items-center w-2/3 md:w-full rocket xl:mr-3 lg:ml-7">
-      <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/image/Property%201=Default.png?raw=true" alt="" className='absolute left-30 z-0 md:translate-x-[400px]  lg:translate-x-[600px] xl:translate-x-[800px] -translate-y-[100px] scale-75' />
+      <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/image/Property%201=Default.png?raw=true" alt="" className='absolute left-30 z-10 md:translate-x-[400px]  lg:translate-x-[600px] xl:translate-x-[800px] -translate-y-[100px] scale-75' />
         <img loading="lazy" className="absolute z-25 lg:-translate-x-[40px] scale-[110%] 2xl:max-w-[1900px]  md:translate-y-[30px]" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/citylandscape.png?raw=true" />
-        <img  src="https://github.com/SyaidFarhan/Gamaftr/blob/main/image/marsbig.png?raw=true" alt="Logo" className="absolute z-0 left-[-620px] scale-75 mars animate-spiral" /> {/* Add the negative margin */}
+        <img  src="https://github.com/SyaidFarhan/Gamaftr/blob/main/image/marsbig.png?raw=true" alt="Logo" className="relative z-0 left-[-620px] scale-75 mars animate-spiral" /> {/* Add the negative margin */}
       </div>
       <div className="relative z-40 md:items-center md:flex">
         <div className="flex items-center justify-center w-full text-center text-white">
