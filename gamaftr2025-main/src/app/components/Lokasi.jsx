@@ -24,10 +24,10 @@ const Lokasi = () => {
       <button className="border-none bg-[#FDD134] hover:bg-white hover:text-space2 text-gray-900 font-outfit btn" onClick={()=>document.getElementById('my_modal_1').showModal()}>See All</button>
 <dialog id="my_modal_1" className="modal">
   <div className="modal-box">
-    <h3 className="md:text-[10px] xl:text-lg font-bold font-outfit">Opening</h3>
+    <h1 className="md:text-[10px] xl:text-lg font-bold font-outfit">Opening</h1>
     <p className="py-4 font-outfit"> Simbolisasi pembukaan rangkaian kegiatan GAMAFTR 2025 sebagai langkah awal untuk menyapa seluruh siswa/i yang ada di Provinsi Riau.</p>
     <div className="mb-8">
-            <h1 className="mb-4 text-3xl font-outfit font-bold">Event Information</h1>
+            <h3 className="mb-4 text-3xl font-outfit font-bold">Event Information</h3>
             <ul className="font-outfit">
                 <li><strong>Lokasi: </strong> Car Free Day, Jl. Sudirman</li>
                 <li><strong>Tanggal: </strong> 5 Januari 2025</li>
