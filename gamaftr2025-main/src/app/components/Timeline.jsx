@@ -8,7 +8,7 @@ const Timeline = () => {
         <div className="relative flex flex-col items-center w-full px-8 mt-2 pt-36 md:top-36 lg:w-1/3 md:mt-12">
           <p className="relative z-40 flex justify-center p-2 text-xl md:text-3xl font-extrabold leading-normal  bg-[#8c8c8c]/20  shadow-white font-audiowide backdrop-blur-lg shadow-white temb-2 xl:text-6xl lg:text-5xl border-[4px] border-white md:leading-relaxed rounded-xl lg:text-border-white">TIMELINE</p>
             <img 
-             src="https://github.com/SyaidFarhan/Gamaftr/blob/main/image/Property%201=Variant3.png?raw=true" alt="" className='absolute z-10 translate-y-[200px] -translate-x-[100px] scale-75 animate-random' />
+             src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Gamaft/Logo_Institut_Teknologi_Bandung.png?raw=true" alt="" className='absolute z-10 translate-y-[200px] -translate-x-[100px] scale-75 animate-random' />
         </div>
         <div className="sticky z-40 flex pl-4 r lg:ml-12 lg:w-2/3">
           <div className="container w-full h-full mx-auto">
