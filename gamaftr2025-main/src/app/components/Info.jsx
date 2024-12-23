@@ -34,7 +34,7 @@ const Info = () => {
           <p className="font-semibold leading-relaxed text-justify text-white font-outfit md:text-md sm:text-sm lg:text-xl">Merupakan program kerja tahunan KEMARIGAMA (Keluarga Mahasiswa Riau Gadjah Mada) yang setiap tahunnya sudah mengunjungi lebih dari 50 SMA di Provinsi Riau. GAMAFTR diinisiasikan untuk memperkenalkan Universitas Gadjah Mada kepada siswa dan siswi SMA/sederajat di Provinsi Riau.</p>
         </div>
       </div>
-     <img loading="lazy" className="absolute z-0 -translate-y-[1500px] scale-[110%] -translate-x-3 flex justify-center sm:scale-[90%] overflow-x-hidden" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/inikeretapi.png?raw=true" />
+     <img loading="lazy" className="absolute z-0 -translate-y-[1750px] scale-[110%] -translate-x-3 flex justify-center sm:scale-[90%] overflow-x-hidden" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/inikeretapi.png?raw=true" />
     </div>
   );
 };
