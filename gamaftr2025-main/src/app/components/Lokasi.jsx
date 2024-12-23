@@ -37,7 +37,7 @@ const Lokasi = () => {
     <div className="modal-action">
       <form method="dialog">
         {/* if there is a button in form, it will close the modal */}
-        <button className="bg-space2 font-outfit text-white">Close</button>
+        <button className="btn bg-space2 font-outfit text-white">Close</button>
       </form>
     </div>
   </div>
