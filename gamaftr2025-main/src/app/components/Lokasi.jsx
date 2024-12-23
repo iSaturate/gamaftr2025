@@ -24,7 +24,7 @@ const Lokasi = () => {
       <button className="border-none bg-[#FDD134] hover:bg-white hover:text-space2 text-gray-900 font-outfit btn" onClick={()=>document.getElementById('my_modal_1').showModal()}>See All</button>
 <dialog id="my_modal_1" className="modal">
   <div className="modal-box">
-    <h3 className="md:text-[10px] xl:text-lg font-bold font-outfit text-[#FD5189]">Opening</h3>
+    <h3 className="md:text-[10px] xl:text-lg font-bold font-outfit text-[#FDD134]">Opening</h3>
     <p className="py-4 font-outfit"> Simbolisasi pembukaan rangkaian kegiatan GAMAFTR 2025 sebagai langkah awal untuk menyapa seluruh siswa/i yang ada di Provinsi Riau.</p>
     <div className="mb-8">
             <h1 className="mb-4 text-3xl font-outfit font-bold">Event Information</h1>
@@ -55,7 +55,7 @@ const Lokasi = () => {
       <button className="border-none bg-[#FDD134] text-gray-900 hover:bg-white hover:text-space2  font-outfit btn" onClick={()=>document.getElementById('my_modal_2').showModal()}>See All</button>
 <dialog id="my_modal_2" className="modal">
   <div className="modal-box">
-    <h3 className="md:text-[10px] xl:text-lg font-bold font-outfit">Roadshow</h3>
+    <h3 className="md:text-[10px] xl:text-lg font-bold font-outfit text-[#FDD134]">Roadshow</h3>
     <p className="py-4 font-outfit"> Rangkaian sosialisasi ke SMA/SMK/MA/Sederajat di Provinsi Riau yang akan dilaksanakan secara luring maupun daring yang akan diikuti oleh siswa/i kelas 12</p>
     <div className="mb-8">
             <h1 className="mb-4 text-3xl font-bold font-outfit">Event Information</h1>
@@ -94,7 +94,7 @@ const Lokasi = () => {
       <button className="border-none bg-[#FDD134] hover:bg-white hover:text-space2 text-gray-900 font-outfit btn" onClick={()=>document.getElementById('my_modal_3').showModal()}>See All</button>
 <dialog id="my_modal_3" className="modal">
   <div className="modal-box">
-    <h3 className="md:text-[10px] xl:text-lg font-outfit font-bold">Try Out</h3>
+    <h3 className="md:text-[10px] xl:text-lg font-outfit font-bold text-[#FDD134]">Try Out</h3>
     <p className="py-4 w-sm font-outfit"> GAMAFTR 2025 menyediakan wadah bagi siswa/i di Provinsi Riau yang ingin mempersiapkan diri masuk Perguruan Tinggi serta menguji kemampuannya yang akan didukung oleh platform edukasi terbaik</p>
     <div className="mb-8">
             <h1 className="mb-4 text-3xl font-bold font-otufit">Event Information</h1>
@@ -138,7 +138,7 @@ const Lokasi = () => {
       <button className="border-none bg-[#FDD134] hover:bg-white hover:text-space2 text-gray-900 font-outfit btn" onClick={()=>document.getElementById('my_modal_4').showModal()}>See All</button>
 <dialog id="my_modal_4" className="modal">
   <div className="modal-box">
-    <h3 className="md:text-[10px] xl:text-lg font-bold font-outfit">Bedah Kampus</h3>
+    <h3 className="md:text-[10px] xl:text-lg font-bold font-outfit text-[#FDD134]">Bedah Kampus</h3>
     <p className="py-4 font-outfit">Penutupan rangkaian kegiatan GAMAFTR 2025 yang akan mendatangkan Guest Star serta penampilan dari mahasiswa/i UGM sebagai puncak acara</p>
     <div className="mb-8">
             <h1 className="mb-4 text-3xl font-bold font-outfit">Event Information</h1>
