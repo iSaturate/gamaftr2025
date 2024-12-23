@@ -34,7 +34,7 @@ const Lokasi = () => {
                 <li><strong>Waktu: </strong> 07.00 - 09.00</li>
             </ul>
         </div>
-    <div className="modal-action">
+    <div className="modal-action bg-space2">
       <form method="dialog">
         {/* if there is a button in form, it will close the modal */}
         <button className="font-outfit text-white">Close</button>
