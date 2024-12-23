@@ -15,7 +15,7 @@ const Ticket = () => {
       <div className="group h-96 w-80 xl:h-[575px] xl:w-[450px] [perspective:1000px] relative z-40 ">
         <div
           className="relative h-full w-full shadow-xl transition-all duration-500 [transform-style:preserve-3d] group-hover:[transform:rotateY(180deg)] scale-90">
-          <div className="absolute inset-0 z-40 p-8 bg-[#9D81E8] rounded-xl">
+          <div className="absolute inset-0 z-40 p-8 bg-[#061328] rounded-xl">
             <div className="flex flex-col justify-between h-full">
             <div className="flex justify-center pt-10">
             <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/1704419489494.jpg?raw=true" alt="Shoes" className='md:max-w-[95%] lg:md:max-w-[95%]  vm:max-w-[95%] xl:md:max-w-[100%] shadow-[0px_0px_20px_#F8F37B] sm:max-w-[95%] rounded-lg' />
@@ -56,7 +56,7 @@ const Ticket = () => {
               <div className="mt-auto space-y-4 ">
                 <div className="flex items-center justify-between gap-4 mt-auto lg:pb-2" >
                 <div className="dropdown dropdown-right md:mt-2">
-                <button onClick={handleClick} className="border-none text-white shadow-[0px_0px_20px_#205FC9] hover:bg-space1 hover: btn btn-primary bg-space2 text-space1"><a className='font-bold font-outfit'>Daftar</a></button>
+                <button onClick={handleClick} className="border-none text-space2 shadow-[0px_0px_20px_#205FC9] hover:bg-white hover: btn btn-primary bg-space2 text-space1"><a className='font-bold font-outfit'>Daftar</a></button>
                 
   {/* <ul tabIndex={0} className="dropdown-content z-[1] menu p-2 shadow bg-base-100 rounded-box w-52">
     <li><a href='https://daisyui.com/components/dropdown/'>Pekanbaru</a></li>
@@ -95,7 +95,7 @@ const Ticket = () => {
             </ul>
         </div>
               <div className="gap-4 mt-auto">
-              <button onClick={handleClick} className="border-none text-white shadow-[0px_0px_20px_#205FC9] hover:bg-space1 hover: btn btn-primary bg-space2 text-space1"><a className='font-bold font-outfitk'>Daftar</a></button>
+              <button onClick={handleClick} className="border-none text-space2 shadow-[0px_0px_20px_#205FC9] hover:bg-white hover: btn btn-primary bg-space2 text-space1"><a className='font-bold font-outfitk'>Daftar</a></button>
               </div>
             </div>
           </div>
