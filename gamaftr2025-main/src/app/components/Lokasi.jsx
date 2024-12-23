@@ -29,7 +29,7 @@ const Lokasi = () => {
     <div className="mb-8">
             <h1 className="mb-4 text-3xl font-outfit font-bold">Event Information</h1>
             <ul className="font-outfit">
-                <li><strong>Lokasi: </strong> Car Free Day, Jl. Sudirman</li>
+                <li><strong>Lokasi: </strong> CFD, Jl. Sudirman, Pekanbaru</li>
                 <li><strong>Tanggal: </strong> 5 Januari 2025</li>
                 <li><strong>Waktu: </strong> 07.00 - 09.00</li>
             </ul>
