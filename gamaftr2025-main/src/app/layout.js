@@ -1,6 +1,6 @@
 import './globals.css'
 //👇 Import our second font
-import { Open_Sans, Roboto_Mono, Montserrat, Space_Grotesk, Outfit} from 'next/font/google'
+import { Open_Sans, Roboto_Mono, Montserrat, Space_Grotesk} from 'next/font/google'
 
 const openSansConfig = Open_Sans({
   subsets: ['latin'],
@@ -29,13 +29,6 @@ const robotoMonoConfig = Roboto_Mono({
   display: 'swap',
   variable: '--font-roboto-mono',
 })
-
-const outfitConfig = Outfit({
-  subsets: ['latin'],
-  display: 'swap',
-  variable: '--font-outfit',
-})
-
 
 export const metadata = {
   title: 'Gadjah Mada Flies To Riau 2024',
@@ -67,7 +60,7 @@ export default function RootLayout({ children }) {
     // 👇 Attach CSS variables to HTML
     <html
       lang="en"
-      className={`${openSansConfig.variable} ${robotoMonoConfig.variable} ${spaceGroteskConfig.variable} ${montserratConfig.variable} ${outfitConfig.variable} font-sans`}
+      className={`${openSansConfig.variable} ${robotoMonoConfig.variable} ${spaceGroteskConfig.variable} ${montserratConfig.variable} font-sans`}
     >
       <head>
         {/* Add the link to the favicon */}
@@ -76,7 +69,7 @@ export default function RootLayout({ children }) {
           <link rel="icon" type="image/png" sizes="32x32" href="/image/favicon-32x32.png"/>
           <link rel="icon" type="image/png" sizes="16x16" href="/image/favicon-16x16.png"/>
           <meta name="description" content="GAMAFTR diinsiasikan untuk memperkenalkan Universitas Gadjah Mada kepada siswa dan siswi SMA/sederajat di Provinsi Riau" />
-  <meta name="og:title" content="GAMAFTR 2025" />
+  <meta name="og:title" content="GAMAFTR 2024" />
   <meta name="og:description" content="GAMAFTR diinsiasikan untuk memperkenalkan Universitas Gadjah Mada kepada siswa dan siswi SMA/sederajat di Provinsi Riau" />
   <meta name="og:image" content="/image/favicon.ico" />
   <meta name="og:url" content="https://gamaftr.site" />
