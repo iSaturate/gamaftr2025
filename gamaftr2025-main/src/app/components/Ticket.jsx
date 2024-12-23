@@ -25,7 +25,7 @@ const Ticket = () => {
           </div>
           {/* isi gamaftr ticket */}
           <div
-            className="absolute inset-0 h-full w-full rounded-xl bg-[#061328] p-8 [transform:rotateY(180deg)] [backface-visibility:hidden]  z-40" id='ticketweb'>
+            className="absolute inset-0 h-full w-full rounded-xl bg-space1 p-8 [transform:rotateY(180deg)] [backface-visibility:hidden]  z-40" id='ticketweb'>
             <div className="flex flex-col justify-between h-full ">
         <div className=" lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
             <h1 className=" font-outfit font-bold sm:md:mb-0 lg:mb-0 xl:mb-4 text-[13px] md:text-[13px] sm:text-[8px] sm:mb-0  lg:text-2xl">Pekanbaru</h1>
@@ -56,7 +56,7 @@ const Ticket = () => {
               <div className="mt-auto space-y-4 ">
                 <div className="flex items-center justify-between gap-4 mt-auto lg:pb-2" >
                 <div className="dropdown dropdown-right md:mt-2">
-                <button onClick={handleClick} className="border-none text-white shadow-[0px_0px_20px_#205FC9] hover:bg-space2 hover: btn btn-primary bg-space1"><a className='font-bold font-outfit'>Daftar</a></button>
+                <button onClick={handleClick} className="border-none text-white shadow-[0px_0px_20px_#205FC9] hover:bg-space1 hover: btn btn-primary bg-space2 text-space1"><a className='font-bold font-outfit'>Daftar</a></button>
                 
   {/* <ul tabIndex={0} className="dropdown-content z-[1] menu p-2 shadow bg-base-100 rounded-box w-52">
     <li><a href='https://daisyui.com/components/dropdown/'>Pekanbaru</a></li>
@@ -84,7 +84,7 @@ const Ticket = () => {
               <h1 className="block pb-5 mt-auto text-4xl font-outfit font-bold text-space2  xl:text-5xl">Bedah Kampus</h1>
             </div>
           </div>
-          <div className="absolute z-40 inset-0 h-full w-full rounded-xl bg-[#061328]  p-8 [transform:rotateY(180deg)] [backface-visibility:hidden]" id='ticketweb'>
+          <div className="absolute z-40 inset-0 h-full w-full rounded-xl bg-space1  p-8 [transform:rotateY(180deg)] [backface-visibility:hidden]" id='ticketweb'>
             <div className="flex flex-col justify-between h-full">
             <div className=" lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
             <h1 className=" font-outfit font-bold mb-4 sm:mb-0  lg:mb-0 xl:mb-4 text-[13px] md:text-[13px]  lg:text-2xl sm:text-[10px]"></h1>
@@ -95,7 +95,7 @@ const Ticket = () => {
             </ul>
         </div>
               <div className="gap-4 mt-auto">
-              <button onClick={handleClick} className="border-none text-white shadow-[0px_0px_20px_#205FC9] hover:bg-space2 hover: btn btn-primary bg-space1"><a className='font-bold font-outfitk'>Daftar</a></button>
+              <button onClick={handleClick} className="border-none text-white shadow-[0px_0px_20px_#205FC9] hover:bg-space1 hover: btn btn-primary bg-space2 text-space1"><a className='font-bold font-outfitk'>Daftar</a></button>
               </div>
             </div>
           </div>
