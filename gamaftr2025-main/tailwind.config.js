@@ -57,6 +57,7 @@ module.exports = {
         montserrat: ["var(--font-montserrat)"],
         spacegrotesk: ["var(--font-space-grotesk)"],
         outfit: ["var(--font-outfit)"],
+        novasquare: ["var(--font-nova-square)"],
 
       },
 
