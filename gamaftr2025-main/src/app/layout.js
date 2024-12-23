@@ -34,7 +34,7 @@ const outfitConfig = Outfit({
   display: 'swap',
   variable: '--font-outfit',
 })
-const novaSquareConfig = novaSquare({
+const novaSquareConfig = Nova_Square({
   subsets: ['latin'],
   display: 'swap',
   variable: '--font-nova-square',
