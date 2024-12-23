@@ -20,8 +20,8 @@ const Lokasi = () => {
     <h2 className="font-bold card-title text-[#FDD134] font-outfit">Opening</h2>
      <p className='font-outfit text-xl text-white sm:text-sm md:text-sm'>Simbolisasi pembukaan rangkaian kegiatan GAMAFTR 2025</p>
     <div className="justify-end card-actions">
-      <button className="border-none btn btn-primary bg-space1 backdrop-blur-lg hover:bg-white hover:text-space2  text-gray-900 font-outfit"><a href="https://maps.app.goo.gl/rEaZcotMjmZvzWAc8">Lokasi</a></button>
-      <button className="border-none bg-space1 hover:bg-white hover:text-space2 text-gray-900 font-outfit btn" onClick={()=>document.getElementById('my_modal_1').showModal()}>See All</button>
+      <button className="border-none btn btn-primary bg-space1 backdrop-blur-lg hover:bg-white hover:text-black  text-gray-900 font-outfit"><a href="https://maps.app.goo.gl/rEaZcotMjmZvzWAc8">Lokasi</a></button>
+      <button className="border-none bg-space1 hover:bg-white hover:text-black text-gray-900 font-outfit btn" onClick={()=>document.getElementById('my_modal_1').showModal()}>See All</button>
 <dialog id="my_modal_1" className="modal">
   <div className="modal-box bg-space1">
     <h3 className="md:text-[10px] xl:text-lg font-bold font-outfit text-[#FDD134]">Opening</h3>
