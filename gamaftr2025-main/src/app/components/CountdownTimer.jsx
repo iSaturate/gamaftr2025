@@ -22,19 +22,19 @@ const CountdownTimer = () => {
       const countdownHTML = `
         <div class="flex flex-row gap-8 md:gap-6 px-4">
             <div class="py-6 text-center text-[#FFFFFF] border-l-3 pr-5">
-                <p class="text-xl font-spacegrotesk font-semibold leading-6 md:text-4xl xl:text-7xl">${days}</p>
+                <p class="text-xl font-audiowide font-semibold leading-6 md:text-4xl xl:text-7xl">${days}</p>
                 <p class="mt-2 text-xl md:text-3xl xl:text-7xl">Hari</p>
             </div>
             <div class="py-6 text-center text-[#FFFFFF] border-r-3">
-                <p class="text-xl font-spacegrotesk font-semibold leading-6 md:text-4xl xl:text-7xl">: ${hours}</p>
+                <p class="text-xl font-audiowide font-semibold leading-6 md:text-4xl xl:text-7xl">: ${hours}</p>
                 <p class="mt-2 text-xl md:text-3xl xl:text-7xl">Jam</p>
             </div>
             <div class="py-6 text-center text-[#FFFFFF] border-r-3">
-                <p class="text-xl font-spacegrotesk font-semibold leading-6 md:text-4xl xl:text-7xl">: ${minutes}</p>
+                <p class="text-xl font-audiowide font-semibold leading-6 md:text-4xl xl:text-7xl">: ${minutes}</p>
                 <p class="mt-2 text-xl md:text-3xl xl:text-7xl">Menit</p>
             </div>
             <div class="py-6 text-center text-[#FFFFFF] border-r-3">
-                <p class="text-xl font-spacegrotesk font-semibold leading-6 md:text-4xl xl:text-7xl">: ${seconds}</p>
+                <p class="text-xl font-audiowide font-semibold leading-6 md:text-4xl xl:text-7xl">: ${seconds}</p>
                 <p class="mt-2 text-xl md:text-3xl xl:text-7xl">Detik</p>
             </div>
         </div>
