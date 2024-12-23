@@ -35,9 +35,9 @@ const Lokasi = () => {
             </ul>
         </div>
     <div className="modal-action">
-      <form method="dialog bg-space2">
+      <form method="dialog">
         {/* if there is a button in form, it will close the modal */}
-        <button className="text-white font-outfit btn">Close</button>
+        <button className="font-outfit text-white">Close</button>
       </form>
     </div>
   </div>
@@ -65,7 +65,7 @@ const Lokasi = () => {
                 <li><strong>Waktu: </strong> -</li>
             </ul>
         </div>
-    <div className="modal-action">
+    <div className="modal-action bg-space1">
       <form method="dialog">
         {/* if there is a button in form, it will close the modal */}
         <button className="font-outfit btn">Close</button>
@@ -93,7 +93,7 @@ const Lokasi = () => {
 </div>
       <button className="border-none bg-[#FDD134] hover:bg-white hover:text-space2 text-gray-900 font-outfit btn" onClick={()=>document.getElementById('my_modal_3').showModal()}>See All</button>
 <dialog id="my_modal_3" className="modal">
-  <div className="modal-box">
+  <div className="modal-box bg-space1">
     <h3 className="md:text-[10px] xl:text-lg font-outfit font-bold text-[#FDD134]">Try Out</h3>
     <p className="py-4 w-sm font-outfit"> GAMAFTR 2025 menyediakan wadah bagi siswa/i di Provinsi Riau yang ingin mempersiapkan diri masuk Perguruan Tinggi serta menguji kemampuannya yang akan didukung oleh platform edukasi terbaik</p>
     <div className="mb-8">
@@ -137,7 +137,7 @@ const Lokasi = () => {
       </a>
       <button className="border-none bg-[#FDD134] hover:bg-white hover:text-space2 text-gray-900 font-outfit btn" onClick={()=>document.getElementById('my_modal_4').showModal()}>See All</button>
 <dialog id="my_modal_4" className="modal">
-  <div className="modal-box">
+  <div className="modal-box bg-space1">
     <h3 className="md:text-[10px] xl:text-lg font-bold font-outfit text-[#FDD134]">Bedah Kampus</h3>
     <p className="py-4 font-outfit">Penutupan rangkaian kegiatan GAMAFTR 2025 yang akan mendatangkan Guest Star serta penampilan dari mahasiswa/i UGM sebagai puncak acara</p>
     <div className="mb-8">
