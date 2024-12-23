@@ -34,7 +34,7 @@ const outfitConfig = Outfit({
   display: 'swap',
   variable: '--font-outfit',
 })
-const audiowideConfig = Audiowide({
+const AudiowideConfig = Audiowide({
   subsets: ['latin'],
   display: 'swap',
   variable: '--font-audiowide',
