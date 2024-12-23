@@ -29,9 +29,9 @@ const Lokasi = () => {
     <div className="mb-8">
             <h1 className="mb-4 text-3xl font-outfit font-bold">Event Information</h1>
             <ul className="font-outfit">
-                <li><strong>Lokasi : </strong> Car Free Day, Jl. Sudirman</li>
-                <li><strong>Tanggal : </strong> 5 Januari 2025</li>
-                <li><strong>Waktu : </strong> 07.00 - 09.00</li>
+                <li><strong>Lokasi: </strong> Car Free Day, Jl. Sudirman</li>
+                <li><strong>Tanggal: </strong> 5 Januari 2025</li>
+                <li><strong>Waktu: </strong> 07.00 - 09.00</li>
             </ul>
         </div>
     <div className="modal-action">
@@ -60,9 +60,9 @@ const Lokasi = () => {
     <div className="mb-8">
             <h1 className="mb-4 text-3xl font-bold font-outfit">Event Information</h1>
             <ul className="font-outfit">
-                <li><strong>Lokasi : </strong> 45+ SMA/SMK/MA, Online/Offline</li>
-                <li><strong>Tanggal : </strong> 6-17 Januari 2025</li>
-                <li><strong>Waktu : </strong> -</li>
+                <li><strong>Lokasi: </strong> 45+ SMA/SMK/MA, Online/Offline</li>
+                <li><strong>Tanggal: </strong> 6-17 Januari 2025</li>
+                <li><strong>Waktu: </strong> -</li>
             </ul>
         </div>
     <div className="modal-action">
@@ -99,19 +99,19 @@ const Lokasi = () => {
     <div className="mb-8">
             <h1 className="mb-4 text-3xl font-bold font-otufit">Event Information</h1>
             <ul className='mb-2 font-outfit'>
-                <li><strong>Lokasi : </strong> MAN 2 Pekanbaru</li>
-                <li><strong>Tanggal : </strong>18-19 Januari 2025</li>
-                <li><strong>Waktu : </strong> 07.30 - Selesai</li>
+                <li><strong>Lokasi: </strong> MAN 2 Pekanbaru</li>
+                <li><strong>Tanggal: </strong>18-19 Januari 2025</li>
+                <li><strong>Waktu: </strong> 07.30 - Selesai</li>
             </ul>
             <ul className='mb-2 font-outfit'>
-                <li><strong>Lokasi : </strong> SMAN 2 Mandau</li>
-                <li><strong>Tanggal : </strong> 18 Januari 2025</li>
-                <li><strong>Waktu : </strong> 07.30 - Selesai</li>
+                <li><strong>Lokasi: </strong> SMAN 2 Mandau</li>
+                <li><strong>Tanggal: </strong> 18 Januari 2025</li>
+                <li><strong>Waktu: </strong> 07.30 - Selesai</li>
             </ul>
             <ul className='mb-2 font-outfit'>
-                <li><strong>Lokasi : </strong> SMAN 2 Dumai</li>
-                <li><strong>Tanggal : </strong> 19 Januari 2025</li>
-                <li><strong>Waktu : </strong> 07.30 - Selesai</li>
+                <li><strong>Lokasi: </strong> SMAN 2 Dumai</li>
+                <li><strong>Tanggal: </strong> 19 Januari 2025</li>
+                <li><strong>Waktu: </strong> 07.30 - Selesai</li>
             </ul>
         </div>
     <div className="modal-action">
@@ -143,9 +143,9 @@ const Lokasi = () => {
     <div className="mb-8">
             <h1 className="mb-4 text-3xl font-bold font-outfit">Event Information</h1>
             <ul className="font-outfit">
-                <li><strong>Lokasi : Menara Dang Merdu Bank Riau Kepri</strong> </li>
-                <li><strong>Tanggal : </strong> 25 Januari 2025</li>
-                <li><strong>Waktu : </strong> 07.30 - Selesai</li>
+                <li><strong>Lokasi: Menara Dang Merdu Bank Riau Kepri</strong> </li>
+                <li><strong>Tanggal: </strong> 25 Januari 2025</li>
+                <li><strong>Waktu: </strong> 07.30 - Selesai</li>
             </ul>
         </div>
     <div className="modal-action">
