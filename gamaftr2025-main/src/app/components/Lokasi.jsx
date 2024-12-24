@@ -24,7 +24,7 @@ const Lokasi = () => {
       <button className="border-none bg-space1 hover:bg-white hover:text-space2 text-white font-outfit btn" onClick={()=>document.getElementById('my_modal_1').showModal()}>See All</button>
 <dialog id="my_modal_1" className="modal">
   <div className="modal-box bg-space1">
-    <h3 className="md:text-[10px] xl:text-lg font-bold font-outfit text-[#FDD134]">Opening</h3>
+    <h3 className="md:text-[10px] xl:text-lg font-bold font-outfit text-[#7BE6D4]">Opening</h3>
     <p className="py-4 font-outfit"> Simbolisasi pembukaan rangkaian kegiatan GAMAFTR 2025 sebagai langkah awal untuk menyapa seluruh siswa/i yang ada di Provinsi Riau.</p>
     <div className="mb-8">
             <h1 className="mb-4 text-3xl font-outfit font-bold">Event Information</h1>
@@ -49,13 +49,13 @@ const Lokasi = () => {
 <div className="mt-5 transition shadow-xl card card-compact sm:w-1/2 w-50 md:w-70 lg:[50%] xl:[20%] hover:scale-125 hover:z-40 hover:shadow-lg hover:shadow-space2 bg-space2">
   <figure><img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/roadshow.png?raw=true" alt="Shoes" className='md:max-w-[350px]'  /></figure>
   <div className="card-body">
-    <h2 className="font-bold card-title text-[#FDD134] font-outfit">Roadshow</h2>
+    <h2 className="font-bold card-title text-[#7BE6D4] font-outfit">Roadshow</h2>
      <p className='font-outfit text-xl text-white sm:text-sm md:text-sm'>Rangkaian sosialisasi ke SMA/SMK/MA</p>
     <div className="justify-end card-actions">
       <button className="border-none bg-space1 text-white hover:bg-white hover:text-space2  font-outfit btn" onClick={()=>document.getElementById('my_modal_2').showModal()}>See All</button>
 <dialog id="my_modal_2" className="modal">
   <div className="modal-box bg-space1">
-    <h3 className="md:text-[10px] xl:text-lg font-bold font-outfit text-[#FDD134]">Roadshow</h3>
+    <h3 className="md:text-[10px] xl:text-lg font-bold font-outfit text-[#7BE6D4]">Roadshow</h3>
     <p className="py-4 font-outfit"> Rangkaian sosialisasi ke SMA/SMK/MA/Sederajat di Provinsi Riau yang akan dilaksanakan secara luring maupun daring yang akan diikuti oleh siswa/i kelas 12</p>
     <div className="mb-8">
             <h1 className="mb-4 text-3xl font-bold font-outfit">Event Information</h1>
@@ -80,7 +80,7 @@ const Lokasi = () => {
 <div className="mt-5 transition shadow-xl card card-compact sm:w-1/2 w-50 md:w-70 lg:[50%] xl:[20%] hover:scale-125 hover:z-40 hover:shadow-lg hover:shadow-space2 bg-space2">
   <figure><img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/resize/IMG_3165-min%20(2)%20(1)%20(1).png?raw=true" alt="Shoes" className='md:max-w-[350px]'  /></figure>
   <div className="card-body">
-    <h2 className="font-bold card-title text-[#FDD134] font-outfit">Try Out</h2>
+    <h2 className="font-bold card-title text-[#7BE6D4] font-outfit">Try Out</h2>
      <p className='font-outfit text-xl text-white sm:text-sm md:text-sm'> GAMAFTR 2025 menyediakan wadah bagi siswa/i di Provinsi Riau yang ingin mempersiapkan diri masuk Perguruan Tinggi</p>
     <div className="justify-end card-actions">
     <div className="dropdown dropdown-right">
@@ -94,7 +94,7 @@ const Lokasi = () => {
       <button className="border-none bg-space1 hover:bg-white hover:text-space2 text-white font-outfit btn" onClick={()=>document.getElementById('my_modal_3').showModal()}>See All</button>
 <dialog id="my_modal_3" className="modal">
   <div className="modal-box bg-space1">
-    <h3 className="md:text-[10px] xl:text-lg font-outfit font-bold text-[#FDD134]">Try Out</h3>
+    <h3 className="md:text-[10px] xl:text-lg font-outfit font-bold text-[#7BE6D4]">Try Out</h3>
     <p className="py-4 w-sm font-outfit"> GAMAFTR 2025 menyediakan wadah bagi siswa/i di Provinsi Riau yang ingin mempersiapkan diri masuk Perguruan Tinggi serta menguji kemampuannya yang akan didukung oleh platform edukasi terbaik</p>
     <div className="mb-8">
             <h1 className="mb-4 text-3xl font-bold font-otufit">Event Information</h1>
@@ -129,7 +129,7 @@ const Lokasi = () => {
 <div className="mt-5 transition shadow-xl card card-compact sm:w-1/2 w-50 md:w-70 lg:[50%] xl:[20%] hover:scale-125 hover:z-40 hover:shadow-lg hover:shadow-space2 bg-space2">
   <figure><img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/bedahkampus.png?raw=true" alt="Shoes" className='md:max-w-[350px]' /></figure>
   <div className="card-body">
-    <h2 className="font-bold card-title text-[#FDD134] font-outfit">Bedah Kampus</h2>
+    <h2 className="font-bold card-title text-[#7BE6D4] font-outfit">Bedah Kampus</h2>
      <p className='font-outfit text-xl text-white sm:text-sm md:text-sm'> Penutupan rangkaian kegiatan GAMAFTR 2025 </p>
     <div className="justify-end card-actions">
       <a href="https://maps.app.goo.gl/dq43VoFxv9eHoysNA">
@@ -138,7 +138,7 @@ const Lokasi = () => {
       <button className="border-none bg-space1 hover:bg-white hover:text-space2 text-white font-outfit btn" onClick={()=>document.getElementById('my_modal_4').showModal()}>See All</button>
 <dialog id="my_modal_4" className="modal">
   <div className="modal-box bg-space1">
-    <h3 className="md:text-[10px] xl:text-lg font-bold font-outfit text-[#FDD134]">Bedah Kampus</h3>
+    <h3 className="md:text-[10px] xl:text-lg font-bold font-outfit text-[#7BE6D4]">Bedah Kampus</h3>
     <p className="py-4 font-outfit">Penutupan rangkaian kegiatan GAMAFTR 2025 yang akan mendatangkan Guest Star serta penampilan dari mahasiswa/i UGM sebagai puncak acara</p>
     <div className="mb-8">
             <h1 className="mb-4 text-3xl font-bold font-outfit">Event Information</h1>
