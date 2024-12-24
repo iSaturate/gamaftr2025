@@ -12,7 +12,7 @@ const Cardsmall = () => {
   
 
 
-      <div className="text-5xl font-audiowide font-extrabold text-white rounded-2xl border-[4px] border-space2 bg-red-400 shadow-xl shadow-space2 xl:text-8xl p-4 lg:py-0 xl:p-4 pl-10mr-[180px] relative z-40 text-border-space2 ">TICKET</div>
+      <div className="text-5xl font-audiowide font-extrabold text-white rounded-2xl border-[4px] border-space2 bg-[#d3d3d3]/40 backdrop-blur-md shadow-xl xl:text-8xl p-4 lg:py-0 xl:p-4 pl-10mr-[180px] relative z-40 ">TICKET</div>
       <div className="group h-96 w-80 xl:h-[575px] xl:w-[450px] [perspective:1000px] relative z-40 ">
         <div
           className="relative w-full h-full transition-all duration-500 scale-90 shadow-xl">
