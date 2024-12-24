@@ -5,7 +5,7 @@ const MobileTimeline = () => {
   return (
     <div className="py-4 text-white md:hidden">
       <div className="container relative mx-auto my-12 md:flex-row md:my-24">
-      <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/keretamobile.png?raw=true" alt="Alt Text" className='absolute z-10 w-full h-screen object-cover object-center flex justify-center translate-x-[-10] translate-y-20 md:hidden'/>
+      <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/keretamobile.png?raw=true" alt="Alt Text" className='absolute z-10 flex justify-center translate-x-[-10] translate-y-20 md:hidden'/>
         <div className="px-[60PX] md:w-1/2 md:px-8 relative">
           <div className="flex justify-center">
         
