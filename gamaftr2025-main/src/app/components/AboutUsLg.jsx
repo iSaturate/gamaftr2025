@@ -30,7 +30,7 @@ const AboutUsLg = () => {
           <path d="M3 5a5 5 0 0 1 10 0v6a5 5 0 0 1-10 0V5zm5.5-1.5a.5.5 0 0 0-1 0v2a.5.5 0 0 0 1 0v-2z"></path>
         </svg>
       </span>
-      <p className="mt-3 font-spacegrotesk text-[12px]">SCROLL DOWN</p>
+      <p className="mt-3 font-outfit text-[12px]">SCROLL DOWN</p>
       <span className="mt-6 text-20px animate-bounce">
         <svg
           stroke="currentColor"
