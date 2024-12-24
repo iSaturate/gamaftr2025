@@ -8,7 +8,7 @@ const Cardsmall = () => {
   
   return (
     <div className="sm:hidden" id='ticket1'>
-    <div className="flex flex-col sm:flex-row mx-auto min-h-screen items-center justify-center bg-[#9D81EF] gap-4 xl:pt-60 md:pb-12 lg:my-[10px] relative">
+    <div className="flex flex-col sm:flex-row mx-auto min-h-screen items-center justify-center bg-space1 gap-4 xl:pt-60 md:pb-12 lg:my-[10px] relative">
 
 
       <div className="text-5xl font-spacegrotesk font-extrabold text-white rounded-2xl border-[4px] border-space2 bg-red-400 shadow-xl shadow-space2 xl:text-8xl p-4 lg:py-0 xl:p-4 pl-10mr-[180px] relative z-40 text-border-space2 ">TICKET</div>
