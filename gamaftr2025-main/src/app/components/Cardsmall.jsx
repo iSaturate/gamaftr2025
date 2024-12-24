@@ -44,7 +44,7 @@ const Cardsmall = () => {
                 <li className='text-[10px] sm:text-[8px]  md:text-[10px] lg:text-[14px]'><strong>Waktu pelaksanaan: </strong> 07.30 - Selesai</li>
                 <li className='text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Lokasi: </strong>Menara Dang Merdu Bank Riau Kepri</li>
             </ul>
-        </div>
+              </div>
               <div className="gap-4 mt-auto">
               <button onClick={handleClick} className="border-none text-white shadow-[0px_0px_20px_#205FC9] hover:bg-white hover:text-space2 hover: btn btn-primary bg-space2"><a className='font-bold font-outfit'>Daftar</a></button>
               </div>
