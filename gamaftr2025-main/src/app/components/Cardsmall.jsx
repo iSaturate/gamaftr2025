@@ -39,12 +39,12 @@ const Cardsmall = () => {
       <div className="group h-96 w-80 xl:h-[575px] xl:w-[450px] [perspective:1000px] relative z-40">
         <div
           className="relative w-full h-full transition-all duration-500 scale-90 shadow-xl">
-          <div className="absolute inset-0 z-40 p-8 bg-gray-800 rounded-xl shadow-[0px_0px_20px_#FFC100]">
+          
             <div className="flex flex-col justify-between h-full">
-            <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/1704419489494.jpg?raw=true" alt="Shoes" className='md:max-w-[350px] shadow-[0px_0px_20px_#4040a1] rounded-xl' />
-              <h1 className="block pb-5 mt-auto text-4xl font-outfit font-bold text-[#FFC100]  xl:text-5xl">Bedah Kampus</h1>
+            <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/1704419489494.jpg?raw=true" alt="Shoes" className='md:max-w-[350px] shadow-[0px_0px_20px_#F8F37B] rounded-xl' />
+              <h1 className="block pb-5 mt-auto text-4xl font-outfit font-bold text-space2  xl:text-5xl">Bedah Kampus</h1>
               <div className="dropdown dropdown-right md:mt-2">
-                <button onClick={handleClick} className="border-3 text-space1 hover:hover:shadow-[0px_0px_20px_#FD5289] border-space2 hover:bg-space1 hover:text-space2 btn btn-primary bg-space2"><a className='font-bold font-spacegrotesk'>Daftar</a></button>
+                
 </div>
             </div>
           </div>
