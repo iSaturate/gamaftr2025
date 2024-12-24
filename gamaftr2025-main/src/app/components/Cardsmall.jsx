@@ -13,13 +13,13 @@ const Cardsmall = () => {
       <div className="text-5xl font-audiowide font-extrabold text-white rounded-2xl border-[4px] bg-[#d3d3d3]/40 backdrop-blur-md shadow-xl  xl:text-8xl p-4 lg:py-0 xl:p-4 pl-10mr-[180px] relative z-40  ">TICKET</div>
       <div className="group h-96 w-80 xl:h-[575px] xl:w-[450px] [perspective:1000px] relative z-40 ">
         <div
-          className="relative h-full w-full shadow-xl transition-all duration-500 [transform-style:preserve-3d] group-hover:[transform:rotateY(180deg)] scale-90">
-          <div className="absolute inset-0 z-40 p-8 bg-[#061328] rounded-xl">
+          className="relative w-full h-full transition-all duration-500 scale-90 shadow-xl">
+          <div className="absolute inset-0 z-40 p-8 bg-gray-800 rounded-xl shadow-[0px_0px_20px_#FFC100]">
             <div className="flex flex-col justify-between h-full">
-            <div className="flex justify-center pt-10">
-            <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/1704419489494.jpg?raw=true" alt="Shoes" className='md:max-w-[95%] lg:md:max-w-[95%]  vm:max-w-[95%] xl:md:max-w-[100%] shadow-[0px_0px_20px_#F8F37B] sm:max-w-[95%] rounded-lg' />
-            </div>
-              <h1 className="block pb-5 mt-auto text-4xl font-outfit font-bold leading-5 text-space2  xl:text-5xl">Try Out</h1>
+            <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/1704419489494.jpg?raw=true" alt="Shoes" className='md:max-w-[350px] rounded-xl shadow-[0px_0px_20px_#ff0000]' />
+              <h1 className="block pb-5 mt-auto text-4xl font-outfit font-bold leading-5 text-[#FFC100]  xl:text-5xl">Try Out</h1>
+              <div className="dropdown dropdown-right md:mt-2">
+                <button onClick={handleClick} className="border-3 text-space1 hover:hover:shadow-[0px_0px_20px_#FFC100] border-space2 hover:bg-space1 hover:text-space2 btn btn-primary bg-space2"><a className='font-bold font-outfit'>Daftar</a></button>
             </div>
           </div>
                 
