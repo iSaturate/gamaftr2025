@@ -44,7 +44,6 @@ const Cardsmall = () => {
             <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/1704419489494.jpg?raw=true" alt="Shoes" className='md:max-w-[350px] shadow-[0px_0px_20px_#F8F37B] rounded-xl' />
               <h1 className="block pb-5 mt-auto text-4xl font-outfit font-bold text-space2  xl:text-5xl">Bedah Kampus</h1>
               <div className="dropdown dropdown-right md:mt-2">
-              
               </div>
             </div>
           </div>
