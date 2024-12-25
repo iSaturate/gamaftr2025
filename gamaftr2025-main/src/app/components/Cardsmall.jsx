@@ -35,6 +35,7 @@ const Cardsmall = () => {
             <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/1704419489494.jpg?raw=true" alt="Shoes" className='md:max-w-[350px] shadow-[0px_0px_20px_#F8F37B] rounded-xl' />
               <h1 className="block pb-5 mt-auto text-4xl font-outfit font-bold text-space2  xl:text-5xl">Bedah Kampus</h1>
               </div>
+            </div>
             
                 <div className="absolute z-40 inset-0 h-full w-full rounded-xl bg-space1  p-8 [transform:rotateY(180deg)] [backface-visibility:hidden]" id='ticketweb'>
                   
@@ -59,6 +60,7 @@ const Cardsmall = () => {
                 </div>
         
               </div>
+        </div>
       
       </div>      
     </div>              
