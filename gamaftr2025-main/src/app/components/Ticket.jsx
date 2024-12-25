@@ -17,7 +17,7 @@ const Ticket = () => {
           <div className="absolute inset-0 z-40 p-8 bg-[#061328] rounded-xl">
             <div className="flex flex-col justify-between h-full">
             <div className="flex justify-center pt-10">
-            <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Ticket.png?raw=true" alt="Shoes" className='md:max-w-[95%] lg:md:max-w-[95%]  vm:max-w-[95%] xl:md:max-w-[100%] shadow-space2 sm:max-w-[95%] rounded-lg' />
+            <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Ticket.png?raw=true" alt="Shoes" className='md:max-w-[95%] lg:md:max-w-[95%]  vm:max-w-[95%] xl:md:max-w-[100%] shadow-[0px_0px_20px_#205FC9] sm:max-w-[95%] rounded-lg' />
             </div>
               <h1 className="block pb-5 mt-auto text-4xl font-outfit font-bold leading-5 text-space2  xl:text-5xl">Try Out</h1>
             </div>
@@ -78,7 +78,7 @@ const Ticket = () => {
           <div className="absolute inset-0 z-40 p-8 bg-[#061328] rounded-xl">
             <div className="flex flex-col justify-between h-full">
               <div className="flex justify-center pt-10">
-            <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Ticket.png?raw=true" alt="Shoes" className='md:max-w-[95%] lg:md:max-w-[95%]  vm:max-w-[95%] xl:md:max-w-[100%] shadow-space2  sm:max-w-[95%] rounded-lg' />
+            <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Ticket.png?raw=true" alt="Shoes" className='md:max-w-[95%] lg:md:max-w-[95%]  vm:max-w-[95%] xl:md:max-w-[100%] shadow-[0px_0px_20px_#205FC9]  sm:max-w-[95%] rounded-lg' />
             </div>
               <h1 className="block pb-5 mt-auto text-4xl font-outfit font-bold text-space2  xl:text-5xl">Bedah Kampus</h1>
             </div>
