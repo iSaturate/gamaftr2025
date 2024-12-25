@@ -46,7 +46,7 @@ export const metadata = {
 }
 
 const generateStructuredData = () => {
-  const logoUrl = '/image/favicon.ico'; // Update with your logo URL
+  const logoUrl = '/image/logogamaftr2025.ico'; // Update with your logo URL
   const websiteName = 'GAMAFTR 2025'; // Update with your website name
 
   const structuredData = {
