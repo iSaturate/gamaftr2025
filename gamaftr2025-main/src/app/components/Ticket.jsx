@@ -63,6 +63,7 @@ const Ticket = () => {
     <li><a>Dumai</a></li>
   </ul> */}
 </div>
+                  <img loading="lazy" className="relative object-cover relative z-50 object-center duration-100 lg:scale-125 animate-pulse animate-glow lg:pt-18" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Gamaft/Group%207.png?raw=true" />
                 {/* <h1 className="mb-2 text-6xl">14k</h1> */}
                 </div>
               </div>
