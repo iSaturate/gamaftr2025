@@ -37,7 +37,6 @@ const Cardsmall = () => {
               </div>
               <h1 className="block pb-5 mt-auto text-4xl font-outfit font-bold text-space2  xl:text-5xl">Bedah Kampus</h1>
               </div>
-            </div>
             
                 <div className="absolute z-40 inset-0 h-full w-full rounded-xl bg-space1  p-8 [transform:rotateY(180deg)] [backface-visibility:hidden]" id='ticketweb'>
                   <div className="flex flex-col justify-between h-full">
