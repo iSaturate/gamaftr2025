@@ -56,7 +56,7 @@ const Cardsmall = () => {
       </div>    
     </div>
   );
-};
+}
 
 
 export default Cardsmall;
