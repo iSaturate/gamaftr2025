@@ -5,7 +5,7 @@ const Lokasi = () => {
   return (
    <div className="relative z-30 flex justify-center mx-auto pt-36 md:mt-5 font-inter" id='event'>
     <div className="flex justify-center">
-    <div className="sm:border-[3px] sm:bg-[#8c8c8c]/20 backdrop-blur-md  sm:border-space2 sm:rounded-2x1 rounded-2x1  relative z-40 md:-translate-y-[100px] lg:-translate-y-[200px] max-w-[1280px]">
+    <div className="sm:border-[3px] sm:bg-[#8c8c8c]/20 backdrop-blur-md  sm:border-white sm:rounded-2x1 rounded-2x1  relative z-40 md:-translate-y-[100px] lg:-translate-y-[200px] max-w-[1280px]">
     <div className="absolute z-40 right-[0%] bottom-[5%] -translate-x-1/2 sm:hidden translate-y-[10%]">
             <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" alt="" className="opacity-50 animate-cloud-move sm:animate-cloud-move-sm md:animate-cloud-move-md lg:animate-cloud-move-lg" /> </div>
             <div className="absolute z-40 left-[0%] bottom-[0%] translate-x-1/3 sm:hidden translate-y-1/2">
