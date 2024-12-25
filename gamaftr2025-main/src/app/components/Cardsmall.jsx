@@ -10,7 +10,7 @@ const Cardsmall = () => {
     <div className="sm:hidden" id='ticket1'>
     <div className="flex flex-col sm:flex-row mx-auto min-h-screen items-center justify-center bg-[#FFFFFFF]/0 gap-4 xl:pt-60 md:pb-12 lg:my-[10px] relative">
 
-      <div className="text-5xl font-audiowide font-extrabold text-white rounded-2xl border-[4px] border-white bg-[#d3d3d3]/40  shadow-xl xl:text-8xl p-4 lg:py-0 xl:p-4 pl-10mr-[180px] relative z-40 ">TICKET</div>
+      <div className="text-5xl font-audiowide font-extrabold text-gray-300 rounded-2xl border-[4px] border-white bg-[#8c8c8c]/20 shadow-white shadow-xl xl:text-8xl p-4 lg:py-0 xl:p-4 pl-10mr-[180px] relative z-40 backdrop-blur-lg">TICKET</div>
 
       
       <div className="group h-96 w-80 xl:h-[575px] xl:w-[450px] [perspective:1000px] relative z-40 ">
