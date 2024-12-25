@@ -12,8 +12,7 @@ const Ticket = () => {
        <img loading="lazy" className="absolute z-10 lg:-translate-x-[40px] scale-[120%] 2xl:max-w-[1900px] md:translate-y-[300px]" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/transparentbox.png?raw=true" />
       <img loading="lazy" className="animate-cloud-move-loop sm:animate-cloud-move-loop-sm md:animate-cloud-move-loop-md lg:animate-cloud-move-loop-lg absolute z-5 object-cover object-center duration-100 max-w-[200px] vm:max-w-[300px] lg:max-w-[300px] lg:translate-x-[800px] md:translate-x-[700px] sm:translate-x-[700px] md:max-w-[400px] translate-x-[700px] sm:max-w-[100px] bottom-[300px] opacity-50" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" />
 
-      <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" alt="Alt Text" className='animate-cloud-move sm:animate-cloud-move-sm md:animate-cloud-move-md lg:animate-cloud-move-lg absolute z-0 -translate-y-[10px] 2xl:-translate-x-[400px] -translate-x-[200px] Edit:-translate-x-[280px] float-left
-       lg:max-[400px] hidden md:block md:max-w-[700px]lg:max-w-[700px]'/>
+      <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" alt="Alt Text" className='animate-cloud-move sm:animate-cloud-move-sm md:animate-cloud-move-md lg:animate-cloud-move-lg absolute z-0 lg:max-[400px] hidden md:block md:max-w-[700px] lg:max-w-[700px] bottom-[50px]'/>
       <div className="text-5xl font-audiowide font-extrabold text-gray-300 rounded-2xl border-[4px] bg-[#8c8c8c]/20 backdrop-blur-md text-border-white shadow-xl  xl:text-8xl p-4 lg:py-0 xl:p-4 pl-10mr-[180px] relative z-40  ">TICKET</div>
       <div className="group h-96 w-80 xl:h-[575px] xl:w-[450px] [perspective:1000px] relative z-40 ">
         <div
