@@ -127,10 +127,10 @@ module.exports = {
         "cloud-move-loop-sm" : "cloud-move-loop-sm 50s linear infinite",
         "cloud-move-loop-md" : "cloud-move-loop-md 50s linear infinite",
         "cloud-move-loop-lg" : "cloud-move-loop-lg 50s linear infinite",
-        "cloud-move-high" : "cloud-move-high 50s linear infinite",
-        "cloud-move-high-sm" : "cloud-move-high-sm 50s linear infinite",
-        "cloud-move-high-md" : "cloud-move-high-md 50s linear infinite",
-        "cloud-move-high-lg" : "cloud-move-high-lg 50s linear infinite",
+        "cloud-move-high" : "cloud-move-high 40s linear infinite",
+        "cloud-move-high-sm" : "cloud-move-high-sm 40s linear infinite",
+        "cloud-move-high-md" : "cloud-move-high-md 40s linear infinite",
+        "cloud-move-high-lg" : "cloud-move-high-lg 40s linear infinite",
       }
 
     },
