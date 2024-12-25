@@ -11,7 +11,7 @@ const Sponsor = () => {
                     <div className="flex justify-center">
                 <div className="text-4xl  font-audiowide font-extrabold text-gray-300 rounded-2xl bg-[#8c8c8c]/20 backdrop-blur-md max-w-2/3 xl:text-8xl p-6 lg:py-0 xl:p-4 pl-10mr-[180px] relative z-40 border-white border-[4px] text-border-white">Our Partners</div>
                 </div>
-                <div className="border-2 bg-[#d3d3d3]/40 backdrop-blur-md rounded-2xl mt-[30px]">
+                <div className="border-2 bg-[#8c8c8c]/20 backdrop-blur-md rounded-2xl mt-[30px]">
                 <div className="flex flex-wrap items-center justify-center  gap-[24px]  bg-white/40 rounded ">
                 <div className=" max-w-[190px] md:max-w-[350px] p-[5%] pb-0">
                     <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Logo_Ruang_Guru.png?raw=true" alt="" className="" />
@@ -46,7 +46,7 @@ const Sponsor = () => {
                
                     {/* medpart */}
                     <div className="gap-5 px-2 pb-5 mb-2 text-center scale-[80%] bg-space2/40 sm:scale-100 rounded-2xl">
-  <h1 className="flex items-center justify-center text-lg font-bold text-center font-audiowide text-space1 text-yellow-400">Media Partner</h1>
+  <h1 className="flex items-center justify-center text-lg font-bold text-center font-audiowide text-space1 text-cyan-300">Media Partner</h1>
 
   {/* First Row */}
   <div className="flex items-center justify-center gap-5">
