@@ -34,8 +34,7 @@ const Cardsmall = () => {
               <h1 className="block pb-5 mt-auto text-4xl font-outfit font-bold text-space2  xl:text-5xl">Bedah Kampus</h1>
               <div className="dropdown dropdown-right md:mt-2">
                 </div>
-              </div>
-            </div>
+              
                 <div className="absolute z-40 inset-0 h-full w-full rounded-xl bg-space1  p-8 [transform:rotateY(180deg)] [backface-visibility:hidden]" id='ticketweb'>
                   <div className="flex flex-col justify-between h-full">
                     <div className=" lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
@@ -51,6 +50,8 @@ const Cardsmall = () => {
                     </div>
                   </div>
                 </div>
+             </div>
+            </div>
               
   );
 };
