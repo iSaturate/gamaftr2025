@@ -74,14 +74,14 @@ export default function RootLayout({ children }) {
     >
       <head>
         {/* Add the link to the favicon */}
-        <link rel="shortcut icon" href="/image/favicon.ico" />
+        <link rel="shortcut icon" href="/image/logogamaftr2025.ico" />
           <link rel="apple-touch-icon" sizes="180x180" href="/image/apple-touch-icon.png" />
           <link rel="icon" type="image/png" sizes="32x32" href="/image/favicon-32x32.png"/>
           <link rel="icon" type="image/png" sizes="16x16" href="/image/favicon-16x16.png"/>
           <meta name="description" content="GAMAFTR diinsiasikan untuk memperkenalkan Universitas Gadjah Mada kepada siswa dan siswi SMA/sederajat di Provinsi Riau" />
   <meta name="og:title" content="GAMAFTR 2025" />
   <meta name="og:description" content="GAMAFTR diinsiasikan untuk memperkenalkan Universitas Gadjah Mada kepada siswa dan siswi SMA/sederajat di Provinsi Riau" />
-  <meta name="og:image" content="/image/favicon.ico" />
+  <meta name="og:image" content="/image/logogamaftr2025.ico" />
   <meta name="og:url" content="https://gamaftr.site" />
   {generateStructuredData()}
         {/* Other meta tags and styles go here */}
