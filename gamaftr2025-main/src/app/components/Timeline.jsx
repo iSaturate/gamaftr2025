@@ -35,7 +35,7 @@ const Timeline = () => {
                 <div className="order-1 w-5/12"></div>
                 <div className="order-1 w-5/12 text-right lg:px-1 lg:py-4">
                   <p className="flex justify-center mb-3 text-base text-white md:text-lg lg:text-2xl md:mr-16 lg:ml-7 leading-normal bg-[#8c8c8c]/20 shadow-white font-outfit backdrop-blur-lg border-[4px] border-white md:leading-relaxed rounded-2xl">18-19 Januari 2025</p>
-                  <h4 className="flex justify-center mb-3 text-white text-lg font-semibold  xl:text-6xl md:text-2xl md:mr-10 sm:text-lg lg-text-5xl leading-normal bg-[#8c8c8c]/20 shadow-white font-outfit backdrop-blur-lg border-[4px] border-white md:leading-relaxed rounded-2xl">Try Out</h4>
+                  <h4 className="flex justify-center mb-3 text-white text-lg font-semibold xl:text-6xl md:text-2xl md:mr-10 sm:text-lg lg-text-5xl leading-normal bg-[#8c8c8c]/20 shadow-white font-outfit backdrop-blur-lg border-[4px] border-white md:leading-relaxed rounded-2xl">Try Out</h4>
                 </div>
               </div>
               <div className="relative z-40 flex items-center justify-between w-full mb-8 right-timeline">
