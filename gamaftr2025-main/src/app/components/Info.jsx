@@ -5,7 +5,7 @@ const Info = () => {
     <div className="w-full lg:pt-10 md:pt-60 xl:pt-60" id='info1'>
       <div className="md:hidden relative z-40 my-20  ">
         <div className="relative w-full px-4 pt-5 text-center text-white">
-        <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" alt="" className="animate-cloud-move-high sm:animate-cloud-move-high-sm md:animate-cloud-move-high-md lg:animate-cloud-move-high-lg absolute z-0 right-0 bottom-[1000px] xl:scale-[75%] md:scale-[50%] sm:scale-[80%] lg:scale-[60%] md:block"/>
+        
         </div>
 
         <div className="relative w-full bg-[#d3d3d3]/60 rounded-3x1 backdrop-blur-lg p-4 translate-y-[200px]">
