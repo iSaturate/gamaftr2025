@@ -17,7 +17,7 @@ const Timeline = () => {
                 <div className="order-1 w-5/12"></div>
                 <div className="relative z-40 order-1 w-5/12 text-right lg:px-1 lg:py-4">
                 <img 
-                 src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/bubble%20(transparan%20dikit).png?raw=true" alt="" className='absolute z-10 transition-transform scale-150 animate-random2' />
+                 src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/combo1.png"" className='absolute z-10 transition-transform scale-150 animate-random2' />
                   <p className="relative z-40 mb-3 font-outfit text-base text-[#FDD134] md:text-lg lg:text-2xl md:ml-1 lg:ml-7 md:mr-10 ">5 Januari 2025</p>
                   <h4 className="relative z-40 mb-3 text-[#F1723D] text-lg font-semibold font-outfit k xl:text-6xl md:text-2xl sm:text-lg lg-text-5xl md:mr-10 text-outline-white">Opening</h4>
                 </div>
