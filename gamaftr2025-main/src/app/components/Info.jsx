@@ -5,7 +5,7 @@ const Info = () => {
     <div className="w-full lg:pt-10 md:pt-60 xl:pt-60" id='info1'>
       <div className="md:hidden relative z-40 my-20  ">
         <div className="relative w-full px-4 pt-5 text-center text-white">
-        
+        <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" alt="" className="animate-cloud-move-high sm:animate-cloud-move-high-sm md:animate-cloud-move-high-md lg:animate-cloud-move-high-lg absolute z-0 right-0 bottom-[1000px] xl:scale-[75%] md:scale-[50%] sm:scale-[80%] lg:scale-[60%] md:block"/>
         </div>
 
         <div className="relative w-full bg-[#d3d3d3]/60 rounded-3x1 backdrop-blur-lg p-4 translate-y-[200px]">
@@ -15,7 +15,7 @@ const Info = () => {
           </p>
         </div>
       </div>
-<img loading="lazy" className="animate-cloud-move-loop sm:animate-cloud-move-loop-sm md:animate-cloud-move-loop-md lg:animate-cloud-move-loop-lg absolute z-5 object-cover object-center duration-100 max-w-[200px] vm:max-w-[300px] lg:max-w-[300px] lg:translate-x-[800px] md:translate-x-[700px] sm:translate-x-[700px] md:max-w-[400px] translate-x-[700px] sm:max-w-[100px] bottom-[300px] opacity-50" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" />
+
       <div className="hidden md:flex items-center justify-center h-screen p-4 md:pt-80  mx-auto gap-20 2xl:container about relative">
         <div className="items-center justify-center w-1/2 px-8 text-white">
           <div className="relative z-40 flex justify-center w-full h-0 overflow-hidden scale-100 rounded-lg aspect-w-16 aspect-h-9" style={{ paddingBottom: '56.25%' }}>
