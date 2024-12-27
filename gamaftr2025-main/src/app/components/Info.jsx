@@ -22,7 +22,7 @@ const Info = () => {
         <div className="items-center justify-center w-1/2 px-8 text-white">
           <div className="relative z-40 flex justify-center w-full h-0 overflow-hidden scale-100 rounded-lg aspect-w-16 aspect-h-9" style={{ paddingBottom: '56.25%' }}>
             <iframe
-              src="https://www.youtube.com/embed/uI4uCmLkZsc?autoplay=1"
+              src="https://www.youtube.com/embed/89fcJmlPvpc?autoplay=1"
               title="YouTube video player"
               frameBorder="0"
               allowFullScreen
