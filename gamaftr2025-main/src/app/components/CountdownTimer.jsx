@@ -56,7 +56,7 @@ const CountdownTimer = () => {
   return (
     <div className="relative flex items-center justify-center w-ful mx-5  md:h-screen count md:pt-10 timeline lg:px-2 gap-6 xl:ml-5 mb-5 pb-16">
       <div className="absolute inset-y-0 left-0 z-40 flex items-center w-2/3 md:w-full rocket xl:mr-3 lg:ml-7">
-         <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/plane1.png" alt="Alt Text" className='animate-cloud-move sm:animate-cloud-move-sm md:animate-cloud-move-md lg:animate-cloud-move-lg absolute z-0 -translate-y-[10px] 2xl:-translate-x-[400px] -translate-x-[200px] Edit:-translate-x-[280px] float-left
+         <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/plane1.png?raw=true" alt="hero" className='animate-cloud-move sm:animate-cloud-move-sm md:animate-cloud-move-md lg:animate-cloud-move-lg absolute z-0 -translate-y-[10px] 2xl:-translate-x-[400px] -translate-x-[200px] Edit:-translate-x-[280px] float-left
        lg:max-[400px] hidden md:block md:max-w-[700px]lg:max-w-[700px]'/>
         <img loading="lazy" className="absolute z-25 lg:-translate-x-[40px] scale-[110%] 2xl:max-w-[1900px]  md:translate-y-[-40px]" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/citylandscape.png?raw=true" />
       </div>
