@@ -12,7 +12,7 @@ const Info = () => {
           <h1 className="relative z-40 text-xl font-bold font-audiowide text-center text-white rounded-3xl  md:text-2xl lg:text-4xl xl:text-6xl ">Gadjah Mada Flies To Riau</h1>
           <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" alt="" className="animate-cloud-move-high sm:animate-cloud-move-high-sm md:animate-cloud-move-high-md lg:animate-cloud-move-high-lg absolute z-0 right-0 bottom-[300px] xl:scale-[55%] md:scale-[40%] sm:scale-[40%] lg:scale-[60%] md:block"/>
           <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" alt="Alt Text" className='animate-cloud-move sm:animate-cloud-move-sm md:animate-cloud-move-md lg:animate-cloud-move-lg 
-        absolute z-0 bottom-[100px] 2xl:bottom-[200px] bottom-[100px] Edit:bottom-[150px] float-left lg:max-[100px] hidden md:block md:max-w-[400px] lg:max-w-[400px]'/>
+        absolute z-0 bottom-[10px] 2xl:bottom-[400px] bottom-[200px] Edit:bottom-[280px] float-left lg:max-[400px] hidden md:block md:max-w-[700px] lg:max-w-[700px]'/>
           <p className="relative z-40 leading-relaxed text-justify text-white rounded-3x1 font-outfit lg:text-2xl ">
           merupakan program kerja tahunan KEMARIGAMA (Keluarga Mahasiswa Riau Gadjah Mada) yang setiap tahunnya sudah mengunjungi lebih dari 50 SMA di Provinsi Riau. GAMAFTR diinsiasikan untuk memperkenalkan Universitas Gadjah Mada kepada siswa dan siswi SMA/sederajat di Provinsi Riau. GAMAFTR terdiri dari beberapa rangkaian acara seperti roadshow, try out, dan acara puncaknya adalah Bedah Kampus di Pekanbaru.
           </p>
