@@ -7,7 +7,7 @@ import './globals.css';
 import { motion, useAnimation } from 'framer-motion';
 
 // Import components using dynamic import
-const AboutUsLg = dynamic(() => import('./components/aboutusLg'));
+const AboutUsLg = dynamic(() => import('./components/AboutUsLg'));
 const Info = dynamic(() => import('./components/Info'));
 const Timeline = dynamic(() => import('./components/Timeline'));
 const MobileTimeline = dynamic(() => import('./components/MobileTimeLine'));
