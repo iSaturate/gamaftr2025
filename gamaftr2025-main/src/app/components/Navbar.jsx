@@ -23,7 +23,7 @@ const Navbar = () => {
 
           <div className="items-center hidden gap-5 space-x-1 md:flex">
             <a href="#event" className="px-6 py-2 font-extrabold transition duration-300 bg-blue-600 rounded-3xl text-space1 hover:bg-white hover:text-space2 font-outfit text-white hover:shadow-[0px_0px_20px_#205FC9]">Our Events</a>
-            <a href="https://bit.ly/SALEGAMAFTR2024" className="px-6 py-2 font-extrabold transition duration-300 bg-blue-600 rounded-3xl text-space1 hover:bg-white hover:text-space2 font-outfit text-white hover:shadow-[0px_0px_20px_#205FC9]">Order Ticket</a>
+            <a href="https://bit.ly/PRESALE1GAMAFTR2025" className="px-6 py-2 font-extrabold transition duration-300 bg-blue-600 rounded-3xl text-space1 hover:bg-white hover:text-space2 font-outfit text-white hover:shadow-[0px_0px_20px_#205FC9]">Order Ticket</a>
           </div>
 
           <div className="flex items-center md:hidden">
@@ -38,7 +38,7 @@ const Navbar = () => {
       </div>
 
       <div className={`mobile-menu ${isMobileMenuVisible ? '' : 'hidden'} md:hidden items-center flex justify-center`}>
-        <a href="https://bit.ly/PRESALE1GAMAFTR2025" className="block px-4 py-2 font-bold bg-space2 hover:bg-white hover:text-space2 rounded-xl font-outfit text-white">Merchandise</a>
+        <a href="https://bit.ly/SALEGAMAFTR2024" className="block px-4 py-2 font-bold bg-space2 hover:bg-white hover:text-space2 rounded-xl font-outfit text-white">Merchandise</a>
         <a href="#event" className="block px-4 py-2 font-bold bg-space2 hover:bg-white hover:text-space2 rounded-xl font-outfit text-white">Our Events</a>
       </div>
     </nav>
