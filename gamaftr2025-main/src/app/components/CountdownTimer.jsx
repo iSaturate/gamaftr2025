@@ -61,7 +61,7 @@ const CountdownTimer = () => {
       </div>
       <div className="relative z-40 md:items-center md:flex">
         <div className="flex items-center justify-center w-full text-center text-white">
-          <h1 className="text-3xl font-bold font-audiowide md:px-10 sm:text-7xl md:text-7xl lg:text-7xl xl:text-7xl bg-[#8c8c8c]/20 backdrop-blur-lg border-white border-[4px] text-border-white text-gray-300 rounded-2xl">Bedah Kampus</h1>
+          <h1 className="text-3xl font-bold font-audiowide md:px-10 sm:text-7xl md:text-7xl lg:text-7xl xl:text-7xl bg-[#8c8c8c]/20 backdrop-blur-lg border-white border-[4px] md:leading-relaxed sm:leading-relaxed text-border-white text-gray-300 rounded-2xl">Bedah Kampus</h1>
         </div>
         <div className="relative z-40 flex items-center justify-center w-full mx-auto  border-[4px] border-white bg-[#8c8c8c]/20  backdrop-blur-md relative-20 rounded-2xl scale-90">
           <div className="text-5xl font-bold font-outfit text-space1 font-space md:text-sm md:px-5 md:text-border-red-500"  id="countdown"></div>
