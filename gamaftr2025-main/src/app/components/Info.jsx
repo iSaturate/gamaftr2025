@@ -36,7 +36,7 @@ const Info = () => {
           <h1 className="mb-4 text-xl font-bold text-white font-audiowide md:text-xl sm:text-lg lg:text-4xl xl:text-6xl">Gadjah Mada Flies To Riau</h1>
           <p className="font-semibold leading-relaxed text-justify text-white font-outfit md:text-md sm:text-sm lg:text-xl">Merupakan program kerja tahunan KEMARIGAMA (Keluarga Mahasiswa Riau Gadjah Mada) yang setiap tahunnya sudah mengunjungi lebih dari 50 SMA di Provinsi Riau. GAMAFTR diinisiasikan untuk memperkenalkan Universitas Gadjah Mada kepada siswa dan siswi SMA/sederajat di Provinsi Riau.</p>
         </div>
-        <img loading="lazy" className="absolute z-2 -translate-y-[30px] scale-[100%] -translate-x-3 w-[110%]  sm:scale-[110%] overflow-x-hidden" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/inikeretapi.png?raw=true" />
+        <img loading="lazy" className="absolute z-2 -translate-y-[30px] scale-[100%] -translate-x-3 w-[110%]  sm:scale-[110%] overflow-x-hidden" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/keretamobile.png?raw=true" />
       </div>
      </div>
   );
