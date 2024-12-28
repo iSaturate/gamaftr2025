@@ -19,7 +19,7 @@ const Timeline = () => {
                 <img 
                  src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cube1.png?raw=true" className='absolute z-10 -translate-y-[1000px] transition-transform scale-150 animate-random2' />
                   <p className="flex justify-center mb-3 text-base text-white md:text-lg lg:text-2xl md:ml-1 lg:mx-7 lg:ml-7 leading-normal bg-[#8c8c8c]/20 translate-y-[450px] shadow-white font-outfit backdrop-blur-lg border-[4px] border-white md:leading-relaxed rounded-2xl">5 Januari 2025</p>
-                  <h4 className="flex justify-center mb-3 text-white text-lg font-semibold xl:text-6xl md:text-2xl md:mr-10 sm:text-lg lg-text-5xl leading-normal bg-[#8c8c8c]/20 translate-y-[450px] shadow-white font-outfit backdrop-blur-lg border-[4px] border-white md:leading-relaxed rounded-2xl">Opening</h4>
+                  <h4 className="flex justify-center mb-3 text-white text-lg font-semibold xl:text-6xl md:text-2xl md:mr-10 sm:text-lg lg-text-5xl md:ml-[60px] leading-normal bg-[#8c8c8c]/20 translate-y-[450px] shadow-white font-outfit backdrop-blur-lg border-[4px] border-white md:leading-relaxed rounded-2xl">Opening</h4>
                 </div>
               </div>
               <div className="flex items-center justify-between w-full mb-8 right-timeline">
