@@ -13,7 +13,7 @@ const Lokasi = () => {
 
     <h1 className="hidden sm:pt-10  text-3xl font-extrabold text-gray-300 s,:text-center sm:flex sm:justify-center rounded-x1 font-audiowide md:text-5xl text lg:text-7xl md:pt-5 text-border-white">RANGKAIAN ACARA</h1>
     <div className="justify-center scale-75 xl:scale-75 sm:scale-[70%]  lg:scale-[60%] md:scale-[45%] md:-translate-y-[50px]  sm:-translate-y-[30px] sm:flex sm:flex-row-2 sm:gap-6 sm:grid-flow-col">
-    <div className="md:w-1/2 md:px-8 sm:hidden scale-100 text-7xl font-audiowide font-bold text-gray-300 rounded-2xl bg-[#8c8c8c]/20 backdrop-blur-md shadow-xl xl:text-8xl backdrop-blur-lg p-4 lg:py-0 xl:p-4 pl-10mr-[180px] relative z-40 text-center border-white border-[4px] md:leading-relaxed rounded-2xl text-border-white">EVENTS</div>
+    <div className="md:w-1/2 md:px-8 sm:hidden scale-100 text-7xl font-audiowide font-bold text-gray-300 rounded-2xl bg-[#8c8c8c]/20 backdrop-blur-md shadow-xl xl:text-8xl backdrop-blur-lg p-4 lg:py-0 xl:p-4 pl-10mr-[180px] relative z-40 text-center border-white border-[4px] text-border-white">EVENTS</div>
     <div className="mt-5 transition shadow-xl card card-compact sm:w-1/2 w-50 md:w-70 lg:[50%] xl:[20%] hover:scale-125 hover:z-40 hover:shadow-lg hover:shadow-space2 object-cover bg-space2">
   <figure><img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/opening.png?raw=true" alt="Shoes" className='md:max-w-[350px]'  /></figure>
   <div className="card-body">
