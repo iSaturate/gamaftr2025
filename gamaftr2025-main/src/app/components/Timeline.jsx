@@ -18,7 +18,7 @@ const Timeline = () => {
                 <div className="relative z-40 order-1 w-5/12 text-right lg:px-1 lg:py-4">
                 <img 
                  src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cube1.png?raw=true" className='absolute z-10 transition-transform scale-150 animate-random2' />
-                  <p className="flex justify-center mb-3 text-base text-white md:text-lg lg:text-2xl lg:mx-7 lg:ml-7 md:mr-16 leading-normal bg-[#8c8c8c]/20 translate-y-[450px] shadow-white font-outfit backdrop-blur-lg border-[4px] border-white md:leading-relaxed rounded-2xl">5 Januari 2025</p>
+                  <p className="flex justify-center mb-3 text-base text-white md:text-lg lg:text-2xl lg:mx-7 lg:ml-7 md:ml-1 leading-normal bg-[#8c8c8c]/20 translate-y-[450px] shadow-white font-outfit backdrop-blur-lg border-[4px] border-white md:leading-relaxed rounded-2xl">5 Januari 2025</p>
                   <h4 className="relative z-40 flex justify-center mb-3 text-white text-lg font-semibold k xl:text-6xl md:text-2xl sm:text-lg lg-text-5xl md:mr-10 leading-normal bg-[#8c8c8c]/20 translate-y-[450px] shadow-white font-outfit backdrop-blur-lg border-[4px] border-white md:leading-relaxed rounded-2xl">Opening</h4>
                 </div>
               </div>
