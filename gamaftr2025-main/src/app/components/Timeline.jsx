@@ -25,8 +25,8 @@ const Timeline = () => {
               <div className="flex items-center justify-between w-full mb-8 right-timeline">
                 <div className="order-1 w-5/12"></div>
                 <div className="relative z-40 order-1 w-5/12 text-left lg:px-1 lg:py-4">
-                  <p className="flex justify-center mb-3 text-base text-white md:text-lg lg:text-2xl lg:ml-7 md:ml-[60px] lg:mx-7 leading-normal bg-[#8c8c8c]/20 translate-y-[600px] shadow-white font-outfit backdrop-blur-lg border-[4px] border-white md:leading-relaxed rounded-2xl">6-17 Januari 2025</p>
-                  <h4 className="flex justify-center mb-3 text-white text-lg font-semibold xl:text-6xl md:text-2xl md:mr-10 sm:text-lg lg-text-5xl md:ml-[60px] lg:mx-7 leading-normal bg-[#8c8c8c]/20 translate-y-[600px] shadow-white font-outfit backdrop-blur-lg border-[4px] border-white md:leading-relaxed rounded-2xl">Roadshow</h4>
+                  <p className="flex justify-center mb-3 text-base text-white md:text-lg lg:text-2xl lg:ml-7 md:ml-[60px] lg:mx-7 leading-normal bg-[#8c8c8c]/20 translate-y-[400px] shadow-white font-outfit backdrop-blur-lg border-[4px] border-white md:leading-relaxed rounded-2xl">6-17 Januari 2025</p>
+                  <h4 className="flex justify-center mb-3 text-white text-lg font-semibold xl:text-6xl md:text-2xl md:mr-10 sm:text-lg lg-text-5xl md:ml-[60px] lg:mx-7 leading-normal bg-[#8c8c8c]/20 translate-y-[400px] shadow-white font-outfit backdrop-blur-lg border-[4px] border-white md:leading-relaxed rounded-2xl">Roadshow</h4>
                 <img 
                  src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/plane1.png?raw=true" alt="" className='absolute z-40 transition-transform animate-random1' />
                 </div>
