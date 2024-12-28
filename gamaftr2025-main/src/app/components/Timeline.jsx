@@ -18,8 +18,8 @@ const Timeline = () => {
                 <div className="relative z-40 order-1 w-5/12 text-right lg:px-1 lg:py-4">
                   <img 
                     src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cube1.png?raw=true" className='absolute z-0 bottom-[-750px] scale-150 animate-random2' />
-                  <p className="absolute z-10 flex justify-center mb-3 text-base text-white md:text-lg lg:text-2xl md:ml-1 lg:mx-7 lg:ml-7 leading-normal bg-[#8c8c8c]/20 translate-y-[450px] shadow-white font-outfit backdrop-blur-lg border-[4px] border-white md:leading-relaxed rounded-2xl">5 Januari 2025</p>
-                  <h4 className="absolute z-10 flex justify-center mb-3 text-white text-lg font-semibold xl:text-6xl md:text-2xl md:mr-10 sm:text-lg lg-text-5xl md:ml-[60px] lg:mx-7 leading-normal bg-[#8c8c8c]/20 translate-y-[450px] shadow-white font-outfit backdrop-blur-lg border-[4px] border-white md:leading-relaxed rounded-2xl">Opening</h4>
+                  <p className="absolute z-1 flex justify-center mb-3 text-base text-white md:text-lg lg:text-2xl md:ml-1 lg:mx-7 lg:ml-7 leading-normal bg-[#8c8c8c]/20 translate-y-[450px] shadow-white font-outfit backdrop-blur-lg border-[4px] border-white md:leading-relaxed rounded-2xl">5 Januari 2025</p>
+                  <h4 className="absolute z-2 flex justify-center mb-3 text-white text-lg font-semibold xl:text-6xl md:text-2xl md:mr-10 sm:text-lg lg-text-5xl md:ml-[60px] lg:mx-7 leading-normal bg-[#8c8c8c]/20 translate-y-[450px] shadow-white font-outfit backdrop-blur-lg border-[4px] border-white md:leading-relaxed rounded-2xl">Opening</h4>
                   
                 </div>
               </div>
