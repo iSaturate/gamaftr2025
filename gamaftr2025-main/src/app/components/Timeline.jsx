@@ -5,8 +5,8 @@ const Timeline = () => {
   return (
     <div className="py-8 text-gray-300  flex px-4 lg:pt-40 xl:pt-72 relative">
       <div className="container flex-col items-start hidden mx-auto my-12 md:flex-row md:my-24 md:flex timeline md:-translate-x-[40px] lg:translate-x-[0px]">
-        <div className="relative flex flex-col items-center w-full px-8 mt-10 pt-48 md:top-36 lg:w-1/3 md:mt-12">
-          <p className="relative z-40 flex justify-center p-2 text-xl md:text-3xl font-extrabold leading-normal  bg-[#8c8c8c]/20  shadow-white font-audiowide backdrop-blur-lg shadow-white temb-2 xl:text-6xl lg:text-5xl border-[4px] border-white md:leading-relaxed rounded-2xl lg:text-border-white -translate-y-1/4">TIMELINE</p>
+        <div className="relative flex flex-col items-center w-full px-8 mt-2 pt-36 md:top-36 lg:w-1/3 md:mt-12">
+          <p className="relative z-40 flex justify-center p-2 text-xl md:text-3xl font-extrabold leading-normal  bg-[#8c8c8c]/20  shadow-white font-audiowide backdrop-blur-lg shadow-white temb-2 xl:text-6xl lg:text-5xl border-[4px] border-white md:leading-relaxed rounded-2xl lg:text-border-white">TIMELINE</p>
             <img 
              src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/combo1.png?raw=true" alt="" className='absolute z-10 translate-y-[200px] -translate-x-[100px] scale-75 animate-random' />
         </div>
