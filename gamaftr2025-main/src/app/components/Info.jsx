@@ -8,7 +8,7 @@ const Info = () => {
         
         </div>
 
-        <div className="relative w-full bg-[#d3d3d3]/60 rounded-3x1 backdrop-blur-lg p-4 translate-y-[200px]">
+        <div className="relative w-full bg-[#8c8c8c]/20 rounded-3x1 backdrop-blur-lg p-4 translate-y-[200px]">
           <h1 className="relative z-40 text-xl font-bold font-audiowide text-center text-white rounded-3xl  md:text-2xl lg:text-4xl xl:text-6xl ">Gadjah Mada Flies To Riau</h1>
           <img loading="lazy" className="absolute z-5 object-cover object-center duration-100 max-w-[100px] vm:max-w-[200px] lg:max-w-[200px] md:max-w-[200px] sm:max-w-[100px] left-1/2 bottom-[500px] transform -translate-x-1/2 -translate-y-1/2" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Group%20146.png?raw=true" />
           <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" alt="" className="animate-cloud-move-high sm:animate-cloud-move-high-sm md:animate-cloud-move-high-md lg:animate-cloud-move-high-lg absolute z-0 right-0 bottom-[400px] xl:scale-[55%] md:scale-[40%] sm:scale-[40%] lg:scale-[60%] md:block"/>
