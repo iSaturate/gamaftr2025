@@ -17,7 +17,7 @@ const Lokasi = () => {
     <div className="relative">
       <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cylinder2.png?raw=true" alt="" className="translate-y-[50px] translate-x-[60px] md:hidden w-[35%] h-[35%]" /> </div>
     <div className="relative">
-      <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/plane3.png?raw=true" alt="" className="rotate-[90deg] translate-y-[60px] translate-x-[80px] md:hidden w-[30%] h-[30%]" /> </div>
+      <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/plane3.png?raw=true" alt="" className="rotate-[180deg] translate-y-[60px] translate-x-[80px] md:hidden w-[30%] h-[30%]" /> </div>
     <div className="relative">
       <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/CloudDouble.png?raw=true" alt="" className="translate-y-[50px] translate-x-[30px] md:hidden w-[1000%] h-auto" /> </div>
     
