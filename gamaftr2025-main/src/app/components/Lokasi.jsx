@@ -12,6 +12,8 @@ const Lokasi = () => {
             <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" alt="" className="animate-cloud-move-loop sm:animate-cloud-move-loop-sm md:animate-cloud-move-loop-md lg:animate-cloud-move-loop-lg" /> </div>
     <div className="relative">
       <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/ball1.png?raw=true" alt="" className="animate-spiral animate-random2 translate-y-[50px] translate-x-[50px] md:hidden w-[10%] h-[10%]" /> </div>
+    <div className="relative">
+      <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Group%201461.png?raw=true" alt="" className="translate-y-[50px] translate-x-[100px] md:hidden w-[10%] h-[10%]" /> </div>
       
     <h1 className="hidden sm:pt-10  text-3xl font-extrabold text-gray-300 s,:text-center sm:flex sm:justify-center rounded-x1 font-audiowide md:text-5xl text lg:text-7xl md:pt-5 text-border-white">RANGKAIAN ACARA</h1>
     <div className="justify-center scale-75 xl:scale-75 sm:scale-[70%]  lg:scale-[60%] md:scale-[45%] md:-translate-y-[50px]  sm:-translate-y-[30px] sm:flex sm:flex-row-2 sm:gap-6 sm:grid-flow-col">
