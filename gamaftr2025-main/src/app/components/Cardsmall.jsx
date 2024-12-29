@@ -49,7 +49,7 @@ const Cardsmall = () => {
                 
         </div>
       </div>
-                       
+    </div>
   );
 };
 
