@@ -7,10 +7,11 @@ const Lokasi = () => {
     <div className="flex justify-center">
     <div className="sm:border-[3px] sm:bg-[#8c8c8c]/20 backdrop-blur-md  sm:border-white sm:rounded-2x1 rounded-2x1  relative z-40 md:-translate-y-[100px] lg:-translate-y-[200px] max-w-[1280px]">
     <div className="absolute z-40 right-[0%] bottom-[5%] -translate-x-1/2 sm:hidden translate-y-[10%]"> 
+      
       <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" alt="" className="opacity-50 animate-cloud-move sm:animate-cloud-move-sm md:animate-cloud-move-md lg:animate-cloud-move-lg" /> </div>
             <div className="absolute z-40 left-[0%] bottom-[0%] translate-x-1/3 sm:hidden translate-y-1/2">
             <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" alt="" className="animate-cloud-move-loop sm:animate-cloud-move-loop-sm md:animate-cloud-move-loop-md lg:animate-cloud-move-loop-lg" /> </div>
-            <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/ball1.png?raw=true" alt="" className="animate-random translate-y-[50px] translate-x-[50px] md:hidden" /> </div>
+            
     <h1 className="hidden sm:pt-10  text-3xl font-extrabold text-gray-300 s,:text-center sm:flex sm:justify-center rounded-x1 font-audiowide md:text-5xl text lg:text-7xl md:pt-5 text-border-white">RANGKAIAN ACARA</h1>
     <div className="justify-center scale-75 xl:scale-75 sm:scale-[70%]  lg:scale-[60%] md:scale-[45%] md:-translate-y-[50px]  sm:-translate-y-[30px] sm:flex sm:flex-row-2 sm:gap-6 sm:grid-flow-col">
     <div className="md:w-1/2 md:px-8 sm:hidden scale-100 text-7xl font-audiowide font-bold text-gray-300 rounded-2xl bg-[#8c8c8c]/20 backdrop-blur-md shadow-xl xl:text-8xl backdrop-blur-lg p-4 lg:py-0 xl:p-4 pl-10mr-[180px] relative z-40 text-center border-white border-[4px] text-border-white">EVENTS</div>
