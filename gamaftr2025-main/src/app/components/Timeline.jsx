@@ -8,7 +8,7 @@ const Timeline = () => {
         <div className="relative flex flex-col items-center w-full px-8 mt-2 pt-36 md:top-36 lg:w-1/3 md:mt-12">
           <p className="relative z-40 flex justify-center p-2 text-xl md:text-3xl font-extrabold leading-normal  bg-[#8c8c8c]/20 translate-y-[400px] shadow-white font-audiowide backdrop-blur-lg shadow-white temb-2 xl:text-6xl lg:text-5xl border-[4px] border-white md:leading-relaxed rounded-2xl lg:text-border-white">TIMELINE</p>
           <img loading="lazy" className="absolute bottom-[-750px] z-10 scale-75 animate-random" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/combo1.png?raw=true" />
-           
+
         </div>
         <div className="sticky z-40 flex pl-4 r lg:ml-12 lg:w-2/3">
           <div className="container w-full h-full mx-auto">
@@ -28,17 +28,18 @@ const Timeline = () => {
                 <div className="relative z-40 order-1 w-5/12 text-left lg:px-1 lg:py-4">
                   <img 
                  src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/plane1.png?raw=true" alt="" className='absolute z-10 bottom-[-725px] animate-random1' />
-                  <p className="flex justify-center mb-3 text-base text-white md:text-lg lg:text-2xl lg:ml-7 md:ml-[60px] lg:mx-7 leading-normal bg-[#8c8c8c]/20 translate-y-[400px] shadow-white font-outfit backdrop-blur-lg border-[4px] border-white md:leading-relaxed rounded-2xl">6-17 Januari 2025</p>
-                  <h4 className="flex justify-center mb-3 text-white text-lg font-semibold xl:text-6xl md:text-2xl md:mr-10 sm:text-lg lg-text-5xl md:ml-[60px] lg:mx-7 leading-normal bg-[#8c8c8c]/20 translate-y-[400px] shadow-white font-outfit backdrop-blur-lg border-[4px] border-white md:leading-relaxed rounded-2xl">Roadshow</h4>
+                  <p className="flex justify-center mb-3 text-base text-white md:text-lg lg:text-2xl lg:ml-7 md:ml-[60px] lg:mx-7 leading-normal bg-[#8c8c8c]/20 translate-y-[400px] shadow-white font-outfit backdrop-blur-lg border-[4px] border-white md:leading-relaxed rounded-2xl">18-19 Januari 2025</p>
+                  <h4 className="flex justify-center mb-3 text-white text-lg font-semibold xl:text-6xl md:text-2xl md:mr-10 sm:text-lg lg-text-5xl md:ml-[60px] lg:mx-7 leading-normal bg-[#8c8c8c]/20 translate-y-[400px] shadow-white font-outfit backdrop-blur-lg border-[4px] border-white md:leading-relaxed rounded-2xl">Try Out</h4>
+
+                </div>
               </div>
               <div className="flex flex-row-reverse items-center justify-between w-full mb-8 left-timeline">
                 <div className="order-1 w-5/12"></div>
                 <div className="order-1 w-5/12 text-right lg:px-1 lg:py-4">
-                  <img 
-                  src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cube1.png?raw=true" className='absolute z-0 bottom-[-750px] scale-150 animate-random2' />
-                  <p className="absoluste z-10 flex justify-center mb-3 text-base text-white md:text-lg lg:text-2xl md:mr-16 lg:mx-7 lg:ml-7 leading-normal bg-[#8c8c8c]/20 translate-y-[450px] shadow-white font-outfit backdrop-blur-lg border-[4px] border-white md:leading-relaxed rounded-2xl">18-19 Januari 2025</p>
-                  <h4 className="absoluste z-10 flex justify-center mb-3 text-white text-lg font-semibold xl:text-6xl md:text-2xl md:mr-10 sm:text-lg lg-text-5xl md:ml-[60px] lg:mx-7 leading-normal bg-[#8c8c8c]/20 translate-y-[450px] shadow-white font-outfit backdrop-blur-lg border-[4px] border-white md:leading-relaxed rounded-2xl">Try Out</h4>
-                  
+                  {/*<img 
+                  src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cube1.png?raw=true" className='absolute z-0 bottom-[-750px] scale-150 animate-random2' />*/}
+                  <p className="flex justify-center mb-3 text-base text-white md:text-lg lg:text-2xl md:mr-16 lg:mx-7 lg:ml-7 leading-normal bg-[#8c8c8c]/20 translate-y-[450px] shadow-white font-outfit backdrop-blur-lg border-[4px] border-white md:leading-relaxed rounded-2xl">6-17 Januari 2025</p>
+                  <h4 className="flex justify-center mb-3 text-white text-lg font-semibold xl:text-6xl md:text-2xl md:mr-10 sm:text-lg lg-text-5xl md:ml-[60px] lg:mx-7 leading-normal bg-[#8c8c8c]/20 translate-y-[450px] shadow-white font-outfit backdrop-blur-lg border-[4px] border-white md:leading-relaxed rounded-2xl">Roadshow</h4>
                 </div>
               </div>
               <div className="relative z-40 flex items-center justify-between w-full mb-8 right-timeline">
