@@ -7,7 +7,7 @@ const Cardsmall = () => {
   }
 
   return (
-  <div className="relative flex flex-col items-center w-full px-8 mt-2 pt-36 md:top-36 lg:w-1/3 md:mt-12">
+  <div className="relative flex flex-col items-center px-8 mt-2 pt-36 md:top-36 lg:w-1/3 md:mt-12">
     <img loading="lazy" className="absolute bottom-[800px] z-10 w-[90%] h-[60%] translate-x-[50px] animate-random2" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/combo1.png?raw=true" />
 
     <div className="sm:hidden" id='ticket1'>
