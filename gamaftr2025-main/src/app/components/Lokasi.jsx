@@ -17,6 +17,8 @@ const Lokasi = () => {
     <div className="relative">
       <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cylinder2.png?raw=true" alt="" className="translate-y-[50px] translate-x-[300px] md:hidden w-[50%] h-[50%]" /> </div>
     <div className="relative">
+      <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/plane3.png?raw=true" alt="" className="anime-random2 translate-y-[45px] translate-x-[300px] md:hidden w-[50%] h-[50%]" /> </div>
+    <div className="relative">
       <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" alt="" className="translate-y-[50px] translate-x-[50px] md:hidden w-[100%] h-[100%]" /> </div>
     
     <h1 className="hidden sm:pt-10  text-3xl font-extrabold text-gray-300 s,:text-center sm:flex sm:justify-center rounded-x1 font-audiowide md:text-5xl text lg:text-7xl md:pt-5 text-border-white">RANGKAIAN ACARA</h1>
