@@ -42,7 +42,7 @@ const Ticket = () => {
         <div className="lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
             <h1 className=" font-outfit font-bold sm:mb-0 md:mb-0 lg:mb-0 xl:mb-4 text-[13px] md:text-[13px]  lg:text-2xl sm:text-[8px]">Duri</h1>
             <ul>
-                <li className='font-outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Hari, tanggal: </strong> Sabtu, 18 Januari 2025</li>
+                <li className='font-outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Hari, tanggal: </strong>  Minggu, 19 Januari</li>
                 <li className='font-outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Waktu pelaksanaan: </strong> 07.30 - Selesai</li>
                 <li className='font-outfit text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]'><strong>Lokasi: </strong> SMA Negeri 8 Mandau</li>
             </ul>
@@ -51,7 +51,7 @@ const Ticket = () => {
         <div className=" lg:mb-0 xl:mb-8 sm:mb-1 md:mb-1">
             <h1 className=" font-outfit font-bold sm:mb-0 md:mb-0 sm:text-[8px] lg:mb-0 xl:mb-4 text-[13px] md:text-[13px]  lg:text-2xl">Dumai</h1>
             <ul className="font-outfit">
-                <l className="text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px] " ><strong>Hari, tanggal: </strong> Minggu, 19 Januari 2025</l>
+                <l className="text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px] " ><strong>Hari, tanggal: </strong> Sabtu, 18 Januari 2025</l>
                 <li className="text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]" ><strong>Waktu pelaksanaan: </strong> 07.30 - Selesai</li>
                 <li className="text-[10px] sm:text-[8px] md:text-[10px] xl:text-[14px]" ><strong>Lokasi: </strong> SMA Negeri 1 Dumai</li>
             </ul>
