@@ -13,11 +13,11 @@ const Lokasi = () => {
     <div className="relative">
       {/*<img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/ball1.png?raw=true" alt="" className="animate-spiral animate-random2 translate-y-[50px] translate-x-[50px] md:hidden w-[10%] h-[10%]" />*/} </div>
     <div className="relative">
-      <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Group%201461.png?raw=true" alt="" className="translate-y-[100px] translate-x-[300px] md:hidden w-[50%] h-[50%]" /> </div>
+      <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Group%201461.png?raw=true" alt="" className="translate-y-[-100px] translate-x-[300px] md:hidden w-[50%] h-[50%]" /> </div>
     <div className="relative">
-      <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cylinder2.png?raw=true" alt="" className="translate-y-[50px] translate-x-[-100px] md:hidden w-[35%] h-[35%]" /> </div>
+      <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cylinder2.png?raw=true" alt="" className="translate-y-[50px] translate-x-[30px] md:hidden w-[35%] h-[35%]" /> </div>
     <div className="relative">
-      <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/plane3.png?raw=true" alt="" className="rotate-[270deg] translate-y-[49px] translate-x-[600px] md:hidden w-[30%] h-[30%]" /> </div>
+      <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/plane3.png?raw=true" alt="" className="rotate-[0deg] translate-y-[49px] translate-x-[600px] md:hidden w-[30%] h-[30%]" /> </div>
     <div className="relative">
       <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/CloudDouble.png?raw=true" alt="" className="translate-y-[50px] translate-x-[30px] md:hidden w-[500%] h-[500%]" /> </div>
     
