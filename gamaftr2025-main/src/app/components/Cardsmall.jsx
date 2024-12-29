@@ -7,6 +7,9 @@ const Cardsmall = () => {
   }
 
   return (
+    <div>
+      <img loading="lazy" className="absolute bottom-[-750px] z-10 scale-75 animate-random" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/combo1.png?raw=true" />
+    </div>
     <div className="sm:hidden" id='ticket1'>
     <div className="flex flex-col sm:flex-row mx-auto min-h-screen items-center justify-center bg-[#FFFFFFF]/0 gap-4 xl:pt-60 md:pb-12 lg:my-[10px] relative">
 
