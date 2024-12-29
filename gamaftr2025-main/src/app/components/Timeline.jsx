@@ -12,7 +12,7 @@ const Timeline = () => {
         </div>
         <div className="sticky z-40 flex pl-4 r lg:ml-12 lg:w-2/3">
           <div className="container w-full h-full mx-auto">
-            <div className="relative h-full md:-translate-x-[50px] lg:-translate-x-[0px] "></div>
+            <div className="relative h-full md:-translate-x-[50px] lg:-translate-x-[0px] ">
               <div className="flex flex-row-reverse items-center justify-between w-full mb-8 left-timeline">
                 <div className="order-1 w-5/12"></div>
                 <div className="relative z-40 order-1 w-5/12 text-right lg:px-1 lg:py-4">
