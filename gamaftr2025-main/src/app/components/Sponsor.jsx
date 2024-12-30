@@ -16,31 +16,31 @@ const Sponsor = () => {
                 <div className=" max-w-[190px] md:max-w-[350px] p-[5%] pb-0">
                     <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Logo_Ruang_Guru.png?raw=true" alt="" className="" />
                 </div>
-                <div className=" max-w-[190px] md:max-w-[350px] p-[5%] pb-0">
+                <div className="hidden max-w-[190px] md:max-w-[350px] p-[5%] pb-0">
                     <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/media%20partner/download.png?raw=true" alt="" className="" />
                 </div>
                 <div className=" max-w-[230px] md:max-w-[400px] p-[5%]">
                     <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/sponsor/Tupperware%20-%20Riau%20Cahaya-PhotoRoom.png?raw=true" alt="" className="" />
                 </div>
-                <div className=" max-w-[120px] md:max-w-[220px] p-[5%]">
+                <div className=" hidden max-w-[120px] md:max-w-[220px] p-[5%]">
                     <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/sponsor/Logo%20Arjuna%20Coffee.png?raw=true" alt="" className="" />
                 </div>
-                <div className=" max-w-[120px] md:max-w-[220px] p-[5%]">
+                <div className="hidden max-w-[120px] md:max-w-[220px] p-[5%]">
                     <img src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/resize/WhatsApp%20Image%202024-01-09%20at%2012.58.11%20(1).jpeg?raw=true" alt="" className="w-24" />
                 </div>
-                <div className=" max-w-[120px] md:max-w-[220px] p-[5%]">
+                <div className=" hidden max-w-[120px] md:max-w-[220px] p-[5%]">
                     <img src="https://github.com/SyaidFarhan/Gamaftr/blob/main/Gamaft/resize/SecKopi_vertical%20(1).jpg?raw=true" alt="" className="w-12" />
                 </div>
                 </div>
 
                 <div className="flex flex-wrap items-center justify-evenly mt-[20px] gap-[24px]bg-white/40 rounded">
-                <div className=" max-w-[120px] md:max-w-[230px] p-[5%]">
+                <div className="hidden max-w-[120px] md:max-w-[230px] p-[5%]">
                     <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/sponsor/Logo%20Asia%20Farm%20(1).png?raw=true" alt="" className="" />
                 </div> 
-                <div className=" max-w-[120px] md:max-w-[200px] p-[5%]">
+                <div className=" hidden max-w-[120px] md:max-w-[200px] p-[5%]">
                     <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/sponsor/Logo%20Asia%20Heritage%20(1).png?raw=true" alt="" className="" />
                     </div>
-                <div className=" max-w-[70px] md:max-w-[170px] p-[5%]">
+                <div className="hidden max-w-[70px] md:max-w-[170px] p-[5%]">
                     <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/media%20partner/%5Bremoval.ai%5D_e688093b-e5ca-4b0a-b37a-fb78d7fe728e-pt_alamwisesa_.png?raw=true" alt="" className="" />
                 </div>
                
@@ -50,21 +50,21 @@ const Sponsor = () => {
 
   {/* First Row */}
   <div className="flex items-center justify-center gap-5">
-    <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/mediapartener/Pkufolk.png?raw=true" alt="" className="w-9 h-9" />
-    <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/mediapartener/Riau%20reportase.png?raw=true" alt="" className="w-9 h-9" />
-    <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/mediapartener/Riaufolk.png?raw=true" alt="" className="w-9 h-9" />
-    <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/media%20partner/LOGO%20RADIO%20ADITYA%20(1).png?raw=true" alt="" className="w-9 h-9" />
-    <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/media%20partner/LOGO%20RRI%20PRO%202%20(1).png?raw=true" alt="" className="w-9 h-9" />
+    <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/mediapartener/Pkufolk.png?raw=true" alt="" className=" w-9 h-9" />
+    <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/mediapartener/Riau%20reportase.png?raw=true" alt="" className="hidden w-9 h-9" />
+    <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/mediapartener/Riaufolk.png?raw=true" alt="" className=" w-9 h-9" />
+    <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/media%20partner/LOGO%20RADIO%20ADITYA%20(1).png?raw=true" alt="" className=" w-9 h-9" />
+    <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/media%20partner/LOGO%20RRI%20PRO%202%20(1).png?raw=true" alt="" className=" w-9 h-9" />
   </div>
 
   {/* Second Row */}
   <div className="flex items-center justify-center gap-5 mt-3">
-    <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/mediapartener/20210205_123713.png?raw=true" alt="" className="w-9 h-9" />
-    <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/mediapartener/BroSisPKU-Transparent-Black.png?raw=true" alt="" className="w-9 h-9" />
-    <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/mediapartener/LOGO%20PATNER%20(1).png?raw=true" alt="" className="w-9 h-9" />
-    <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/mediapartener/LOGO%20SUSKA%20FM%20%20(1).png?raw=true" alt="" className="w-9 h-9" />
-    <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/media%20partner/riauonline.co.id.png?raw=true" alt="" className="object-scale-down w-9 h-9" />
-    <img loading="lazy" src="https://asset-1.tstatic.net/img/logo/daerah/svg3/tribunpekanbaru.svg" alt="" className="w-9 h-9" />
+    <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/mediapartener/20210205_123713.png?raw=true" alt="" className="hiddenw-9 h-9" />
+    <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/mediapartener/BroSisPKU-Transparent-Black.png?raw=true" alt="" className=" w-9 h-9" />
+    <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/mediapartener/LOGO%20PATNER%20(1).png?raw=true" alt="" className="hidden w-9 h-9" />
+    <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/mediapartener/LOGO%20SUSKA%20FM%20%20(1).png?raw=true" alt="" className="hidden w-9 h-9" />
+    <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/media%20partner/riauonline.co.id.png?raw=true" alt="" className="hidden object-scale-down w-9 h-9" />
+    <img loading="lazy" src="https://asset-1.tstatic.net/img/logo/daerah/svg3/tribunpekanbaru.svg" alt="" className="hidden w-9 h-9" />
   </div>
 </div>
 
