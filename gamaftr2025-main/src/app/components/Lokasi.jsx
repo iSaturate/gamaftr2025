@@ -188,7 +188,7 @@ const Lokasi = () => {
     </div>
     </div>
    </div>
-  <div>
+    </div>
   );
 };
 
