@@ -16,7 +16,7 @@ const Lokasi = () => {
       loading="lazy"
       src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Group%201461.png?raw=true"
       alt="hero"
-      className="absolute inset-0 z-10 translate-y-[40px] translate-x-[100px] md:hidden w-[100%] h-auto"
+      className="absolute inset-0 z-10 translate-y-[-100px] translate-x-[100px] md:hidden w-[100%] h-auto"
     />
   </div>
   <div>
