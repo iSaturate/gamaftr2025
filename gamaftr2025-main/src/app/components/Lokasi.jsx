@@ -17,7 +17,7 @@ const Lokasi = () => {
       loading="lazy"
       src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/ball1.png?raw=true"
       alt=""
-      className="z-30 bottom-[30px] md:hidden w-[25%] h-auto animate-spiral"
+      className="absolute inset-0 z-30 bottom-[30px] md:hidden w-[25%] h-auto animate-spiral"
     />
   </div>
   <div>
@@ -25,7 +25,7 @@ const Lokasi = () => {
       loading="lazy"
       src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Group%201461.png?raw=true"
       alt=""
-      className="z-30 translate-y-[-100px] translate-x-[100px] md:hidden w-[100%] h-auto"
+      className="absolute inset-0 z-30 translate-y-[-100px] translate-x-[100px] md:hidden w-[100%] h-auto"
     />
   </div>
   <div>
@@ -33,7 +33,7 @@ const Lokasi = () => {
       loading="lazy"
       src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cylinder2.png?raw=true"
       alt=""
-      className="rotate-[100deg] translate-y-[180px] translate-x-[330px] md:hidden w-[60%] h-auto"
+      className="absolute inset-0 z-30 rotate-[100deg] translate-y-[180px] translate-x-[330px] md:hidden w-[60%] h-auto"
     />
   </div>
   <div>
@@ -41,7 +41,7 @@ const Lokasi = () => {
       loading="lazy"
       src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cylinder2.png?raw=true"
       alt=""
-      className="rotate-[100deg] translate-y-[50px] translate-x-[230px] md:hidden w-[57%] h-auto"
+      className="absolute inset-0 z-30 rotate-[100deg] translate-y-[50px] translate-x-[230px] md:hidden w-[57%] h-auto"
     />
   </div>
   <div>
@@ -49,7 +49,7 @@ const Lokasi = () => {
       loading="lazy"
       src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cylinder2.png?raw=true"
       alt=""
-      className="rotate-[100deg] translate-y-[-60px] translate-x-[130px] md:hidden w-[55%] h-auto"
+      className="absolute inset-0 z-30 rotate-[100deg] translate-y-[-60px] translate-x-[130px] md:hidden w-[55%] h-auto"
     />
   </div>
   <div>
@@ -57,7 +57,7 @@ const Lokasi = () => {
       loading="lazy"
       src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/plane1.png?raw=true"
       alt=""
-      className="rotate-[45deg] translate-y-[-290px] translate-x-[20px] md:hidden w-[49%] h-auto"
+      className="absolute inset-0 z-30 rotate-[45deg] translate-y-[-290px] translate-x-[20px] md:hidden w-[49%] h-auto"
     />
   </div>
   <div>
@@ -65,7 +65,7 @@ const Lokasi = () => {
       loading="lazy"
       src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/CloudDouble.png?raw=true"
       alt=""
-      className="translate-y-[50px] translate-x-[30px] md:hidden w-[100%] h-auto"
+      className="absolute inset-0 z-30 translate-y-[50px] translate-x-[30px] md:hidden w-[100%] h-auto"
     />
   </div>
 </div>
