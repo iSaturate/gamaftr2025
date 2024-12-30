@@ -11,15 +11,7 @@ const Lokasi = () => {
             <div className="absolute z-40 left-[0%] bottom-[0%] translate-x-1/3 sm:hidden translate-y-1/2">
             <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" alt="" className="animate-cloud-move-loop sm:animate-cloud-move-loop-sm md:animate-cloud-move-loop-md lg:animate-cloud-move-loop-lg" /> </div>
 {/*     <div className="relative"><img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/ball1.png?raw=true" alt="" className="bottom-[30px] md:hidden w-[25%] h-auto animate-spiral" /> </div> */}
-    <div className="overflow-hidden">
-  <div>
-    <img
-      loading="lazy"
-      src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/ball1.png?raw=true"
-      alt=""
-      className="z-[-1] bottom-[30px] md:hidden w-[25%] h-auto animate-spiral"
-    />
-  </div>
+
   <div>
     <img
       loading="lazy"
