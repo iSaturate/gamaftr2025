@@ -38,8 +38,8 @@ const Navbar = () => {
       </div>
 
       <div className={`mobile-menu ${isMobileMenuVisible ? '' : 'hidden'} md:hidden items-center flex justify-center`}>
-        <a href="https://www.instagram.com/gamaftr/" className="block px-4 py-2 font-bold bg-space2 hover:bg-white hover:text-space2 rounded-xl font-outfit text-white">Our Instagram</a>
-        <a href="#event" className="block px-4 py-2 font-bold bg-space2 hover:bg-white hover:text-space2 rounded-xl font-outfit text-white">Our Events</a>
+        <a href="https://www.instagram.com/gamaftr/" className="block px-4 py-2 font-bold bg-space2 hover:bg-white hover:text-space2 hover:shadow-[0px_0px_20px_#205FC9] rounded-xl font-outfit text-white">Our Instagram</a>
+        <a href="#event" className="block px-4 py-2 font-bold bg-space2 hover:bg-white hover:text-space2 hover:shadow-[0px_0px_20px_#205FC9] rounded-xl font-outfit text-white">Our Events</a>
       </div>
     </nav>
   );
