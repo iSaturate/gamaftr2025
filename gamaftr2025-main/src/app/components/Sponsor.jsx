@@ -59,7 +59,7 @@ const Sponsor = () => {
 
   {/* Second Row */}
   <div className="flex items-center justify-center gap-5 mt-3">
-    <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/mediapartener/20210205_123713.png?raw=true" alt="" className="hiddenw-9 h-9" />
+    <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/mediapartener/20210205_123713.png?raw=true" alt="" className="hidden w-9 h-9" />
     <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/mediapartener/BroSisPKU-Transparent-Black.png?raw=true" alt="" className=" w-9 h-9" />
     <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/mediapartener/LOGO%20PATNER%20(1).png?raw=true" alt="" className="hidden w-9 h-9" />
     <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/mediapartener/LOGO%20SUSKA%20FM%20%20(1).png?raw=true" alt="" className="hidden w-9 h-9" />
