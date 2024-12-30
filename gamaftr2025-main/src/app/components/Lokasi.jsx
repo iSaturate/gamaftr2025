@@ -31,7 +31,7 @@ const Lokasi = () => {
   <div>
     <img
       loading="lazy"
-      src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/CloudDouble.png?raw=true"
+      src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/AwanSempurna2.png?raw=true"
       alt=""
       className="absolute inset-0 z-[-1] translate-y-[50px] translate-x-[30px] md:hidden w-[100%] h-auto"
     />
