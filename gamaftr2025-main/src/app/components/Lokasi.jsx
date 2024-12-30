@@ -130,12 +130,12 @@ const Lokasi = () => {
                 <li><strong>Waktu: </strong> 07.30 - Selesai</li>
             </ul>
             <ul className='mb-2 font-outfit'>
-                <li><strong>Lokasi: </strong> SMAN 2 Mandau</li>
+                <li><strong>Lokasi: </strong> SMAN 8 Mandau</li>
                 <li><strong>Tanggal: </strong> 18 Januari 2025</li>
                 <li><strong>Waktu: </strong> 07.30 - Selesai</li>
             </ul>
             <ul className='mb-2 font-outfit'>
-                <li><strong>Lokasi: </strong> SMAN 2 Dumai</li>
+                <li><strong>Lokasi: </strong> SMAN 1 Dumai</li>
                 <li><strong>Tanggal: </strong> 19 Januari 2025</li>
                 <li><strong>Waktu: </strong> 07.30 - Selesai</li>
             </ul>
