@@ -88,7 +88,7 @@ const Lokasi = () => {
             <ul className="font-outfit">
                 <li><strong>Lokasi: </strong> 45+ SMA/SMK/MA, Online/Offline</li>
                 <li><strong>Tanggal: </strong> 6-17 Januari 2025</li>
-                <li><strong>Waktu: </strong> -</li>
+            
             </ul>
         </div>
     <div className="modal-action">
