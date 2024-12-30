@@ -9,15 +9,14 @@ const Cardsmall = () => {
   return (
   <div className="relative flex flex-col items-center px-8 mt-2 pt-36 md:top-36 lg:w-1/3 md:mt-12">
     <img loading="lazy" className="absolute md:hidden bottom-[800px] z-10 w-[80%] h-auto translate-x-[50px] animate-random2" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/combo1.png?raw=true" />
-{/*     <img loading="lazy" className="absolute animate-spiral translate-x-[-200px] translate-y-[-150px] md:hidden w-[15%] h-auto" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/ball1.png?raw=true" /> */}
-{/*     <img loading="lazy" className="absolute md:hidden bottom-[500px] z-10 rotate-[100deg] translate-x-[200px] md:hidden w-[57%] h-auto" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cylinder2.png?raw=true"/> */}
-{/*     <img loading="lazy" className="absolute md:hidden bottom-[200px] z-10 rotate-[100deg] translate-x-[100px] md:hidden w-[55%] h-auto" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cylinder2.png?raw=true"/> */}
-  {/*  <img loading="lazy" className="absolute md:hidden bottom-[-100px] z-10 rotate-[100deg] translate-x-[10px] md:hidden w-[52%] h-auto" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cylinder2.png?raw=true"/> */}
+{/*<img loading="lazy" className="absolute animate-spiral translate-x-[-200px] translate-y-[-150px] md:hidden w-[15%] h-auto" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/ball1.png?raw=true" /> */}
+{/*<img loading="lazy" className="absolute md:hidden bottom-[500px] z-10 rotate-[100deg] translate-x-[200px] md:hidden w-[57%] h-auto" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cylinder2.png?raw=true"/> */}
+{/*<img loading="lazy" className="absolute md:hidden bottom-[200px] z-10 rotate-[100deg] translate-x-[100px] md:hidden w-[55%] h-auto" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cylinder2.png?raw=true"/> */}
+  {/*<img loading="lazy" className="absolute md:hidden bottom-[-100px] z-10 rotate-[100deg] translate-x-[10px] md:hidden w-[52%] h-auto" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cylinder2.png?raw=true"/> */}
     {/*<img loading="lazy" className="absolute md:hidden bottom-[800px] z-10 w-[80%] h-auto translate-x-[50px] animate-random2" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/combo1.png?raw=true" />*/}
     
     <div className="sm:hidden" id='ticket1'>
     <div className="flex flex-col sm:flex-row mx-auto min-h-screen items-center justify-center bg-[#FFFFFFF]/0 gap-4 xl:pt-60 md:pb-12 lg:my-[10px] relative">
-
     <div className="relative z-40 flex justify-center p-2 text-5xl md:text-8xl xl:text-8xl lg:text-8xl font-extrabold leading-normal text-gray-300 bg-[#8c8c8c]/20  font-audiowide backdrop-blur-lg temb-2 border-[4px] border-white  text-border-white md:leading-relaxed rounded-2xl">TICKET</div>
 
       
