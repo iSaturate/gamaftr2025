@@ -31,33 +31,9 @@ const Lokasi = () => {
   <div>
     <img
       loading="lazy"
-      src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cylinder2.png?raw=true"
-      alt=""
-      className="absolute inset-0 z-10 rotate-[100deg] translate-y-[180px] translate-x-[330px] md:hidden w-[60%] h-auto"
-    />
-  </div>
-  <div>
-    <img
-      loading="lazy"
-      src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cylinder2.png?raw=true"
-      alt=""
-      className="absolute inset-0 z-10 rotate-[100deg] translate-y-[50px] translate-x-[230px] md:hidden w-[57%] h-auto"
-    />
-  </div>
-  <div>
-    <img
-      loading="lazy"
-      src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cylinder2.png?raw=true"
-      alt=""
-      className="absolute inset-0 z-10 rotate-[100deg] translate-y-[-60px] translate-x-[130px] md:hidden w-[55%] h-auto"
-    />
-  </div>
-  <div>
-    <img
-      loading="lazy"
       src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/plane1.png?raw=true"
       alt=""
-      className="absolute inset-0 z-[-1] rotate-[45deg] translate-y-[-290px] translate-x-[20px] md:hidden w-[49%] h-auto"
+      className="absolute inset-0 z-[-1] rotate-[45deg] translate-y-[-300px] translate-x-[20px] md:hidden w-[49%] h-auto"
     />
   </div>
   <div>
