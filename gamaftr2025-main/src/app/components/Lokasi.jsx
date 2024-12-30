@@ -16,7 +16,7 @@ const Lokasi = () => {
     <img
       loading="lazy"
       src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Group%201461.png?raw=true"
-      alt=""
+      alt="hero"
       className="absolute inset-0 z-10 translate-y-[90px] translate-x-[100px] md:hidden w-[100%] h-auto"
     />
   </div>
@@ -24,7 +24,7 @@ const Lokasi = () => {
     <img
       loading="lazy"
       src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/plane1.png?raw=true"
-      alt=""
+      alt="hero"
       className="absolute inset-0 z-[-1] rotate-[45deg] translate-y-[-200px] translate-x-[-20px] md:hidden w-[47%] h-auto"
     />
   </div>
@@ -32,7 +32,7 @@ const Lokasi = () => {
     <img
       loading="lazy"
       src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/AwanSempurna2.png?raw=true"
-      alt=""
+      alt="hero"
       className="absolute inset-0 z-[-1] translate-y-[50px] translate-x-[30px] md:hidden w-[100%] h-auto"
     />
   </div>
