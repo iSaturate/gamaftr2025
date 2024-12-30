@@ -3,7 +3,7 @@ import React from 'react';
 
 const Cardsmall = () => {
   function handleClick() {
-    window.location.href = "https://bit.ly/PRESALE1GAMAFTR2025";
+    window.location.href = "https://bit.ly/PRE-SALE2GAMAFTR2025";
   }
 
   return (
