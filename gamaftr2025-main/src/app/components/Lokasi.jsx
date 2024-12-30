@@ -17,7 +17,7 @@ const Lokasi = () => {
       loading="lazy"
       src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/ball1.png?raw=true"
       alt=""
-      className="absolute z-[-1] z-40 object cover bottom-[30px] md:hidden w-[25%] h-auto animate-spiral"
+      className="absolute z-40 object cover bottom-[30px] md:hidden w-[25%] h-auto animate-spiral"
     />
   </div>
   <div>
