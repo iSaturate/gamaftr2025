@@ -11,12 +11,64 @@ const Lokasi = () => {
             <div className="absolute z-40 left-[0%] bottom-[0%] translate-x-1/3 sm:hidden translate-y-1/2">
             <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Cloud.png?raw=true" alt="" className="animate-cloud-move-loop sm:animate-cloud-move-loop-sm md:animate-cloud-move-loop-md lg:animate-cloud-move-loop-lg" /> </div>
 {/*     <div className="relative"><img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/ball1.png?raw=true" alt="" className="bottom-[30px] md:hidden w-[25%] h-auto animate-spiral" /> </div> */}
-    <div className="relative"><img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Group%201461.png?raw=true" alt="" className="translate-y-[-100px] translate-x-[100px] md:hidden w-[100%] h-auto" /> </div>
-    <div className="relative"><img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cylinder2.png?raw=true" alt="" className="rotate-[100deg] translate-y-[180px] translate-x-[340px] md:hidden w-[60%] h-auto" /> </div>
-    <div className="relative"><img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cylinder2.png?raw=true" alt="" className="rotate-[100deg] translate-y-[50px] translate-x-[240px] md:hidden w-[57%] h-auto" /> </div>
-    <div className="relative"><img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cylinder2.png?raw=true" alt="" className="rotate-[100deg] translate-y-[-60px] translate-x-[140px] md:hidden w-[55%] h-auto" /> </div>
-    <div className="relative"><img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/plane1.png?raw=true" alt="" className="rotate-[45deg] translate-y-[-290px] translate-x-[15px] md:hidden w-[50%] h-auto" /> </div>
-    <div className="relative"><img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/CloudDouble.png?raw=true" alt="" className="translate-y-[50px] translate-x-[30px] md:hidden w-[100%] h-auto" /> </div>
+    <div className="overflow-hidden">
+  <div>
+    <img
+      loading="lazy"
+      src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/ball1.png?raw=true"
+      alt=""
+      className="bottom-[30px] md:hidden w-[25%] h-auto animate-spiral"
+    />
+  </div>
+  <div>
+    <img
+      loading="lazy"
+      src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Group%201461.png?raw=true"
+      alt=""
+      className="translate-y-[-100px] translate-x-[100px] md:hidden w-[100%] h-auto"
+    />
+  </div>
+  <div>
+    <img
+      loading="lazy"
+      src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cylinder2.png?raw=true"
+      alt=""
+      className="rotate-[100deg] translate-y-[180px] translate-x-[330px] md:hidden w-[60%] h-auto"
+    />
+  </div>
+  <div>
+    <img
+      loading="lazy"
+      src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cylinder2.png?raw=true"
+      alt=""
+      className="rotate-[100deg] translate-y-[50px] translate-x-[230px] md:hidden w-[57%] h-auto"
+    />
+  </div>
+  <div>
+    <img
+      loading="lazy"
+      src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cylinder2.png?raw=true"
+      alt=""
+      className="rotate-[100deg] translate-y-[-60px] translate-x-[130px] md:hidden w-[55%] h-auto"
+    />
+  </div>
+  <div>
+    <img
+      loading="lazy"
+      src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/plane1.png?raw=true"
+      alt=""
+      className="rotate-[45deg] translate-y-[-290px] translate-x-[20px] md:hidden w-[50%] h-auto"
+    />
+  </div>
+  <div>
+    <img
+      loading="lazy"
+      src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/CloudDouble.png?raw=true"
+      alt=""
+      className="translate-y-[50px] translate-x-[30px] md:hidden w-[100%] h-auto"
+    />
+  </div>
+</div>
     <h1 className="hidden sm:pt-10  text-3xl font-extrabold text-gray-300 s,:text-center sm:flex sm:justify-center rounded-x1 font-audiowide md:text-5xl text lg:text-7xl md:pt-5 text-border-white">RANGKAIAN ACARA</h1>
     <div className="justify-center scale-75 xl:scale-75 sm:scale-[70%]  lg:scale-[60%] md:scale-[45%] md:-translate-y-[50px]  sm:-translate-y-[30px] sm:flex sm:flex-row-2 sm:gap-6 sm:grid-flow-col">
     <div className="md:w-1/2 md:px-8 sm:hidden scale-100 text-7xl font-audiowide font-bold text-gray-300 rounded-2xl bg-[#8c8c8c]/20 backdrop-blur-md shadow-xl xl:text-8xl backdrop-blur-lg p-4 lg:py-0 xl:p-4 pl-10mr-[180px] relative z-40 text-center border-white border-[4px] text-border-white">EVENTS</div>
