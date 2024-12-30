@@ -57,7 +57,7 @@ const Lokasi = () => {
             <ul className="font-outfit">
                 <li><strong>Lokasi: </strong> Car Free Day Jl. Sudirman, Pekanbaru</li>
                 <li><strong>Tanggal: </strong> 5 Januari 2025</li>
-                <li><strong>Waktu: </strong> 07.00 - 09.00</li>
+                <li><strong>Waktu: </strong> 06.30 - 08.30</li>
             </ul>
         </div>
     <div className="modal-action">
