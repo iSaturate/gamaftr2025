@@ -10,7 +10,8 @@ const Cardsmall = () => {
   <div className="relative flex flex-col items-center px-8 mt-2 pt-36 md:top-36 lg:w-1/3 md:mt-12">
     <img loading="lazy" className="absolute md:hidden bottom-[800px] z-10 w-[80%] h-auto translate-x-[50px] animate-random2" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/combo1.png?raw=true" />
     <img loading="lazy" className="absolute animate-spiral translate-x-[-200px] translate-y-[-150px] md:hidden w-[15%] h-auto" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/ball1.png?raw=true" />
-    <img loading="lazy" className="absolute inset-0 z-10 rotate-[100deg] translate-y-[50px] translate-x-[230px] md:hidden w-[57%] h-auto" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cylinder2.png?raw=true"/>
+    <img loading="lazy" className="absolute md:hidden bottom-[400px] z-10 rotate-[100deg] translate-x-[230px] md:hidden w-[57%] h-auto" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/cylinder2.png?raw=true"/>
+    {/*<img loading="lazy" className="absolute md:hidden bottom-[800px] z-10 w-[80%] h-auto translate-x-[50px] animate-random2" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/combo1.png?raw=true" />*/}
     
     <div className="sm:hidden" id='ticket1'>
     <div className="flex flex-col sm:flex-row mx-auto min-h-screen items-center justify-center bg-[#FFFFFFF]/0 gap-4 xl:pt-60 md:pb-12 lg:my-[10px] relative">
