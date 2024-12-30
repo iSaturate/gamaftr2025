@@ -33,7 +33,7 @@ const Lokasi = () => {
       loading="lazy"
       src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/plane1.png?raw=true"
       alt=""
-      className="absolute inset-0 z-[-1] rotate-[45deg] translate-y-[-400px] translate-x-[20px] md:hidden w-[47%] h-auto"
+      className="absolute inset-0 z-[-1] rotate-[45deg] translate-y-[-300px] translate-x-[-20px] md:hidden w-[47%] h-auto"
     />
   </div>
   <div>
