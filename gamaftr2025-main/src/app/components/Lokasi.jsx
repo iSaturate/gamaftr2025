@@ -17,7 +17,7 @@ const Lokasi = () => {
       loading="lazy"
       src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/ball1.png?raw=true"
       alt=""
-      className="absolute z-40 object cover bottom-[30px] md:hidden w-[25%] h-auto animate-spiral"
+      className="absolute z-30 bottom-[30px] md:hidden w-[25%] h-auto animate-spiral"
     />
   </div>
   <div>
@@ -25,7 +25,7 @@ const Lokasi = () => {
       loading="lazy"
       src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Group%201461.png?raw=true"
       alt=""
-      className="absolute z-[-1]  object cover translate-y-[-100px] translate-x-[100px] md:hidden w-[100%] h-auto"
+      className="absolute z-30 translate-y-[-100px] translate-x-[100px] md:hidden w-[100%] h-auto"
     />
   </div>
   <div>
