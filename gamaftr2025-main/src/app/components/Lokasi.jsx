@@ -102,7 +102,7 @@ const Lokasi = () => {
     <div className="justify-end card-actions">
     <div className="dropdown dropdown-right">
   <div tabIndex={0} role="button" className="border-none btn btn-primary bg-space1 hover:bg-white hover:text-space2  text-white font-outfit">Lokasi</div>
-  <ul tabIndex={0} className="dropdown-content z-[1] menu p-2 shadow bg-space1  rounded-box w-52 font-outfit">
+  <ul tabIndex={0} className="dropdown-content z-[1] menu p-2 shadow bg-space1 text-white hover:text-white hover:bg-space2 rounded-box w-52 font-outfit">
     <li><a href='https://maps.app.goo.gl/bbtERxCf86KVU3bh9'>Pekanbaru</a></li>
     <li><a href='https://maps.app.goo.gl/LgRTC7j3Lsm8PUPh7'>Duri</a></li>
     <li ><a href='https://maps.app.goo.gl/ADuTGvnta6cP1XZU9'>Dumai</a></li>
