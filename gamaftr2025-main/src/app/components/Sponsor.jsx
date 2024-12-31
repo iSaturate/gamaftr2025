@@ -54,7 +54,7 @@ const Sponsor = () => {
     <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/mediapartener/Riau%20reportase.png?raw=true" alt="" className="hidden w-9 h-9" />
     <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/mediapartener/Riaufolk.png?raw=true" alt="" className=" w-9 h-9" />
     <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/media%20partner/LOGO%20RADIO%20ADITYA%20(1).png?raw=true" alt="" className=" w-9 h-9" />
-    <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/media%20partner/Logi baru rri pku.jpg?raw=true" alt="" className=" w-9 h-9" />
+    <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/media%20partner/Logi baru rri pku.png?raw=true" alt="" className=" w-9 h-9" />
   </div>
 
   {/* Second Row */}
