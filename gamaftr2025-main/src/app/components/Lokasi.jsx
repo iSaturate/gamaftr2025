@@ -102,10 +102,10 @@ const Lokasi = () => {
     <div className="justify-end card-actions">
     <div className="dropdown dropdown-right">
   <div tabIndex={0} role="button" className="border-none btn btn-primary bg-space1 hover:bg-white hover:text-space2  text-white font-outfit">Lokasi</div>
-  <ul tabIndex={0} className="dropdown-content z-[1] menu p-2 shadow bg-base-100 rounded-box w-52 font-outfit">
+  <ul tabIndex={0} className="dropdown-content z-[1] menu p-2 shadow bg-space1  rounded-box w-52 font-outfit">
     <li><a href='https://maps.app.goo.gl/bbtERxCf86KVU3bh9'>Pekanbaru</a></li>
-    <li><a href='https://maps.app.goo.gl/p92DtTRYTEaXPsPT8'>Duri</a></li>
-    <li ><a href='https://maps.app.goo.gl/NBi4vTxm2My8aCGr8'>Dumai</a></li>
+    <li><a href='https://maps.app.goo.gl/LgRTC7j3Lsm8PUPh7'>Duri</a></li>
+    <li ><a href='https://maps.app.goo.gl/ADuTGvnta6cP1XZU9'>Dumai</a></li>
   </ul>
 </div>
       <button className="border-none bg-space1 hover:bg-white hover:text-space2 text-white font-outfit btn" onClick={()=>document.getElementById('my_modal_3').showModal()}>See All</button>
