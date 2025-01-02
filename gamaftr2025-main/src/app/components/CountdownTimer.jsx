@@ -57,7 +57,7 @@ const CountdownTimer = () => {
     <div className="relative flex items-center justify-center w-ful mx-5  md:h-screen count md:pt-10 timeline lg:px-2 gap-6 xl:ml-5 mb-5 pb-16">
       <div className="absolute inset-y-0 inset-x-0 left-0 z-40 flex items-center w-2/3 md:w-full rocket xl:mr-3 lg:ml-7">
         
-        <img loading="lazy" className="absolute z-25 hidden md:block scale-[110%] 2xl:max-w-[1900px] md:translate-y-[100px] xl:translate-y-[270px]" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/landscape%2Bawan.png?raw=true" />
+        <img loading="lazy" className="absolute z-25 hidden md:block scale-[110%] 2xl:max-w-[1900px] md:translate-y-[100px] xl:translate-y-[400px]" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/landscape%2Bawan.png?raw=true" />
         <img loading="lazy" className="absolute z-25 hidden md:block scale-[90%] 2xl:max-w-[1900px] md:translate-y-[400px] xl:translate-y-[270px] rotate-[180deg]" alt="hero" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Group%201461.png?raw=true" />
       </div>
       <div className="relative z-40 md:items-center md:flex">
