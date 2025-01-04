@@ -9,7 +9,7 @@ const Footer = () => {
     <footer className="flex p-2 md:items-center sm:justify-between gap-[10px] md:gap-[40px] md:p-10 md:rounded-full shadow-2xl footer bg-space1/40 backdrop-blur-lg text-white shadow-red-700 md:scale-100 md:px-36 relative z-40">
   <aside className='flex'>
   <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Gamaft/logogamaftr2025%20(2).png?raw=true" alt="" className="max-w-[60px] md:max-w-[150px] md:pl-4 pl-1 ml-3" />
-    <p className='text-sm font-bold text-white lg:block md:pt-7 lg:text-lg font-audiowide'>Gadjah Mada <br className='text-sm'/>Flies To Riau 2025<br />©IT GAMAFTR </p> */}
+    <p className='text-sm font-bold text-white lg:block md:pt-7 lg:text-lg font-audiowide'>Gadjah Mada <br className='text-sm'/>Flies To Riau 2025<br />©IT GAMAFTR </p>
     {/*<p className='block text-[10px] font-bold text-white lg:hidden md:pt-7 lg:text-lg font-audiowide pt-5'>©IT GAMAFTR </p>*/}
   </aside> 
   <nav className=''>
