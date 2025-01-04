@@ -3,7 +3,7 @@ import React from 'react';
 
 const Ticket = () => {
   function handleClick() {
-    window.location.href = "https://bit.ly/PRE-SALE2GAMAFTR2025";
+    window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLScXFRlX1OBAINBC4OZZuw9QVVFlz_loqLcidOCD4xqtEsT8-g/viewform?usp=dialog";
   }
   
   return (
