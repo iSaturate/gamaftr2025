@@ -3,7 +3,7 @@ import React from 'react';
 
 const Ticket = () => {
   function handleClick() {
-    window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLScXFRlX1OBAINBC4OZZuw9QVVFlz_loqLcidOCD4xqtEsT8-g/viewform?usp=dialog";
+    window.location.href = "https://forms.gle/m8f81vfyfnFu8RBf8";
   }
   
   return (
