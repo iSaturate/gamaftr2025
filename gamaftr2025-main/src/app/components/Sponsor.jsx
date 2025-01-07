@@ -22,13 +22,13 @@ const Sponsor = () => {
                 <div className=" max-w-[230px] md:max-w-[400px] p-[5%]">
                     <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/sponsor/Tupperware%20-%20Riau%20Cahaya-PhotoRoom.png?raw=true" alt="" className="" />
                 </div>
-                <div className=" max-w-[120px] md:max-w-[220px] p-[5%]">
+                <div className="max-w-[230px] md:max-w-[400px] p-[5%]">
                     <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/AGUNG%20TOYOTA%20min.png?raw=true" alt="" className="" />
                 </div>
-                <div className=" max-w-[120px] md:max-w-[220px] p-[5%]">
+                <div className="max-w-[230px] md:max-w-[400px] p-[5%]">
                     <img src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/kagamariau.jpg?raw=true" alt="" className="w-24" />
                 </div>
-                <div className=" max-w-[120px] md:max-w-[220px] p-[5%]">
+                <div className="max-w-[230px] md:max-w-[400px] p-[5%]">
                     <img src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/brksyariah.jpg?raw=true" alt="" className="w-12" />
                 </div>
                 </div>
