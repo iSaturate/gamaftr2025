@@ -16,7 +16,7 @@ const Sponsor = () => {
                 <div className=" max-w-[190px] md:max-w-[350px] p-[5%] pb-0">
                     <img loading="lazy" src="https://github.com/iSaturate/gamaftrfoto/blob/main/gamaftrfoto/Logo_Ruang_Guru.png?raw=true" alt="" className="" />
                 </div>
-                <div className="hidden max-w-[190px] md:max-w-[350px] p-[5%] pb-0">
+                <div className="max-w-[190px] md:max-w-[350px] p-[5%] pb-0">
                     <img loading="lazy" src="https://github.com/SyaidFarhan/Gamaftr/blob/main/media%20partner/download.png?raw=true" alt="" className="" />
                 </div>
                 <div className=" max-w-[230px] md:max-w-[400px] p-[5%]">
